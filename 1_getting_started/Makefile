@@ -13,4 +13,4 @@ all:
 	make optimusprime
 	
 clean:
-	rm -f prime optimusprime
+	rm -f prime optimusprime prime.csv optimusprime.csv *.o*
