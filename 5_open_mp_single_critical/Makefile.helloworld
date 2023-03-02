@@ -1,0 +1,13 @@
+CXX = g++
+CXXFLAGS = -Wall -Wextra
+
+all: helloworld helloworld_openmp
+
+helloworld: helloworld.cc
+	$(CXX) $(CXXFLAGS) $< -o $@
+
+helloworld_openmp: helloworld_openmp.cc
+	$(CXX) $(CXXFLAGS) -fopenmp $< -o $@
+
+clean:
+	rm -f helloworld helloworld_openmp

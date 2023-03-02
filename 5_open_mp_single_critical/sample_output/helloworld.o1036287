@@ -1,0 +1,13 @@
+Starting job on compute-0-33.extreme at Thu Feb 16 14:47:08 CST 2023 
+
+
+Running Hello World!
+Hello, World!
+
+Running Parallel Hello World!!
+Hello, World! (thread 0)
+Hello, World! (thread 1)
+Hello, World! (thread 3)
+Hello, World! (thread 2)
+There were 4 threads.
+Job completed at Thu Feb 16 14:47:08 CST 2023
