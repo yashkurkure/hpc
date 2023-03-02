@@ -1,0 +1,24 @@
+Starting job on compute-0-33.extreme at Thu Mar  2 10:46:56 CST 2023 
+
+
+Thread 3 is processing iteration 15
+Thread 3 is processing iteration 16
+Thread 3 is processing iteration 17
+Thread 3 is processing iteration 18
+Thread 3 is processing iteration 19
+Thread 0 is processing iteration 0
+Thread 0 is processing iteration 1
+Thread 0 is processing iteration 2
+Thread 0 is processing iteration 3
+Thread 0 is processing iteration 4
+Thread 2 is processing iteration 10
+Thread 2 is processing iteration 11
+Thread 2 is processing iteration 12
+Thread 2 is processing iteration 13
+Thread 2 is processing iteration 14
+Thread 1 is processing iteration 5
+Thread 1 is processing iteration 6
+Thread 1 is processing iteration 7
+Thread 1 is processing iteration 8
+Thread 1 is processing iteration 9
+Job completed at Thu Mar  2 10:46:56 CST 2023

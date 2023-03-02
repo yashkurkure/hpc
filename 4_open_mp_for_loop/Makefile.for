@@ -7,4 +7,4 @@ for_example: for_example.cc
 	$(CXX) $(CXXFLAGS) $< -o $@
 
 clean:
-	rm -f for_example
+	rm -f for_example *.o* *.e*

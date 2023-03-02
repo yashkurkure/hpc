@@ -1,5 +1,5 @@
 #include <omp.h>
-#include <iostream>
+#include <stdio.h>
 
 int main() 
 {
@@ -7,7 +7,7 @@ int main()
     {
         #pragma omp for
         for (int i = 0; i < 20; i++) {
-            std::cout << "Thread " << omp_get_thread_num() << " is processing iteration " << i << std::endl;
+            printf("Thread %d is processing iteration %d\n", omp_get_thread_num(), i);
         }
     }
     return 0;
