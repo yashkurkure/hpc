@@ -42,3 +42,6 @@ cat *.o*
 ```
 
 The intial value inside the private block is not carried over from the outside.
+
+## Links
+https://stackoverflow.com/questions/15468367/openmp-performance-impact-private-directive-vs-declaring-variable-inside-for-c
