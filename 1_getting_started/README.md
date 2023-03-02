@@ -1,6 +1,6 @@
 # Getting Started
 
-Executing a code on a super computer
+Executing a program on a super computer
 
 ## Project Structure
 
