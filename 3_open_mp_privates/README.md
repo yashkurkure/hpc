@@ -24,6 +24,15 @@ Then add the private() clause to the pragma directive, while mentioning the vair
 }
 ```
 
+### Local variables are default private
+https://stackoverflow.com/questions/6358375/openmp-are-local-variables-automatically-private
+```
+#pragma omp parallel
+{
+    int x; // private to each
+}
+```
+
 ### What is the value of these varibles after execution of the code in the directive?
 Run
 ```
