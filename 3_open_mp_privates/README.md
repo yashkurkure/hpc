@@ -1,20 +1,44 @@
-# Parallelized hello world
+# Parallelized hello world with Privates
 
 A simple hello world program that is parallelized using OpenMP
 
 ## Whats new?
 
-The pragma directive.
+### Adding private vairables to each thread
+
+Declare variables that you want to be private, i.e, each thread will have its own copy.
 ```
-#pragma omp parallel
+int num_threads, thread_id;
+```
+
+Then add the private() clause to the pragma directive, while mentioning the vairables that will be private.
+```
+#pragma omp parallel private(num_threads, thread_id)
 {
-    printf("Hello World\n");
+    thread_id = omp_get_thread_num();
+    printf("Hello World. This thread is %d\n", thread_id);
+    if(thread_id == 0){
+        num_threads = omp_get_num_threads();
+        printf("Total # of threads is: %d\n", num_threads);
+    }
 }
 ```
-Once you surround the peice of code you want to parallelize, OpenMP will run this on `$OMP_NUM_THREADS` number of threads.
-The environment variable `$OMP_NUM_THREADS` can be set in the PBS script.
+
+### What is the value of these varibles after execution of the code in the directive?
+Run
 ```
-# look in hello_world.pbs
-export OMP_NUM_THREADS=4
+make omp_privates2
+qsub omp_privates.pbs
+cat *.o*
 ```
-Check `Makefile` for directions to compile `.cc` files that include `omp.h`.
+The value of the vairables after the execution of the parallel block will be the same as what it was at the point initially.
+
+## Can the intial values of the vairables be access in the directive?
+No. See omp_privates3.cc.
+```
+make omp_privates3
+qsub omp_privates.pbs
+cat *.o*
+```
+
+The intial value inside the private block is not carried over from the outside.

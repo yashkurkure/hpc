@@ -1,0 +1,12 @@
+Starting job on compute-0-33.extreme at Wed Mar  1 23:09:52 CST 2023 
+
+
+Hello World. This thread is 3
+Hello World. This thread is 1
+Hello World. This thread is 2
+Hello World. This thread is 0
+Total # of threads is: 4
+***OUTSIDE PARALLEL BLOCK***
+num_threads = 0
+thread_id = 0
+Job completed at Wed Mar  1 23:09:52 CST 2023

@@ -1,10 +1,16 @@
 CXX = g++
 CXXFLAGS = -Wall -Wextra -fopenmp
 
-all: hello_world
+all: omp_privates
 
-hello_world: hello_world.cc
+omp_privates: omp_privates.cc
 	$(CXX) $(CXXFLAGS) $< -o $@
 
+omp_privates2: omp_privates2.cc
+	$(CXX) $(CXXFLAGS) $< -o omp_privates
+
+omp_privates3: omp_privates3.cc
+	$(CXX) $(CXXFLAGS) $< -o omp_privates
+
 clean:
-	rm -f hello_world *.o* *.e*
+	rm -f omp_privates *.o* *.e*
