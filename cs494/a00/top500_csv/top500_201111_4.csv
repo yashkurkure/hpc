@@ -1,0 +1,101 @@
+Rank,System,Cores,Rmax (TFlop/s),Rpeak (TFlop/s),Power (kW)
+301,"BladeCenter HS22 Cluster, Xeon QC X55xx 2.26 GHz, GigE,                 IBM                Financial Services (H)United States",13280,63.83,120.05,436
+302,"xSeries x3850M2 Cluster Xeon QC GT 2.53 GHz, GigEthernet,                 IBM                Banking (M)United States",11264,63.72,113.99,324
+303,"xSeries x3650M3 Cluster, Xeon X5650 6C 2.66 GHz, Gigabit Ethernet,                 IBM                Network Company (B)United States",11304,63.7,120.28,350
+304,"Cluster Platform 3000 BL280c G6, Xeon X5670 2.93Ghz, Infiniband QDR,                 HPE                Saudi AramcoSaudi Arabia",6144,63.42,72.01,
+305,"PLCI - Dell PowerEdge M610 Cluster, Xeon X5670 2.93Ghz, Infiniband QDR,                 ClusterVision/Dell                Saudi AramcoSaudi Arabia",6144,63.15,72.01,
+306,"Cluster Platform 3000 BL460c G7, Xeon X5670 2.93 Ghz, GigE,                 HPE                Arrow Enterprise Computing SolutionsUnited States",10314,63.14,120.88,
+307,"BladeCenter HS22 Cluster, Xeon QC GT 2.66 GHz, GigEthernet,                 IBM                Engineering CompanyChina",11144,63.04,118.57,366
+308,"BladeCenter HS22 Cluster, Xeon QC GT 2.66 GHz, GigEthernet,                 IBM                Engineering CompanyChina",11144,63.04,118.57,366
+309,"BladeCenter HS22 Cluster, Xeon QC GT 2.66 GHz, GigEthernet,                 IBM                Engineering CompanyChina",11144,63.04,118.57,366
+310,"HP DL160 Cluster G6, Xeon E5645 6C 2.40 GHz, Gigabit Ethernet,                 HPE                Telecommunication CompanyJapan",12640,62.82,121.34,
+311,"iDataPlex, Xeon E55xx QC 2.26 GHz, GigEthernet,                 IBM                Financial Institution (P)France",13056,62.75,118.03,375
+312,"xSeries x3650 Cluster Xeon QC GT 2.66 GHz, Infiniband,                 IBM                Banking (M)United States",6808,62.73,72.6,298
+313,"BladeCenter HS22 Cluster, Xeon QC X55xx 2.53 GHz, GigEthernet,                 IBM                IT Services Provider (C)United States",11048,62.5,111.81,349
+314,"BladeCenter HS22 Cluster, Xeon QC X55xx 2.53 GHz, GigEthernet,                 IBM                IT Services Provider (C)United States",11048,62.5,111.81,349
+315,"BladeCenter HS22 Cluster (WM), Xeon X5670 6C 2.93 GHz, Gigabit Ethernet,                 IBM                Telecommunication CompanyChina",11016,62.32,129.11,309
+316,"BladeCenter HS22 Cluster, WM Xeon 6-core 2.66Ghz, Infiniband,                 IBM                ElectronicsUnited States",6576,62.24,69.97,176
+317,"BladeCenter HS22 Cluster, WM Xeon 6-core 2.66Ghz, Infiniband,                 IBM                ElectronicsUnited States",6576,62.24,69.97,176
+318,"xSeries x3650M3 Cluster, Xeon X5670 6C 2.93 GHz, Gigabit Ethernet,                 IBM                Banking (M)United States",11028,62.14,129.25,351
+319,"xSeries x3650M3 Cluster, Xeon X5670 6C 2.93 GHz, Gigabit Ethernet,                 IBM                Banking (M)United States",11028,62.14,129.25,351
+320,"xSeries x3650M3 Cluster, Xeon X5670 6C 2.93 GHz, Gigabit Ethernet,                 IBM                Banking (M)United States",11028,62.14,129.25,351
+321,"xSeries x3650M3 Cluster, Xeon X5670 6C 2.93 GHz, Gigabit Ethernet,                 IBM                Banking (M)United States",11028,62.14,129.25,351
+322,"xSeries x3650M3 Cluster, Xeon X5670 6C 2.93 GHz, Gigabit Ethernet,                 IBM                Banking (M)United States",11028,62.14,129.25,351
+323,"xSeries x3650M3 Cluster, Xeon X5670 6C 2.93 GHz, Gigabit Ethernet,                 IBM                Banking (M)United States",11028,62.14,129.25,351
+324,"Cluster Platform 3000 BL460c G7, Xeon X5670 2.93 Ghz, GigE,                 HPE                IT Service ProviderUnited States",10110,61.94,118.49,
+325,"Cluster Platform 4000 BL465c G7, Opteron 6174 12C 2.20 GHz, Gigabit Ethernet,                 HPE                IT Service Provider (D)United States",13632,61.81,119.96,
+326,"Ekman - PowerEdge SC1435 Dual core Opteron 2.2 GHz, Infiniband,                 DELL EMC                KTH - Royal Institute of TechnologySweden",9800,61.76,86.02,
+327,"Cluster Platform 3000 BL460c G6, Xeon E5670 2.93 GHz, GigE,                 HPE                IT Service ProviderUnited States",10056,61.63,117.86,
+328,"DEGIMA - DEGIMA Cluster, Intel i5, ATI Radeon GPU, Infiniband QDR,                 Self-made                Nagasaki UniversityJapan",9900,61.41,138.93,
+329,"Tsessebe - Blade X6275/ PowerEdge C6100 Cluster, Xeon X5570/X5670/ 4C 2.93 GHz, Infiniband QDR,                 Dell/Oracle                Centre for High Performance ComputingSouth Africa",6336,61.33,74.26,
+330,"Todi - Cray XK6, Opteron 6272 16C 2.10 GHz, Cray Gemini interconnect, NVIDIA 2090,                 Cray/HPE                Swiss National Supercomputing Centre (CSCS)Switzerland",5632,60.81,140.69,
+331,"iDataPlex DX360M3, Xeon X5660 6C 2.80 GHz, Infiniband QDR,                 IBM                NASA/Goddard Space Flight CenterUnited States",6144,60.73,68.81,144
+332,"BladeCenter HS22 Cluster, WM Xeon 6-core 2.66Ghz, Infiniband,                 IBM                Lockheed MartinUnited States",6372,60.31,67.8,170
+333,"BladeCenter HS22 Cluster, WM Xeon 6-core 2.66Ghz, Infiniband,                 IBM                Lockheed MartinUnited States",6372,60.31,67.8,170
+334,"Cluster Platform 3000 SL2x170z, Xeon L5680 3.33 GHz, Infiniband,                 HPE                IT Service ProviderUnited States",5760,60.19,76.72,
+335,"Cluster Platform 3000 SL2x170z, Xeon L5680 3.33 GHz, Infiniband,                 HPE                IT Service ProviderUnited States",5760,60.19,76.72,
+336,"Cluster Platform 3000 SL2x170z, Xeon L5680 3.33 GHz, Infiniband,                 HPE                IT Service ProviderUnited States",5760,60.19,76.72,
+337,"Cluster Platform 3000 BL460c G7, Xeon X5670 2.93 Ghz, GigE,                 HPE                IT Service ProviderUnited Kingdom",9768,59.93,114.48,
+338,"HP DL160 Cluster G6, Xeon E5645 6C 2.40 GHz, Gigabit Ethernet,                 HPE                Web Content ProviderRussia",12024,59.9,115.43,
+339,"bluefire - Power 575, p6 4.7 GHz, Infiniband,                 IBM                National Center for Atmospheric Research (NCAR)United States",4064,59.68,76.4,649
+340,"Cluster Platform 3000 BL460c G7, Xeon X5650 6C 2.66 GHz, Gigabit Ethernet,                 HPE                IT Services Provider United States",10752,59.64,114.4,
+341,"Cluster Platform 3000 BL460c G7, Xeon X5650 6C 2.66 GHz, Gigabit Ethernet,                 HPE                IT Services Provider United States",10752,59.64,114.4,
+342,"Cluster Platform 3000 BL460c G7, Xeon X5650 6C 2.66 GHz, Gigabit Ethernet,                 HPE                IT Services Provider United States",10752,59.64,114.4,
+343,"Cluster Platform 3000 BL460c G7, Xeon X5675 6C 3.06 GHz, Infiniband QDR,                 HPE                IT Services Provider Japan",6204,59.47,75.94,
+344,"Cluster Platform 3000 BL460c G7, Xeon X5675 6C 3.06 GHz, Infiniband QDR,                 HPE                IT Services Provider Japan",6204,59.47,75.94,
+345,"Cluster Platform 3000 BL2x220, L54xx 2.33 Ghz, GigE,                 HPE                Web Content Provider (W)United States",12288,59.37,114.67,
+346,"BladeCenter HS22 Cluster, WM Xeon 6-core 2.93Ghz, GigE,                 IBM                Financial Services (H)United States",10452,59.13,122.5,293
+347,"BladeCenter HS22 Cluster, WM Xeon 6-core 2.93Ghz, GigE,                 IBM                Financial Services (H)United States",10452,59.13,122.5,293
+348,"Cluster Platform 3000 BL 2x220, Xeon L5420 4C 2.50 GHz, Gigabit Ethernet,                 HPE                Grupa AllegroPoland",10748,59.11,107.48,
+349,"Cluster Platform 3000 BL490c, Xeon X5670 6C 2.93 GHz, Gigabit Ethernet,                 HPE                Computacenter AG & Co. oHGGermany",9564,58.72,112.09,
+350,"Cluster Platform 3000 BL460c G1, Xeon L5420 2.5 GHz, GigE,                 HPE                Computacenter (UK) LTDUnited Kingdom",11280,58.71,112.8,
+351,"xSeries x3650 Cluster Xeon QC GT 2.66 GHz, Infiniband,                 IBM                ClassifiedUnited Kingdom",6368,58.68,67.91,279
+352,"BladeCenter HS22 Cluster (WM), Xeon X5670 6C 2.93 GHz, Infiniband,                 IBM                Lockheed MartinUnited States",5640,58.34,66.1,158
+353,"Cluster Platform 3000 BL460c G7, Xeon X5675 6C 3.06 GHz, Gigabit Ethernet,                 HPE                IT Service Provider (D)United States",9078,58.32,111.11,
+354,"Power 750, Power7 3.86 GHz, 10GigE,                 IBM                IBM Thomas J. Watson Research CenterUnited States",2560,58.31,79.05,121
+355,"Cluster Platform SL2x170z, Xeon L5640 6C 2.26 GHz, Gigabit Ethernet,                 HPE                BankFrance",12384,58.02,111.95,
+356,"Yale - Omega - Cluster Platform 3000 BL460c G6, Xeon X5560 4C 2.80GHz, Infiniband QDR,                 HPE                Yale UniversityUnited States",5632,57.8,63.08,
+357,"Cluster Platform 4000 BL685c G7, Opteron 6136 8C 2.40 GHz, Gigabit Ethernet,                 HPE                IT Services Provider (B)China",11616,57.63,111.51,
+358,"HP SL390s/170s  G7, Xeon X5650 6C 2.66 GHz, Gigabit Ethernet,                 HPE                Geoscience (P)United States",10368,57.61,110.32,
+359,"Cluster Platform 3000 BL460c G6, Xeon L5520 2.26 GHz, Infiniband,                 HPE                Financial InstitutionUnited States",8192,57.55,74.06,
+360,"Supernova - Cluster Platform 3000 BL2x220, X56xx 2.66 Ghz, Infiniband,                 HPE                Wroclaw Centre for Networking and SupercomputingPoland",6348,57.41,67.54,
+361,"Cluster Platform BL460c/280c G7, Xeon X5650 6C 2.66 GHz, Gigabit Ethernet,                 HPE                Service ProviderUnited States",10320,57.36,109.8,
+362,"Cluster Platform 3000 BL460c G7, Xeon X5675 6C 3.06 GHz, Gigabit Ethernet,                 HPE                IT Service ProviderUnited States",8850,56.9,108.32,
+363,"Cluster Platform 3000 BL460c G7, Xeon X5675 6C 3.06 GHz, Gigabit Ethernet,                 HPE                IT Service ProviderUnited States",8850,56.9,108.32,
+364,"Cluster Platform 3000 BL460c G7, Xeon X5675 6C 3.06 GHz, Gigabit Ethernet,                 HPE                IT Service ProviderUnited States",8850,56.9,108.32,
+365,"iDataPlex, Xeon X56xx 6C 2.66 GHz, Infiniband,                 IBM                Banking (M)United States",6048,56.79,64.35,141
+366,"NEC LX-2400 Cluster, Xeon X5550 2.66 Ghz, Infiniband,                 NEC                Universitaet ErlangenGermany",5880,56.73,62.56,160
+367,"Plasma Simulator - Hitachi SR16000 Model L2/128, Power6 4.7Ghz, Infiniband,                 Hitachi                National Institute for Fusion Science (NIFS)Japan",4096,56.65,77.0,645
+368,"HLRB-II - Altix 4700 1.6 GHz,                 HPE                Leibniz RechenzentrumGermany",9728,56.52,62.26,990
+369,"Cluster Platform 3000 BL460c G7, Xeon E5620 2.4 Ghz, GigE,                 HPE                Web Company (C)China",11292,56.41,108.4,
+370,"xSeries x3550M3 Cluster, Xeon X5670 6C 2.93 GHz, Gigabit Ethernet,                 IBM                Engineering CompanyChina",9984,56.26,117.01,318
+371,"xSeries x3550M3 Cluster, Xeon X5670 6C 2.93 GHz, Gigabit Ethernet,                 IBM                Engineering CompanyChina",9984,56.26,117.01,318
+372,"Jade - Cray XT4 QuadCore 2.1 GHz,                 Cray/HPE                ERDC DSRCUnited States",8464,56.25,71.1,418
+373,"xSeries x3650M3, Xeon X56xx 2.53 GHz, GigE,                 IBM                Internet Service (B)China",9960,56.12,100.8,302
+374,"xSeries x3650M3, Xeon X56xx 2.53 GHz, GigE,                 IBM                Internet Service (B)China",9960,56.12,100.8,302
+375,"xSeries x3650M3, Xeon X56xx 2.53 GHz, GigE,                 IBM                Internet Service (B)China",9960,56.12,100.8,302
+376,"BladeCenter HS22 Cluster (WM), Xeon X5670 6C 2.93 GHz, Infiniband,                 IBM                ClassifiedUnited Kingdom",5412,55.98,63.43,152
+377,"Cluster Platform 3000 280c G7, Xeon X5672 4C 3.20 GHz, Infiniband QDR,                 HPE                IT Service ProviderUnited States",5568,55.96,71.27,
+378,"xSeries x3650M2 Cluster, Xeon QC E55xx 2.26 Ghz, GigE,                 IBM                Service ProviderJapan",11640,55.94,105.55,510
+379,"Cluster Platform 3000 BL460c G6, Xeon E5670 2.93 GHz, GigE,                 HPE                IT Service ProviderUnited States",9072,55.8,106.32,
+380,"Cluster Platform 3000 BL460c G6, Xeon E5670 2.93 GHz, GigE,                 HPE                IT Service ProviderUnited States",9072,55.8,106.32,
+381,"BladeCenter HS22 Cluster, Xeon QC E5xx 2.53 GHz, GigEthernet,                 IBM                Network CompanyChina",9856,55.76,99.74,312
+382,"BladeCenter HS22 Cluster, Xeon QC E5xx 2.53 GHz, GigEthernet,                 IBM                Network CompanyChina",9856,55.76,99.74,312
+383,"iDataPlex, Xeon X55xx QC 2.8 GHz, Infiniband,                 IBM                GeoscienceUnited States",6048,55.73,67.74,212
+384,"iDataPlex, Xeon X55xx QC 2.8 GHz, Infiniband,                 IBM                GeoscienceUnited States",6048,55.73,67.74,212
+385,"iDataPlex, Xeon X55xx QC 2.8 GHz, Infiniband,                 IBM                GeoscienceUnited States",6048,55.73,67.74,212
+386,"iDataPlex, Xeon X55xx QC 2.8 GHz, Infiniband,                 IBM                GeoscienceUnited States",6048,55.73,67.74,212
+387,"Cluster Platform 3000 BL460c G7, Xeon X5650 2.66 Ghz, GigE,                 HPE                IT Services Provider (D)United States",10014,55.72,106.55,
+388,"BladeCenter HS22 Cluster, WM Xeon 6-core 2.66Ghz, Infiniband,                 IBM                ClassifiedUnited Kingdom",5880,55.66,62.56,157
+389,"BladeCenter HS22 Cluster, WM Xeon 6-core 2.66Ghz, Infiniband,                 IBM                ClassifiedUnited Kingdom",5880,55.66,62.56,157
+390,"BladeCenter HS22 Cluster, WM Xeon 6-core 2.66Ghz, Infiniband,                 IBM                ClassifiedUnited Kingdom",5880,55.66,62.56,157
+391,"HP DL180 Cluster G6, Xeon E5620 2.4 GHz, GigE,                 HPE                Social NW ProviderUnited States",11120,55.59,106.75,
+392,"Cluster Platform 3000 BL460c G7, Xeon X5670 6C 2.93 GHz, Gigabit Ethernet,                 HPE                IT Service Provider (D)United States",9042,55.59,105.97,
+393,"xSeries x3650M3, Xeon X56xx 2.93 GHz, GigE,                 IBM                Bank (J)United Kingdom",9864,55.58,115.61,314
+394,"xSeries x3650M3, Xeon X56xx 2.93 GHz, GigE,                 IBM                Bank (J)United Kingdom",9864,55.58,115.61,314
+395,"iDataPlex, Xeon E55xx QC 2.26 GHz, Infiniband,                 IBM                Digital MediaUnited States",6752,55.57,61.23,188
+396,"Cluster Platform 3000 BL460c, Xeon E5450 4C 3.00GHz, Gigabit Ethernet,                 HPE                Logistic Services (C)United States",8800,55.43,105.6,
+397,"HP DL160 Cluster G6, Xeon E5640 2.53 GHz, GigE,                 HPE                Web Content ProviderUnited States",10480,55.37,106.06,
+398,"Cluster Platform 3000 SL160z, Xeon X5650 2.66 GHz, GigE,                 HPE                Web Company (F)United States",9918,55.21,105.53,
+399,"Cluster Platform 3000 SL160z, Xeon X5650 2.66 GHz, GigE,                 HPE                Web Company (F)United States",9918,55.21,105.53,
+400,"Cluster Platform 3000 SL160z, Xeon X5650 2.66 GHz, GigE,                 HPE                Web Company (F)United States",9918,55.21,105.53,

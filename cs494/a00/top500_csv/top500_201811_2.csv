@@ -1,0 +1,101 @@
+Rank,System,Cores,Rmax (GFlop/s),Rpeak (GFlop/s),Power (kW)
+101,"SGI ICE X, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR,                 HPE                Japan Atomic Energy Agency (JAEA)Japan",60240,1929.37,2409.6,3012
+102,"CTcluster - Sugon TC6000, Xeon Gold 6140 18C 2.3GHz, 10G Ethernet,                 Sugon                Telecom CompanyChina",54000,1928.0,3974.4,520
+103,"Huawei 2288H V5, Xeon Gold 6150 18C 2.7GHz, 10G Ethernet,                 Huawei Technologies Co., Ltd.                Energy CompanyChina",49680,1914.39,4292.35,733
+104,"Piz Daint Multicore - Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ,                 Cray/HPE                Swiss National Supercomputing Centre (CSCS)Switzerland",65268,1896.75,2193.01,732
+105,"Tera-1000-1 - bullx DLC 720, Xeon E5-2698v3 16C 2.3GHz, Infiniband FDR,                 Atos                Commissariat a l'Energie Atomique (CEA)France",70272,1871.0,2586.01,1042
+106,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,                 Lenovo                Service Provider TChina",43200,1831.49,3456.0,
+107,"scafellpike - Bull Sequana X1000, Intel Xeon Phi 7210 64C 1.3GHz/Xeon Gold 6142, Mellanox EDR,                 Atos                Science and Technology Facilities CouncilUnited Kingdom",80640,1829.86,4329.73,529
+108,"JGV100System - Sugon TC6000, Xeon E5-2680v4 14C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet,                 Sugon                Internet CompanyChina",41760,1825.0,3353.18,240
+109,"JCSystem - Sugon TC6000, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet,                 Sugon                Internet CompanyChina",110080,1807.0,3698.69,1100
+110,"S1 - ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR,                 Lenovo                GovernmentChina",33840,1804.0,2923.78,
+111,"Beskow - Cray XC40, Xeon E5-2695v4/E5-2698v3 16C 2.3GHz, Aries interconnect ,                 Cray/HPE                KTH - Royal Institute of TechnologySweden",67456,1802.51,2438.14,842
+112,"ESSystem - Sugon TC6000, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet,                 Sugon                State Grid CorpChina",105000,1790.0,3696.0,1100
+113,"Molecular Simulator - NEC LX Cluster, Xeon Gold 6148/6154, Intel Omni-Path,                 NEC                Institute for Molecular ScienceJapan",38552,1785.62,3072.77,544
+114,"R1 - ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR,                 Lenovo                GovernmentChina",33120,1768.59,2861.57,
+115,"QURIOSITY - Apollo XL230k, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path,                 HPE                BASFGermany",35280,1750.18,2709.5,
+116,"CSystem - Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet,                 Sugon                Telecom Operator (C)China",97920,1736.0,7206.91,1000
+117,"Q1 - ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR,                 Lenovo                GovernmentChina",32400,1735.66,2799.36,
+118,"Inspur SA5212H5, Xeon Platinum 8163 24C 2.5GHz, 10G Ethernet,                 Inspur                Internet Service AChina",38400,1729.0,3072.0,
+119,"Inspur SA5212H5, Xeon Platinum 8163 24C 2.5GHz, 10G Ethernet,                 Inspur                Internet Service AChina",38400,1729.0,3072.0,
+120,"Inspur SA5212H5, Xeon Platinum 8163 24C 2.5GHz, 10G Ethernet,                 Inspur                Internet Service AChina",38400,1729.0,3072.0,
+121,"Internet Company T DD1 - Lenovo RD350, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet,                 Lenovo                Service Provider TChina",118400,1728.88,3978.24,
+122,"Marconi Intel Xeon - Lenovo NeXtScale nx360M5, Xeon E5-2697v4 18C 2.3GHz, Omni-Path,                 Lenovo                CINECAItaly",54432,1723.89,2003.1,1361
+123,"Inspur TS10000, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet, NVIDIA Tesla P100,                 Inspur                Internet Service AChina",39680,1714.0,3149.6,
+124,"P1 - ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR,                 Lenovo                GovernmentChina",31680,1703.51,2737.15,
+125,"SwiftLucy - Cluster Platform 3000 BL460c Gen9, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR,                 HPE                GovernmentUnited States",57600,1703.28,2304.0,2880
+126,"AFI-NITY - PRIMERGY CX2550 M4, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR,                 Fujitsu                Tohoku University, Institute of Fluid ScienceJapan",35200,1691.0,2703.36,
+127,"TaiYi - ThinkSystem SD530, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path,                 Lenovo                Southern University of Science and TechnologyChina",32400,1686.54,2488.32,
+128,"ThinkSystem SD530, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR,                 Lenovo                GovernmentChina",35200,1684.19,2703.36,
+129,"ISystem - Sugon TC6000, Xeon E5-2650v4 12C 2.2GHz, 10G Ethernet,                 Sugon                IIT CompanyChina",97920,1683.0,3446.78,1050
+130,"Raijin - Hybrid Cluster PRIMERGY/x3550 M5/PowerEdge/Rackable/Rackable, Xeon , Infiniband EDR, NVIDIA Tesla P100, Xeon Phi,                 Fujitsu / Lenovo / Xenon                National Computational Infrastructure (NCI Australia)Australia",87224,1676.22,3801.42,
+131,"Prometheus - HP Apollo 8000, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR, NVIDIA Tesla K40,                 HPE                CyfronetPoland",55728,1670.09,2348.64,808
+132,"O1 - ThinkSystem Flex SN550, Xeon Gold 6150 18C 2.7GHz, Infiniband FDR,                 Lenovo                GovernmentChina",30960,1668.16,2674.94,
+133,"ThinkSystem SR650, Xeon Gold 6148 20C 2.4GHz, 10G Ethernet,                 Lenovo                Internet CompanyChina",41760,1667.72,3207.17,
+134,"Edison - Cray XC30, Intel Xeon E5-2695v2 12C 2.4GHz, Aries interconnect ,                 Cray/HPE                DOE/SC/LBNL/NERSCUnited States",133824,1654.7,2569.42,3747
+135,"Internet Company T Y1 - Lenovo RD450, Xeon E5-2680v4 14C 2.4GHz, 10G Ethernet,                 Lenovo                Service Provider TChina",89600,1653.22,3440.64,
+136,"Software Company (M) AA1 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Cloud ProviderAustralia",57600,1649.11,2119.68,
+137,"Software Company (M) CA3 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Cloud ProviderCanada",57600,1649.11,2119.68,
+138,"Software Company (M) CA2 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Cloud ProviderCanada",57600,1649.11,2119.68,
+139,"Software Company (M) CA1 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Cloud ProviderCanada",57600,1649.11,2119.68,
+140,"Software Company (M) A16 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+141,"Software Company (M) A15 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+142,"Software Company (M) A14 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+143,"Software Company (M) A13 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+144,"Software Company (M) A11 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+145,"Software Company (M) A10 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+146,"Software Company (M) A9 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+147,"Software Company (M) A8 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+148,"Software Company (M) A7 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+149,"Software Company (M) A6 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+150,"Software Company (M) A4 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+151,"Software Company (M) A3 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+152,"Software Company (M) A2 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+153,"Software Company (M) A1 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+154,"Software Company (M) A12 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+155,"Software Company (M) A5 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+156,"Software Company (M) A26 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+157,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+158,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+159,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+160,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+161,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+162,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+163,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+164,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+165,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+166,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Hosting ServicesUnited States",57600,1649.11,2119.68,
+167,"NA5 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Netherlands",57600,1649.11,2119.68,
+168,"NA4 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Netherlands",57600,1649.11,2119.68,
+169,"NA3 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Netherlands",57600,1649.11,2119.68,
+170,"NA2 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Netherlands",57600,1649.11,2119.68,
+171,"NA1 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Netherlands",57600,1649.11,2119.68,
+172,"IA4 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Ireland",57600,1649.11,2119.68,
+173,"IA3 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Ireland",57600,1649.11,2119.68,
+174,"IA2 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Ireland",57600,1649.11,2119.68,
+175,"IA1 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Ireland",57600,1649.11,2119.68,
+176,"SB3 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Singapore",57600,1649.11,2119.68,
+177,"SB2 - Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Singapore",57600,1649.11,2119.68,
+178,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Ireland",57600,1649.11,2119.68,
+179,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Ireland",57600,1649.11,2119.68,
+180,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Ireland",57600,1649.11,2119.68,
+181,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Ireland",57600,1649.11,2119.68,
+182,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Ireland",57600,1649.11,2119.68,
+183,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Ireland",57600,1649.11,2119.68,
+184,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Ireland",57600,1649.11,2119.68,
+185,"Lenovo C1040, Xeon E5-2673v4 20C 2.3GHz, 40G Ethernet,                 Lenovo                Software Company (M)Ireland",57600,1649.11,2119.68,
+186,"ARCHER - Cray XC30, Intel Xeon E5 v2 12C 2.700GHz, Aries interconnect ,                 Cray/HPE                EPSRC/University of EdinburghUnited Kingdom",118080,1642.54,2550.53,3306
+187,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,                 Lenovo                Service Provider TChina",38400,1639.3,3072.0,
+188,"Surge - Cray XC40, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect ,                 Cray/HPE                NOAAUnited States",48960,1635.02,2036.74,956
+189,"Luna - Cray XC40, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect ,                 Cray/HPE                NOAAUnited States",48960,1635.02,2036.74,956
+190,"Cedar-2 - PowerEdge C6320/C6420, Xeon E5-2683 v4  16C 2.1GHz/Xeon Platinum 8160, Intel Omni-Path,                 DELL EMC                Simon Fraser University/Compute CanadaCanada",55296,1632.96,3715.89,601
+191,"ThinkSystem SR650, Xeon Gold 6140 18C 2.3GHz, NVIDIA Tesla V100, Infiniband EDR,                 Lenovo                GovernmentChina",32144,1630.13,2637.71,
+192,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,                 Lenovo                Service Provider TChina",37600,1608.22,3008.0,
+193,"Internet Company T X2 - Lenovo RD450, Xeon E5-2680v4 14C 2.4GHz, 10G Ethernet,                 Lenovo                Service Provider TChina",86800,1603.23,3333.12,
+194,"HOKUSAI BigWaterfall	 - PRIMERGY CX2550 M4, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR,                 Fujitsu                Information Systems Division, RIKENJapan",33600,1601.0,2580.48,
+195,"U3 - ThinkSystem SR650, Xeon Gold 6140 18C 2.3GHz, NVIDIA Tesla V100, Infiniband EDR,                 Lenovo                GovernmentChina",31360,1593.03,2573.38,
+196,"Power 775, POWER7 8C 3.836GHz, Custom Interconnect,                 IBM                IBM Development EngineeringUnited States",62944,1587.0,1931.62,3576
+197,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,                 Lenovo                Service Provider TChina",36800,1579.98,2944.0,
+198,"SGSystem - Sugon TC6000, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet,                 Sugon                State Grid CorpChina",92000,1562.0,3238.4,960
+199,"U2 - ThinkSystem SR650, Xeon Gold 6140 18C 2.3GHz, NVIDIA Tesla V100, Infiniband EDR,                 Lenovo                GovernmentChina",30576,1558.4,2509.04,
+200,"ThinkSystem HR650X, Xeon Gold 6148 20C 2.4GHz, 10G Ethernet,                 Lenovo                Internet Company SChina",38880,1555.97,2985.98,

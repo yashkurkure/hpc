@@ -1,0 +1,101 @@
+Rank,System,Cores,Rmax (TFlop/s),Rpeak (TFlop/s),Power (kW)
+201,"Cluster Platform 3000 BL460c G6, Xeon E5540 2.53 GHz, GigE,                 HPE                IT Service Provider (D)United States",8520,45.35,86.22,
+202,"Cluster Platform 3000 BL460c G1, Xeon L5410 2.33 GHz, GigE,                 HPE                Hosting ServicesUnited States",9216,45.06,85.89,
+203,"Cluster Platform 3000 BL460c G6, Xeon E5540 2.53 GHz, GigE,                 HPE                Logistic Services (C)United States",8444,44.96,85.45,
+204,"BladeCenter HS22 Cluster, Xeon QC GT 2.53 GHz, Infiniband,                 IBM                GovernmentRussia",4864,44.82,49.22,174
+205,"BladeCenter HS22 Cluster, Xeon QC GT 2.53 GHz, GigEthernet,                 IBM                GovernmentUnited States",7896,44.67,79.91,249
+206,"Cluster Platform 3000 BL460c G6, Xeon E5520 2.26 GHz, GigE,                 HPE                IT Service ProviderUnited States",9400,44.54,84.98,
+207,"BladeCenter HS22 Cluster, Xeon QC GT 2.53 GHz, GigEthernet,                 IBM                Financial Institution (P)United Kingdom",7872,44.53,79.66,248
+208,"BladeCenter HS22 Cluster, Xeon QC GT 2.53 GHz, GigEthernet,                 IBM                Financial Institution (P)United Kingdom",7872,44.53,79.66,248
+209,"QPACE SFB TR Cluster, PowerXCell 8i, 3.2 GHz, 3D-Torus,                 IBM                Forschungszentrum Juelich (FZJ)Germany",4608,44.5,55.71,57
+210,"QPACE SFB TR Cluster, PowerXCell 8i, 3.2 GHz, 3D-Torus,                 IBM                Universitaet RegensburgGermany",4608,44.5,55.71,57
+211,"QPACE SFB TR Cluster, PowerXCell 8i, 3.2 GHz, 3D-Torus,                 IBM                Universitaet WuppertalGermany",4608,44.5,55.71,57
+212,"BladeCenter HS22 Cluster, Xeon QC GT 2.53 GHz, GigEthernet,                 IBM                Telecommunication CompanyChina",7752,43.85,78.45,245
+213,"BladeCenter HS22 Cluster, Xeon QC GT 2.53 GHz, GigEthernet,                 IBM                Telecommunication CompanyChina",7752,43.85,78.45,245
+214,"xSeries x3550M2 Cluster Xeon QC GT 2.26 GHz, Infiniband,                 IBM                ElectronicsUnited States",5320,43.79,48.24,233
+215,"Cluster Platform 3000 BL460c G1, Xeon L5420 2.5 GHz, GigE,                 HPE                Financial Services (H)United States",8312,43.75,83.12,
+216,"Cluster Platform 3000 BL460c G6, Xeon L5640 2.26 GHz, 10G,                 HPE                Actebis Peacock GmbHGermany",6144,43.51,55.54,
+217,"Cluster Platform 3000 BL460c G6, Xeon L5640 2.26 GHz, 10G,                 HPE                Actebis Peacock GmbHGermany",6144,43.51,55.54,
+218,"Cluster Platform 3000 BL460c, Xeon 54xx 3.0GHz, GigEthernet,                 HPE                IT Services Provider (B)Canada",6820,43.32,81.84,
+219,"Ds - Koi 1042G-TF Cluster, Opteron 8-core 2Ghz, Infiniband,                 Koi Computers                Fermi National Accelerator LaboratoryUnited States",7680,43.05,61.44,
+220,"Cluster Platform 3000 BL460c G1, Xeon E5450 3.0 GHz, GigE,                 HPE                Consulting (C)United States",6768,43.0,81.22,
+221,"SGI Altix ICE 8200EX, Xeon X5560 quad core 2.8 GHz,                 HPE                Central Research Institute of Electric Power Industry/CRIEPIJapan",4096,42.69,45.88,183
+222,"SGI Altix ICE 8200EX, Xeon X5560 quad core 2.8 GHz,                 HPE                National Institute for Materials ScienceJapan",4096,42.69,45.88,183
+223,"Cluster Platform 3000 BL460c, Xeon 54xx 3.0GHz, GigEthernet,                 HPE                IT Service Provider (D)United States",6672,42.41,80.06,
+224,"Jaws - PowerEdge 1955, 3.0 GHz, Infiniband,                 DELL EMC                Maui High-Performance Computing Center (MHPCC)United States",5200,42.39,62.4,
+225,"iDataPlex, Xeon QC 3.0 GHz, Infiniband,                 IBM                GeoscienceUnited States",4704,42.21,56.45,206
+226,"Cluster Platform 3000 BL460c G1, Xeon E5450 3.0 GHz, GigE,                 HPE                Network Equipment ProviderUnited States",6632,42.16,79.58,
+227,"CEA-CCRT-Platine - Novascale 3045, Itanium2 1.6 GHz, Infiniband,                 Atos                Commissariat a l'Energie Atomique (CEA)France",7680,42.13,49.15,
+228,"iDataPlex, Xeon E55xx QC 2.26 GHz, GigEthernet,                 IBM                Financial Institution ()Belgium",8352,41.92,75.74,240
+229,"iDataPlex, Xeon E55xx QC 2.26 GHz, GigEthernet,                 IBM                Financial Institution ()Belgium",8352,41.92,75.74,240
+230,"Cluster Platform 3000 BL460c G6, Xeon E5540 2.53 GHz, GigE,                 HPE                Logistic Services (C)United States",7848,41.88,79.42,
+231,"Cluster Platform 3000 BL460c G6, Xeon E5540 2.53 GHz, GigE,                 HPE                Logistic Services (C)United States",7848,41.88,79.42,
+232,"Cluster Platform 3000 BL460c G6, Xeon E5540 2.53 GHz, GigE,                 HPE                Telecommunication CompanyChina",7848,41.88,79.42,
+233,"Amazon EC2 Cluster Compute Instances - Amazon EC2 Cluster, Xeon X5570 2.95 Ghz, 10G Ethernet,                 Self-made                Amazon Web ServicesUnited States",7040,41.82,82.51,
+234,"Dell PowerEdge M610 Cluster, Nehalem-EP 2.93Ghz, Infiniband,                 ClusterVision/Dell                Saudi AramcoSaudi Arabia",4096,41.77,48.01,
+235,"Cluster Platform 3000 BL460c G1, Xeon L5410 2.33 GHz, GigE,                 HPE                Financial InstituteFrance",8432,41.35,78.59,
+236,"BladeCenter HS21 Cluster, Xeon QC HT 2.83 GHz, Infiniband,                 IBM                DefenseUnited States",4824,41.31,54.61,190
+237,"BladeCenter HS21 Cluster, Xeon QC HT 2.83 GHz, Infiniband,                 IBM                DefenseUnited States",4824,41.31,54.61,190
+238,"BladeCenter HS21 Cluster, Xeon QC HT 2.83 GHz, Infiniband,                 IBM                DefenseUnited States",4824,41.31,54.61,190
+239,"BladeCenter HS21 Cluster, Xeon QC HT 2.83 GHz, Infiniband,                 IBM                DefenseUnited States",4824,41.31,54.61,190
+240,"BladeCenter HS21 Cluster, Xeon QC HT 2.83 GHz, Infiniband,                 IBM                DefenseUnited States",4824,41.31,54.61,190
+241,"BladeCenter HS21 Cluster, Xeon QC HT 2.83 GHz, Infiniband,                 IBM                DefenseUnited States",4824,41.31,54.61,190
+242,"BladeCenter HS21 Cluster, Xeon QC HT 2.83 GHz, Infiniband,                 IBM                DefenseUnited States",4824,41.31,54.61,190
+243,"BladeCenter HS21 Cluster, Xeon QC HT 2.83 GHz, Infiniband,                 IBM                DefenseUnited States",4824,41.31,54.61,190
+244,"Rackable(tm) C2005-TY2 Cluster, Xeon E5630 quad core 2.53 GHz, Gigabit Ethernet,                 HPE                ClassifiedUnited States",9520,41.29,96.34,
+245,"xSeries x3650M2 Cluster, Xeon QC E55xx 2.53 Ghz, GigE,                 IBM                Engineering CompanyChina",7296,41.27,73.84,320
+246,"xSeries x3650M2 Cluster, Xeon QC E55xx 2.53 Ghz, GigE,                 IBM                Engineering CompanyChina",7296,41.27,73.84,320
+247,"xSeries x3650M2 Cluster, Xeon QC E55xx 2.53 Ghz, GigE,                 IBM                Engineering CompanyChina",7296,41.27,73.84,320
+248,"BladeCenter HS22 Cluster, Xeon QC GT 2.53 GHz, GigEthernet,                 IBM                Network CompanyChina",7168,41.27,72.54,282
+249,"BladeCenter HS22 Cluster, Xeon QC GT 2.53 GHz, GigEthernet,                 IBM                Network CompanyChina",7168,41.27,72.54,282
+250,"BladeCenter HS22 Cluster, Xeon QC GT 2.53 GHz, GigEthernet,                 IBM                Network CompanyChina",7168,41.27,72.54,282
+251,"Cluster Platform 3000 BL2x220, L54xx 2.5 Ghz, GigE,                 HPE                QXL Poland SP ZOOPoland",7384,40.76,73.84,
+252,"Cluster Platform 3000 BL460c G6, Xeon L5520 2.26 GHz, GigE,                 HPE                IT Service ProviderUnited Kingdom",8568,40.73,77.45,
+253,"Michael J. Muuss Cluster (MJM) - Evolocity II (LS Supersystem) Xeon 51xx 3.0 GHz IB,                 Linux Networx                US Army Research Laboratory (ARL)United States",4416,40.61,52.99,
+254,"Cluster Platform 3000 BL460c G6, Xeon E5540 2.53 GHz, GigE,                 HPE                Logistic Services (C)United States",7600,40.59,76.91,
+255,"Cray XT4 QuadCore 2.3 GHz,                 Cray/HPE                University of BergenNorway",5550,40.59,51.06,274
+256,"Cluster Platform 3000 BL460c G6, Xeon E5650 2.66 GHz, GigE,                 HPE                IT Services Provider (D)United States",7206,40.53,76.67,
+257,"xSeries x3650M2 Cluster, Xeon QC E55xx 2.53 Ghz, GigE,                 IBM                Service ProviderChina",7152,40.46,72.38,313
+258,"xSeries x3650M2 Cluster, Xeon QC E55xx 2.53 Ghz, GigE,                 IBM                Service ProviderChina",7152,40.46,72.38,313
+259,"xSeries x3650M2 Cluster, Xeon QC E55xx 2.53 Ghz, GigE,                 IBM                Service ProviderChina",7152,40.46,72.38,313
+260,"xSeries x3650 Cluster Xeon QC GT 2.66 GHz, Infiniband,                 IBM                GovernmentRussia",4384,40.39,46.75,192
+261,"DLX - PowerEdge C6100 Cluster, Xeon X5650 2.66 Ghz, Infiniband,                 DELL EMC                University of KentuckyUnited States",4428,40.31,47.11,
+262,"Cluster Platform 3000 BL2x220, X56xx 2.66 Ghz, Infiniband,                 HPE                Audi AGGermany",4800,40.22,51.07,
+263,"BladeCenter HS22 Cluster, Xeon QC GT 2.66 GHz, GigEthernet,                 IBM                Engineering CompanyChina",7104,40.19,75.76,233
+264,"BladeCenter HS22 Cluster, Xeon QC GT 2.66 GHz, GigEthernet,                 IBM                Engineering CompanyChina",7104,40.19,75.76,233
+265,"Cluster Platform 3000 BL460c G1, Xeon E5450 3.0 GHz, GigE,                 HPE                Insight DirectUnited States",6272,39.92,75.26,
+266,"Cluster Platform 3000 BL460c G6, Xeon X5570 2.93 GHz, GigE,                 HPE                IT Service ProviderUnited States",6400,39.77,75.01,
+267,"Cluster Platform 3000 BL460c, Xeon 54xx 3 GHz, Infiniband,                 HPE                Saudi AramcoSaudi Arabia",4192,39.7,50.3,
+268,"Cluster Platform 3000 BL460c G6, Xeon E5670 2.93 GHz, GigE,                 HPE                IT Service Provider (D)United States",6378,39.64,74.75,
+269,"xSeries x3650M2 Cluster, Xeon QC E55xx 2.53 Ghz, GigE,                 IBM                Telecommunication CompanyChina",7000,39.6,70.84,307
+270,"xSeries x3650M2 Cluster, Xeon QC E55xx 2.53 Ghz, GigE,                 IBM                Telecommunication CompanyChina",7000,39.6,70.84,307
+271,"R Smarr - Dell DCS CS23-SH, QC HT 2.8 GHz, Infiniband,                 DELL EMC                R-SystemsUnited States",4608,39.58,51.61,
+272,"BladeCenter HS22 Cluster, Xeon QC GT 2.53 GHz, GigEthernet,                 IBM                Service ProviderUnited States",6824,39.37,69.06,215
+273,"BladeCenter HS22 Cluster, Xeon QC GT 2.53 GHz, GigEthernet,                 IBM                Service ProviderUnited States",6824,39.37,69.06,215
+274,"BladeCenter HS21 Cluster, Xeon QC HT 2.13 GHz, Infiniband,                 IBM                ClassifiedUnited States",6128,39.23,52.21,236
+275,"Cluster Platform 3000 BL460c, Xeon 54xx 3.0GHz, GigEthernet,                 HPE                Energy Company (G)United States",6144,39.13,73.73,
+276,"Cluster Platform 3000 BL460c, Xeon 54xx 3.0GHz, GigEthernet,                 HPE                Energy Company (G)United States",6144,39.13,73.73,
+277,"Cluster Platform 3000 BL460c, Xeon 54xx 3.0GHz, GigEthernet,                 HPE                Food IndustryUnited Kingdom",6144,39.13,73.73,
+278,"Discover - iDataPlex, Xeon X55xx QC 2.8 GHz, Infiniband,                 IBM                NASA/Goddard Space Flight CenterUnited States",4128,38.99,46.23,144
+279,"Discover 2 - iDataPlex, Xeon X55xx QC 2.8 GHz, Infiniband,                 IBM                NASA/Goddard Space Flight CenterUnited States",4128,38.99,46.23,144
+280,"Cluster Platform 3000 BL460c G6, Xeon E5540 2.53 GHz, GigE,                 HPE                Logistic Services (C)United States",7280,38.93,73.67,
+281,"GRAPE-DR cluster 100 node - GRAPE-DR accelerator Cluster, Infiniband,                 Self-made                National Astronomical Observatory of JapanJapan",6400,38.85,81.92,45
+282,"Cluster Platform 3000 BL460c, Xeon 51xx 3.0GHz, Infiniband,                 HPE                IT Service Provider (B)United States",4100,38.85,49.2,
+283,"xSeries x3650M2 Cluster Xeon QC GT 2.66 GHz, GigEthernet,                 IBM                Network Company (B)United States",7128,38.79,76.01,312
+284,"xSeries x3650M2 Cluster Xeon QC GT 2.66 GHz, GigEthernet,                 IBM                Financial InstitutionJapan",7056,38.79,75.25,309
+285,"iDataPlex, Xeon E55xx QC 2.66 GHz, GigE,                 IBM                Financial InstitutionUnited States",6824,38.79,72.77,220
+286,"Magellan - iDataPlex, Xeon X55xx QC 2.66 GHz, Infiniband,                 IBM                DOE/SC/Argonne National LaboratoryUnited States",4032,38.66,43.0,132
+287,"BladeCenter HS22 Cluster, Xeon QC X55xx 2.66 GHz, GigEthernet,                 IBM                E-CommerceUnited States",6696,38.65,67.76,219
+288,"Cluster Platform 3000 BL460c G1, Xeon E5450 3.0 GHz, GigE,                 HPE                Logistic Services (E)United States",6048,38.53,72.58,
+289,"PowerEdge 1950, Xeon 53xx 3 GHz, Infiniband,                 DELL/ACS                Saudi AramcoSaudi Arabia",4096,38.49,49.15,
+290,"Cluster Platform 3000 BL460c G6, Xeon E5650 2.66 GHz, GigE,                 HPE                IT Service Provider (D)United States",6804,38.33,72.39,
+291,"Cluster Platform 3000 BL460c G6, Xeon X5570 2.93 GHz, GigE,                 HPE                IT Service ProviderUnited States",6160,38.31,72.2,
+292,"iDataPlex, Xeon X55xx QC 2.8 GHz, Infiniband,                 IBM                GeoscienceUnited States",4032,38.31,45.16,141
+293,"iDataPlex, Xeon X55xx QC 2.8 GHz, Infiniband,                 IBM                GeoscienceUnited States",4032,38.31,45.16,141
+294,"iDataPlex, Xeon X55xx QC 2.8 GHz, Infiniband,                 IBM                GeoscienceUnited States",4032,38.31,45.16,141
+295,"iDataPlex, Xeon X55xx QC 2.8 GHz, Infiniband,                 IBM                GeoscienceUnited States",4032,38.31,45.16,141
+296,"iDataPlex, Xeon X55xx QC 2.8 GHz, Infiniband,                 IBM                GeoscienceUnited States",4032,38.31,45.16,141
+297,"iDataPlex, Xeon X55xx QC 2.8 GHz, Infiniband,                 IBM                GeoscienceUnited States",4032,38.31,45.16,141
+298,"Cluster Platform 3000 BL2x220, E54xx 3.0 Ghz, Infiniband,                 HPE                IT Service ProviderSpain",4864,38.29,48.64,
+299,"Galera - ACTION Cluster Xeon E5345 Infiniband,                 ACTION                Gdansk University of Technology, CI TaskPoland",5336,38.17,49.73,
+300,"""PARAM Yuva"" Cluster - PARAMcluster, Xeon 73xx 2.93 Ghz, Infiniband,                 HPE                Center for Development of Advanced Computing (C-DAC)India",4608,38.1,54.01,

@@ -1,0 +1,101 @@
+Rank,System,Cores,Rmax (TFlop/s),Rpeak (TFlop/s),Power (kW)
+401,"Cluster Platform 3000 BL460c, Xeon 54xx 2.33 GHz, GigEthernet,                 HPE                Telecommunication CompanyChina",1792,9.62,16.7,
+402,"Albert - Dalco Cluster, Intel Xeon 3.0 Ghz, Quadrics,                 DALCO AG Switzerland                BMW Sauber F1Switzerland",1024,9.6,12.29,
+403,"BladeCenter HS21 Cluster, Xeon QC HT 2.83 GHz, Infiniband,                 IBM                Universitaet FreiburgGermany",1120,9.59,12.68,44
+404,"BladeCenter HS21 Cluster, Xeon QC HT 2.83 GHz, Infiniband,                 IBM                Universitaet HeidelbergGermany",1120,9.59,12.68,44
+405,"BladeCenter HS21 Cluster, Xeon QC HT 2.83 GHz, Infiniband,                 IBM                Universitaet KarlsruheGermany",1120,9.59,12.68,44
+406,"bwGRiD-MA - BladeCenter HS21 Cluster, Xeon QC HT 2.83 GHz, Infiniband,                 IBM                Universitaet MannheimGermany",1120,9.59,12.68,44
+407,"BladeCenter HS21 Cluster, Xeon QC HT 2.83 GHz, Infiniband,                 IBM                Universitaet TuebingenGermany",1120,9.59,12.68,44
+408,"NWICE - Spray Cooled xSeries x3550 Cluster Xeon quad core 2.33 GHz, Infiniband,                 IBM                DOE/SC/Pacific Northwest National LaboratoryUnited States",1536,9.59,14.32,84
+409,"xSeries x3550 Cluster Xeon, 3 GHz, GigEthernet,                 IBM                Texas InstrumentsFrance",1612,9.58,19.34,149
+410,"SGI Altix ICE 8200, 3.0 GHz,                 HPE                Manufacturing Company (I)United States",1024,9.58,12.29,
+411,"Cluster Platform 3000 BL460c, Xeon 51xx 3.0GHz, GigEthernet,                 HPE                Logistic Services (D)Germany",1336,9.54,16.03,
+412,"eServer Blue Gene Solution,                 IBM                Harvard UniversityUnited States",4096,9.43,11.47,44
+413,"KEK/BG UME - eServer Blue Gene Solution,                 IBM                High Energy Accelerator Research Organization /KEKJapan",4096,9.43,11.47,44
+414,"eServer Blue Gene Solution,                 IBM                IBM - Almaden Research CenterUnited States",4096,9.43,11.47,44
+415,"eServer Blue Gene Solution,                 IBM                IBM ResearchSwitzerland",4096,9.43,11.47,44
+416,"eServer Blue Gene Solution,                 IBM/ LLNL                IBM Thomas J. Watson Research CenterUnited States",4096,9.43,11.47,44
+417,"Ocracoke - eServer Blue Gene Solution,                 IBM                Renaissance Computing Institute (RENCI)United States",4096,9.43,11.47,44
+418,"Blue Fern - eServer Blue Gene Solution,                 IBM                University of CanterburyNew Zealand",4096,9.43,11.47,44
+419,"Cluster Platform 3000 BL460c, Xeon 53xx 2.33GHz, GigEthernet,                 HPE                Computacenter (UK) LTDUnited Kingdom",1744,9.39,16.25,
+420,"Cluster Platform 3000 BL460c, Xeon 54xx 3.0GHz, GigEthernet,                 HPE                Financial InstitutionSweden",1312,9.36,15.74,146
+421,"Cluster Platform 3000 BL460c, Xeon 54xx 3.0GHz, GigEthernet,                 HPE                Semiconductor Company (O)United Kingdom",1312,9.36,15.74,146
+422,"Cluster Platform 3000 BL460c, Xeon 51xx 3.0GHz, GigEthernet,                 HPE                Computacenter (UK) LTDUnited Kingdom",1304,9.33,15.65,
+423,"Cluster Platform 3000 BL480c, Xeon 53xx 2.66GHz, Infiniband,                 HPE                Computational Research Laboratories, TATA SONSIndia",1440,9.3,15.36,
+424,"Cluster Platform 4000 BL465c, Opteron DC 2.6GHz, GigEthernet,                 HPE                Financial Institution (M)United States",3312,9.29,17.22,
+425,"BladeCenter HS21 Cluster, Xeon quad core 2.66 GHz, GigEthernet,                 IBM                Digital Media Company (G)India",2400,9.29,25.6,111
+426,"BladeCenter HS21 Cluster, Xeon quad core 2.33 GHz, GigEthernet,                 IBM                Financial Institution ()France",2672,9.29,24.94,107
+427,"xSeries x3550 Cluster Xeon quad core, 2.333 GHz, GigEthernet,                 IBM                Banking BSwitzerland",2368,9.29,22.1,130
+428,"xSeries x3550 Cluster Xeon quad core, 2.333 GHz, GigEthernet,                 IBM                Semiconductor Company (C)United States",2368,9.29,22.1,130
+429,"BladeCenter HS21 Cluster, Xeon quad core 2.33 GHz, GigEthernet,                 IBM                Bear StearnsUnited States",2352,9.29,21.95,94
+430,"BladeCenter HS21 Cluster, Xeon quad core 2.66 GHz, GigEthernet,                 IBM                Financial Institution (U1)United States",1960,9.29,20.91,91
+431,"BladeCenter HS21 Cluster, Xeon quad core 2.66 GHz, GigEthernet,                 IBM                Financial Institution (U1)United States",1960,9.29,20.91,91
+432,"xSeries x3550 Cluster Xeon QC HT, 2.66 GHz, GigEthernet,                 IBM                Scientific Supercomputing Center KarlsruheGermany",1920,9.29,20.47,74
+433,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                CNPC Sichuan Geophysical CompanyChina",1600,9.29,19.2,63
+434,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                CNPC Sichuan Geophysical CompanyChina",1600,9.29,19.2,63
+435,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                CNPC Sichuan Geophysical CompanyChina",1600,9.29,19.2,63
+436,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                CNPC Sichuan Geophysical CompanyChina",1600,9.29,19.2,63
+437,"xSeries x3550 Cluster Xeon quad core, 2.333 GHz, GigEthernet,                 IBM                Petroleum CompanyUnited Kingdom",2048,9.29,19.11,112
+438,"BladeCenter HS21 Cluster, Xeon QC HT 2.83 GHz, GigEthernet,                 IBM                Financial Institution (P)France",1680,9.29,19.02,66
+439,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                GamingFrance",1576,9.29,18.91,62
+440,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                GamingFrance",1576,9.29,18.91,62
+441,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                GamingFrance",1576,9.29,18.91,62
+442,"xSeries x3550 Cluster Xeon quad core, 2.333 GHz, GigEthernet,                 IBM                ResearchFrance",2024,9.29,18.89,111
+443,"BladeCenter HS21 Cluster, Xeon QC HT 2.8 GHz, GigEthernet,                 IBM                Financial Institution ()China",1600,9.29,17.92,64
+444,"BladeCenter HS21 Cluster, Xeon quad core 2.33 GHz, GigEthernet,                 IBM                Finance LUnited Kingdom",1904,9.29,17.77,76
+445,"BladeCenter HS21 Cluster, Xeon quad core 2.33 GHz, GigEthernet,                 IBM                Financial Institution ()United States",1896,9.29,17.69,76
+446,"BladeCenter HS21 Cluster, Xeon QC HT 2.83 GHz, GigEthernet,                 IBM                Geoscience (Q)France",1560,9.29,17.66,61
+447,"BladeCenter HS21 Cluster, Xeon QC HT 2.83 GHz, GigEthernet,                 IBM                Geoscience (Q)France",1560,9.29,17.66,61
+448,"BladeCenter HS21 Cluster, Xeon QC HT 2.5 GHz, GigEthernet,                 IBM                CenaeroBelgium",1736,9.29,17.36,67
+449,"xSeries x3550 Cluster Xeon quad core, 2.333 GHz, GigEthernet,                 IBM                Data ProcessingUnited States",1840,9.29,17.17,101
+450,"xSeries x3550 Cluster Xeon quad core, 2.333 GHz, GigEthernet,                 IBM                Data ProcessingUnited States",1840,9.29,17.17,101
+451,"BladeCenter HS21 Cluster, Xeon quad core 2.33 GHz, GigEthernet,                 IBM                Financial Institution ()United States",1784,9.29,16.65,71
+452,"BladeCenter HS21 Cluster, Xeon quad core 2.33 GHz, GigEthernet,                 IBM                Financial Institution ()United States",1784,9.29,16.65,71
+453,"BladeCenter HS21 Cluster, Xeon quad core 2.33 GHz, GigEthernet,                 IBM                Financial Institution ()United States",1784,9.29,16.65,71
+454,"BladeCenter HS21 Cluster, Xeon quad core 2.33 GHz, GigEthernet,                 IBM                Financial Institution ()United States",1784,9.29,16.65,71
+455,"xSeries x3550 Cluster Xeon quad core, 2.333 GHz, GigEthernet,                 IBM                Data ProcessingUnited States",1704,9.29,15.9,93
+456,"xSeries x3550 Cluster Xeon quad core, 2.333 GHz, GigEthernet,                 IBM                Data ProcessingUnited States",1704,9.29,15.9,93
+457,"BladeCenter HS21 Cluster, Xeon quad core 2.33 GHz, GigEthernet,                 IBM                Financial Institution (P)France",1680,9.29,15.68,67
+458,"xSeries x3550 Cluster Xeon quad core, 2.333 GHz, GigEthernet,                 IBM                Information TechnologyUnited States",1664,9.29,15.53,91
+459,"BladeCenter HS21 Cluster, Xeon quad core 2.33 GHz, GigEthernet,                 IBM                Merck and CompanyUnited States",1600,9.29,14.93,64
+460,"BladeCenter HS21 Cluster, Xeon quad core 2.33 GHz, GigEthernet,                 IBM                Financial Institution ()France",1560,9.29,14.56,62
+461,"BladeCenter HS21 Cluster, Xeon quad core 2.33 GHz, GigEthernet,                 IBM                Financial Institution ()France",1560,9.29,14.56,62
+462,"xSeries x3550 Cluster Xeon quad core, 2.333 GHz, GigEthernet,                 IBM                ResearchUnited States",1560,9.29,14.56,86
+463,"Cluster Platform 3000 BL460c, Xeon 51xx 3.0GHz, GigEthernet,                 HPE                Government ClassifiedUnited States",1296,9.28,15.55,
+464,"Cluster Platform 3000 BL460c, Xeon 51xx 3.0GHz, GigEthernet,                 HPE                Government ClassifiedUnited States",1296,9.28,15.55,
+465,"Cell - BladeCenter QS22 Cluster, PowerXCell 8i 3.2 Ghz, Infiniband,                 IBM                Fraunhofer ITWMGermany",1260,9.26,15.23,18
+466,"xSeries x3550 Cluster Xeon, 1.6 GHz, GigEthernet,                 IBM                DistributionUnited States",2732,9.26,17.48,230
+467,"Cluster Platform 4000 BL465c, Opteron DC 2.6GHz, GigEthernet,                 HPE                Financial Institution (M)United States",3296,9.25,17.14,
+468,"BladeCenter HS21 Cluster, Xeon quad core 2.33 GHz, Infiniband,                 IBM                Near East UniversityCyprus",1280,9.24,11.94,51
+469,"Cluster Platform 3000 BL460c, Xeon 53xx 2.33GHz, GigEthernet,                 HPE                Financial Institution (U)Australia",1712,9.24,15.96,
+470,"Cluster Platform 3000 BL460c, Xeon 51xx 3.0GHz, GigEthernet,                 HPE                Computacenter (UK) LTDUnited Kingdom",1464,9.22,15.62,
+471,"Cluster Platform 3000 BL460c, Xeon 51xx 3.0GHz, GigEthernet,                 HPE                Computacenter (UK) LTDUnited Kingdom",1464,9.22,15.62,
+472,"Cluster Platform 3000 BL460c, Xeon 53xx 2.33GHz, GigEthernet,                 HPE                Food IndustryUnited Kingdom",1696,9.16,15.81,
+473,"xSeries x3550 Cluster Xeon, 3 GHz, GigEthernet,                 IBM                Digital Media (I)United States",1512,9.14,18.14,140
+474,"DataStar - eServer pSeries 655/690 (1.5/1.7 GHz Power4+),                 IBM                UCSD/San Diego Supercomputer CenterUnited States",2464,9.12,15.63,
+475,"BladeCenter HS21 Cluster, Xeon dual core 3.0 GHz, Infiniband,                 IBM                University of Warwick, Centre for Scientific ComputingUnited Kingdom",960,9.06,11.52,91
+476,"Houat - eServer pSeries p5 575 1.5 GHz/1.9GHz, Myrinet/Infiniband,                 IBM                Total SAFrance",2048,9.05,13.93,
+477,"BladeCenter HS21 Cluster, Xeon QC HT 2.8 GHz, GigEthernet,                 IBM                Financial Institution ()France",1496,9.05,16.76,60
+478,"BladeCenter HS21 Cluster, Xeon QC HT 2.8 GHz, GigEthernet,                 IBM                Financial Institution ()France",1496,9.05,16.76,60
+479,"BladeCenter HS21 Cluster, Xeon QC HT 2.8 GHz, GigEthernet,                 IBM                Financial Institution ()France",1496,9.05,16.76,60
+480,"BladeCenter HS21 Cluster, Xeon QC HT 2.8 GHz, GigEthernet,                 IBM                Financial Institution ()France",1496,9.05,16.76,60
+481,"Fujitsu PFU RG1000, Core2Duo 1.5 GHz, GigEthernet,                 Fujitsu                Institute of Physical and Chemical Research (RIKEN)Japan",2048,9.04,12.29,
+482,"Cluster Platform 3000 BL680c, Xeon 73xx 2.4 Ghz, GigabitEth,                 HPE                Financial Institution (M)United States",1616,9.04,15.51,
+483,"SR11000-K1/80,                 Hitachi                Japan Meteorological AgencyJapan",80,9.04,10.75,
+484,"SR11000-K1/80,                 Hitachi                Japan Meteorological AgencyJapan",80,9.04,10.75,
+485,"SKIF-Cyberia - Xeon Cluster, QLogic InfiniPath,                 T-Platforms                Tomsk State UniversityRussia",1128,9.01,12.0,
+486,"Cluster Platform 3000 BL460c, Xeon 54xx 2.33 GHz, GigEthernet,                 HPE                World Wide TechnologiesUnited States",1664,9.01,15.51,
+487,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                Geoscience (P)United States",1488,9.0,17.86,59
+488,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                Geoscience (P)United States",1488,9.0,17.86,59
+489,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                Geoscience (P)United States",1488,9.0,17.86,59
+490,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                Geoscience (P)United States",1488,9.0,17.86,59
+491,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                Geoscience (P)United States",1488,9.0,17.86,59
+492,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                Geoscience (P)United States",1488,9.0,17.86,59
+493,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                Geoscience (P)United States",1488,9.0,17.86,59
+494,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                Geoscience (P)United States",1488,9.0,17.86,59
+495,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                Geoscience (P)United States",1488,9.0,17.86,59
+496,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                Geoscience (P)United States",1488,9.0,17.86,59
+497,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                Geoscience (P)United States",1488,9.0,17.86,59
+498,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                Geoscience (P)United States",1488,9.0,17.86,59
+499,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                Geoscience (P)United States",1488,9.0,17.86,59
+500,"BladeCenter HS21 Cluster, Xeon QC HT 3 GHz, GigEthernet,                 IBM                Geoscience (P)United States",1488,9.0,17.86,59

@@ -1,0 +1,39 @@
+System, Rmax/Rpeak
+Tianhe-2A - TH-IVB-FEP Cluster Intel Xeon E5-2692 12C 2 200GHz TH Express-2 Intel Xeon Phi 31S1P NUDT National Super Computer Center in GuangzhouChina, 0.6167799586174738
+Titan - Cray XK7 Opteron 6274 16C 2 200GHz Cray Gemini interconnect NVIDIA K20x Cray/HPE DOE/SC/Oak Ridge National LaboratoryUnited States, 0.6487770423659892
+Sequoia - BlueGene/Q Power BQC 16C 1 60 GHz Custom IBM DOE/NNSA/LLNLUnited States, 0.8530030308960663
+K computer SPARC64 VIIIfx 2 0GHz Tofu interconnect Fujitsu RIKEN Advanced Institute for Computational Science (AICS)Japan, 0.9317062013868328
+Mira - BlueGene/Q Power BQC 16C 1 60GHz Custom IBM DOE/SC/Argonne National LaboratoryUnited States, 0.8530030308960664
+Piz Daint - Cray XC30 Xeon E5-2670 8C 2 600GHz Aries interconnect NVIDIA K20x Cray/HPE Swiss National Supercomputing Centre (CSCS)Switzerland, 0.8051252752331859
+Stampede - PowerEdge C8220 Xeon E5-2680 8C 2 700GHz Infiniband FDR Intel Xeon Phi SE10P DELL EMC Texas Advanced Computing Center/Univ of TexasUnited States, 0.6065778493470154
+JUQUEEN - BlueGene/Q Power BQC 16C 1 600GHz Custom Interconnect IBM Forschungszentrum Juelich (FZJ)Germany, 0.8530031352019659
+Vulcan - BlueGene/Q Power BQC 16C 1 600GHz Custom Interconnect IBM DOE/NNSA/LLNLUnited States, 0.8530048716909457
+Trinity - Cray XC40 Xeon E5-2698v3 16C 2 3GHz Aries interconnect Cray/HPE DOE/NNSA/LANL/SNLUnited States, 0.731203390962608
+Hazel Hen - Cray XC40 Xeon E5-2680v3 12C 2 5GHz Aries interconnect Cray/HPE HLRS - Höchstleistungsrechenzentrum StuttgartGermany, 0.7618227545816044
+Shaheen II - Cray XC40 Xeon E5-2698v3 16C 2 3GHz Aries interconnect Cray/HPE King Abdullah University of Science and TechnologySaudi Arabia, 0.765288168764521
+Sunway TaihuLight - Sunway MPP Sunway SW26010 260C 1 45GHz Sunway NRCPC National Supercomputing Center in WuxiChina, 0.7414700255102041
+Cori - Cray XC40 Intel Xeon Phi 7250 68C 1 4GHz Aries interconnect Cray/HPE DOE/SC/LBNL/NERSCUnited States, 0.502667620733376
+Oakforest-PACS - PRIMERGY CX1640 M1 Intel Xeon Phi 7250 68C 1 4GHz Intel Omni-Path Fujitsu Joint Center for Advanced High Performance ComputingJapan, 0.5440673435163161
+Piz Daint - Cray XC50 Xeon E5-2690v3 12C 2 6GHz Aries interconnect NVIDIA Tesla P100 Cray/HPE Swiss National Supercomputing Centre (CSCS)Switzerland, 0.7819521178637201
+Gyoukou - ZettaScaler-2 2 HPC system Xeon D-1571 16C 1 3GHz Infiniband EDR PEZY-SC2 700Mhz ExaScaler Japan Agency for Marine-Earth Science and TechnologyJapan, 0.6787670261066969
+Trinity - Cray XC40 Intel Xeon Phi 7250 68C 1 4GHz Aries interconnect Cray/HPE DOE/NNSA/LANL/SNLUnited States, 0.3220153170987484
+Summit - IBM Power System AC922 IBM POWER9 22C 3 07GHz NVIDIA Volta GV100 Dual-rail Mellanox EDR Infiniband IBM DOE/SC/Oak Ridge National LaboratoryUnited States, 0.7400766970466657
+Sierra - IBM Power System S922LC IBM POWER9 22C 3 1GHz NVIDIA Volta GV100 Dual-rail Mellanox EDR Infiniband IBM / NVIDIA / Mellanox DOE/NNSA/LLNLUnited States, 0.7528318696703576
+Tianhe-2A - TH-IVB-FEP Cluster Intel Xeon E5-2692v2 12C 2 2GHz TH Express-2 Matrix-2000 NUDT National Super Computer Center in GuangzhouChina, 0.6102502979737783
+Trinity - Cray XC40 Xeon E5-2698v3 16C 2 3GHz Intel Xeon Phi 7250 68C 1 4GHz Aries interconnect Cray/HPE DOE/NNSA/LANL/SNLUnited States, 0.48625180897250364
+AI Bridging Cloud Infrastructure (ABCI) - PRIMERGY CX2570 M4 Xeon Gold 6148 20C 2 4GHz NVIDIA Tesla V100 SXM2 Infiniband EDR Fujitsu National Institute of Advanced Industrial Science and Technology (AIST)Japan, 0.6101903007980356
+SuperMUC-NG - ThinkSystem SD650 Xeon Platinum 8174 24C 3 1GHz Intel Omni-Path Lenovo Leibniz RechenzentrumGermany, 0.724972087830294
+Sierra - IBM Power System AC922 IBM POWER9 22C 3 1GHz NVIDIA Volta GV100 Dual-rail Mellanox EDR Infiniband IBM / NVIDIA / Mellanox DOE/NNSA/LLNLUnited States, 0.7528438469493278
+Frontera - Dell C6420 Xeon Platinum 8280 28C 2 7GHz Mellanox InfiniBand HDR DELL EMC Texas Advanced Computing Center/Univ of TexasUnited States, 0.6069677419354839
+Lassen - IBM Power System AC922 IBM POWER9 22C 3 1GHz Dual-rail Mellanox EDR Infiniband NVIDIA Tesla V100 IBM / NVIDIA / Mellanox DOE/NNSA/LLNLUnited States, 0.789587852494577
+Supercomputer Fugaku - Supercomputer Fugaku A64FX 48C 2 2GHz Tofu interconnect D Fujitsu RIKEN Center for Computational ScienceJapan, 0.8227881089331919
+Selene - NVIDIA DGX A100 AMD EPYC 7742 64C 2 25GHz NVIDIA A100 Mellanox HDR Infiniband Nvidia NVIDIA CorporationUnited States, 0.8010603382984095
+JUWELS Booster Module - Bull Sequana XH2000 AMD EPYC 7402 24C 2 8GHz NVIDIA A100 Mellanox HDR InfiniBand/ParTec ParaStation ClusterSuite Atos Forschungszentrum Juelich (FZJ)Germany, 0.6215835446604677
+HPC5 - PowerEdge C4140 Xeon Gold 6252 24C 2 1GHz NVIDIA Tesla V100 Mellanox HDR Infiniband DELL EMC Eni S p A Italy, 0.6854215003866976
+Dammam-7 - Cray CS-Storm Xeon Gold 6248 20C 2 5GHz NVIDIA Tesla V100 SXM2 InfiniBand HDR 100 HPE Saudi AramcoSaudi Arabia, 0.40418621436304586
+Perlmutter - HPE Cray EX235n AMD EPYC 7763 64C 2 45GHz NVIDIA A100 SXM4 40 GB Slingshot-10 HPE DOE/SC/LBNL/NERSCUnited States, 0.7559466666666667
+Voyager-EUS2 - ND96amsr_A100_v4 AMD EPYC 7V12 48C 2 45GHz NVIDIA A100 80GB​ Mellanox HDR Infiniband Microsoft Azure Azure East US 2United States, 0.760182140146724
+Frontier - HPE Cray EX235a AMD Optimized 3rd Generation EPYC 64C 2GHz AMD Instinct MI250X Slingshot-11 HPE DOE/SC/Oak Ridge National LaboratoryUnited States, 0.6537537448462017
+LUMI - HPE Cray EX235a AMD Optimized 3rd Generation EPYC 64C 2GHz AMD Instinct MI250X Slingshot-11 HPE EuroHPC/CSCFinland, 0.7210170282248659
+Leonardo - BullSequana XH2000 Xeon Platinum 8358 32C 2 6GHz NVIDIA A100 SXM4 64 GB Quad-rail NVIDIA HDR100 Infiniband Atos EuroHPC/CINECAItaly, 0.683088954056696
+

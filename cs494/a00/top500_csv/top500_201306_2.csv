@@ -1,0 +1,101 @@
+Rank,System,Cores,Rmax (TFlop/s),Rpeak (TFlop/s),Power (kW)
+101,"Cluster Platform SL390s G7, Xeon X5650 6C 2.66GHz, Gigabit Ethernet, NVIDIA 2090,                 HPE                IT Provider (P)United States",31680,293.87,1049.53,3168
+102,"Cluster Platform SL250s Gen8, Xeon E5-2670 8C 2.600GHz, Infiniband QDR,                 HPE                Energy CompanyUnited States",18688,289.74,388.71,1402
+103,"Gordon - Xtreme-X GreenBlade GB512X, Xeon E5-2670 8C 2.600GHz, Infiniband QDR,                 Cray/HPE                UCSD/San Diego Supercomputer CenterUnited States",16160,285.8,336.13,358
+104,"Cluster Platform SL250s Gen8, Xeon E5-2670 8C 2.600GHz, Infiniband QDR,                 HPE                Geoscience (P)United States",18176,281.8,378.06,
+105,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                IT Service Provider (B)United States",19712,279.74,410.01,
+106,"Cluster Platform SL250s Gen8, Xeon E5-2670 8C 2.600GHz, Infiniband QDR,                 HPE                Geoscience (P)United States",17920,277.83,372.74,
+107,"JUROPA - Sun Constellation, NovaScale R422-E2, Intel Xeon X5570, 2.93 GHz, Sun M9/Mellanox  QDR Infiniband/Partec Parastation,                 Atos                Forschungszentrum Juelich (FZJ)Germany",26304,274.8,308.28,1549
+108,"TachyonII - Sun Blade x6048,  X6275, IB QDR M9 switch, Sun HPC stack Linux edition,                 Oracle                KISTI Supercomputing CenterSouth Korea",26232,274.8,307.44,1275
+109,"Todi - Cray XK7 , Opteron 6272 16C 2.100GHz, Cray Gemini interconnect, NVIDIA Tesla K20 Kepler,                 Cray/HPE                Swiss National Supercomputing Centre (CSCS)Switzerland",8160,273.7,392.88,129
+110,"Laure - SGI ICE X, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 HPE                TOTALUnited States",13824,271.75,287.54,319
+111,"Dark Sand - Appro Xtreme-X Supercomputer, Xeon E5-2670 8C 2.600GHz, Infiniband QDR,                 Cray/HPE                Sandia National LaboratoriesUnited States",14720,268.1,306.18,389
+112,"Dark Bridge - Appro Xtreme-X Supercomputer, Xeon E5-2670 8C 2.600GHz, Infiniband QDR,                 Cray/HPE                Sandia National LaboratoriesUnited States",14720,268.1,306.18,389
+113,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2650 8C 2.000GHz, 10G Ethernet,                 HPE                Cerner Corp.United States",25856,266.94,413.7,
+114,"Zeus - Cluster Platform SL390/BL2x220, Xeon X5650 6C 2.660GHz, Infiniband QDR, NVIDIA 2090,                 HPE                CyfronetPoland",25468,266.94,373.89,
+115,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                IT Service Provider (D)United States",18440,263.17,383.55,
+116,"Palmetto2 - Cluster Platform SL250s Gen8, Xeon E5-2665 8C 2.400GHz, Infiniband FDR, NVIDIA K20,                 HPE                Clemson UniversityUnited States",5376,262.4,339.87,
+117,"GPC - xSeries iDataPlex, Xeon E5540 4C 2.53GHz, Infiniband,                 IBM/Lenovo                SciNet/University of Toronto/Compute CanadaCanada",30912,261.63,312.83,1030
+118,"Cluster Platform DL380p Gen8 , Xeon E5-2650 8C 2.000GHz, Gigabit Ethernet,                 HPE                Web Content ProviderUnited States",33920,257.88,542.72,
+119,"Plasma Simulator - Hitachi SR16000 Model M1, POWER7 8C 3.836GHz, Custom Interconnect,                 Hitachi                National Institute for Fusion Science (NIFS)Japan",10304,253.0,316.21,708
+120,"Lonestar 4 - Dell PowerEdge M610 Cluster, Xeon 5680 3.3Ghz, Infiniband QDR,                 DELL EMC                Texas Advanced Computing Center/Univ. of TexasUnited States",22656,251.8,301.78,
+121,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                IT Service Provider (D)United States",16872,251.78,350.94,
+122,"Camphor - Cray XE6, Opteron 16C 2.50GHz, Cray Gemini interconnect,                 Cray/HPE                Kyoto UniversityJapan",30080,251.7,300.8,
+123,"Grifo04 - Itautec Cluster, Xeon X5670 6C 2.930GHz, Infiniband QDR, NVIDIA 2050,                 Itautec                Petróleo Brasileiro S.ABrazil",17408,251.5,563.36,366
+124,"Hitachi SR16000 Model M1, POWER7 8C 3.836GHz, Custom,                 Hitachi                Institute for Materials Research, Tohoku University (IMR)Japan",10240,243.9,306.39,556
+125,"HP POD - Cluster Platform 3000 BL260c G6, X5675 3.06 GHz, Infiniband,                 HPE                AirbusFrance",24192,243.9,296.11,
+126,"Cluster Platform DL360e Gen8, Xeon E5-2450 8C 2.100GHz, Gigabit Ethernet,                 HPE                Software Company (M)United States",29920,242.86,502.66,
+127,"Rackable C2112-4G3 Cluster, Opteron 12 Core 2.10 GHz, Infiniband QDR,                 HPE                Calcul Canada/Calcul Québec/Université de SherbrookeCanada",37728,240.3,316.92,
+128,"Amazon EC2 Cluster Compute Instances - Amazon EC2 Cluster, Xeon 8C 2.60GHz, 10G Ethernet,                 Self-made                Amazon Web ServicesUnited States",17024,240.09,354.1,
+129,"Moonlight - Xtreme-X , Xeon E5-2670 8C 2.600GHz, Infiniband QDR, NVIDIA 2090,                 Cray/HPE                Los Alamos National LaboratoryUnited States",14208,238.2,492.19,227
+130,"Fujitsu PRIMERGY CX250 & RX300, Xeon E5-2690 8C 2.900GHz, Infiniband FDR/QDR,                 Fujitsu                Institute for Molecular ScienceJapan",11424,237.9,265.04,465
+131,"Jade - SGI ICE 8200EX, Xeon E5450 4C 3.000GHz, Infiniband,                 HPE                Grand Equipement National de Calcul Intensif - Centre Informatique National de l'Enseignement Suprieur (GENCI-CINES)France",23040,237.8,267.88,1064
+132,"Lindgren - Cray XE6, Opteron 12 Core 2.10 GHz, Custom,                 Cray/HPE                KTH - Royal Institute of TechnologySweden",36384,237.2,305.63,
+133,"Cluster Platform DL380p Gen8 , Xeon E5-2630 6C 2.300GHz, Gigabit Ethernet,                 HPE                Web-Service ProviderHong Kong",25920,234.25,476.93,
+134,"Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 HPE                Manufacturing CompanyUnited States",13264,234.23,275.89,
+135,"Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.600GHz, Infiniband QDR,                 HPE                IT Services Provider United States",14720,232.69,306.18,
+136,"Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.600GHz, Infiniband QDR,                 HPE                IT Services Provider United States",14720,232.69,306.18,
+137,"Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                Web-Service ProviderUnited States",16064,231.66,334.13,
+138,"Mustang - Xtreme-X 1320H-LANL, Opteron 12 Core 2.30 GHz, Infiniband QDR,                 Cray/HPE                Los Alamos National LaboratoryUnited States",37056,230.6,340.92,540
+139,"Cluster Platform DL160 Gen8 , Xeon E5-2630 6C 2.300GHz, Gigabit Ethernet,                 HPE                Telecommunication CompanyJapan",25056,227.24,461.03,
+140,"MOGON - Saxonid 6100, Opteron 6272 16C 2.100GHz, Infiniband QDR,                 MEGWARE                Universitaet MainzGermany",33920,225.62,284.93,467
+141,"Cluster Platform DL380e Gen8, Xeon E5-2450 8C 2.100GHz, Gigabit Ethernet,                 HPE                Service Provider TChina",27392,224.67,460.19,
+142,"Cluster Platform DL380p Gen8 , Xeon E5-2650 8C 2.000GHz, Gigabit Ethernet,                 HPE                IT Services Provider (B)China",28672,222.8,458.75,
+143,"RWTH Compute Cluster (RCC) - Bullx B500 Cluster, Xeon X56xx 3.06Ghz, QDR Infiniband,                 Atos                Universitaet Aachen/RWTHGermany",25448,219.84,270.54,
+144,"Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                Energy CompanyUnited States",15360,217.89,319.49,
+145,"HP DL160 Cluster G6, Xeon E5645 6C 2.40GHz, Gigabit Ethernet,                 HPE                Web Content ProviderUnited States",44580,215.67,427.97,
+146,"Tup - Cray XE6, Opteron 6172 12C 2.10GHz, Cray Gemini interconnect,                 Cray/HPE                INPE (National Institute for Space Research)Brazil",31104,214.2,261.27,
+147,"Sisu - Cray Cascade, Xeon E5-2670 8C 2.600GHz, Aries interconnect ,                 Cray/HPE                CSC (Center for Scientific Computing)Finland",11776,214.1,244.94,
+148,"iDataPlex DX360M4, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 IBM/Lenovo                Technische Universitaet DarmstadtGermany",12288,213.78,255.59,255
+149,"Maia - SGI Rackable C1104G-RP5, Xeon E5-2670 8C 2.600GHz, Infiniband FDR, Intel Xeon Phi,                 HPE                NASA/Ames Research Center/NASUnited States",17408,212.91,301.38,132
+150,"Riptide - iDataPlex DX360M4, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 IBM                Maui High-Performance Computing Center (MHPCC)United States",12096,212.55,251.6,251
+151,"Tianhe-1A Guangzhou Solution - NUDT YH MPP, Xeon X56xx (Westmere-EP) 2.93 GHz, Proprietary,                 NUDT                National Super Computer Center in GuangzhouChina",13312,211.7,335.69,289
+152,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2680 8C 2.700GHz, 10G Ethernet,                 HPE                Service ProviderUnited States",13872,209.74,299.63,
+153,"Power 775, POWER7 8C 3.84 GHz, Custom,                 IBM                Environment CanadaCanada",8192,204.07,251.4,462
+154,"Power 775, POWER7 8C 3.84 GHz, Custom,                 IBM                Environment CanadaCanada",8192,204.07,251.4,462
+155,"Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                Energy Company (D)United States",14272,202.46,296.86,
+156,"Cluster Platform DL360e Gen8, Xeon E5-2450 8C 2.100GHz, Gigabit Ethernet,                 HPE                Web Content ProviderUnited States",24032,199.82,403.74,
+157,"Cluster Platform DL380p Gen8 , Xeon E5-2650 8C 2.000GHz, Gigabit Ethernet,                 HPE                Telecommunication CompanyChina",25104,197.94,401.66,
+158,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                IT Services Provider United States",13568,197.8,282.21,
+159,"Inspur TS10000, Xeon E5-2670 8C 2.600GHz, Infiniband FDR, K20M/Xeon Phi 5110P,                 Inspur                Shanghai Jiao Tong UniversityChina",8412,196.23,262.56,217
+160,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.60GHz, 10G Ethernet,                 HPE                IT Service ProviderUnited States",13184,192.52,274.23,
+161,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.60GHz, 10G Ethernet,                 HPE                IT Service ProviderUnited States",13168,192.3,273.89,
+162,"Ada - xSeries x3750 Cluster, Xeon E5-2680 8C 2.700GHz, Infiniband FDR,                 IBM                CNRS/IDRIS-GENCIFrance",10624,191.94,229.48,244
+163,"BX900 Xeon X5570 2.93GHz , Infiniband QDR,                 Fujitsu                Japan Atomic Energy Agency (JAEA)Japan",17072,191.4,200.08,831
+164,"x3650M4 Cluster, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 IBM                Petroleum CompanyUnited Kingdom",10976,190.95,228.3,285
+165,"Shaheen - Blue Gene/P Solution,                 IBM                King Abdullah University of Science and TechnologySaudi Arabia",65536,190.9,222.82,504
+166,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2660 8C 2.200GHz, 10G Ethernet,                 HPE                IT Service ProviderUnited States",15504,189.65,272.87,
+167,"Cetus - BlueGene/Q, Power BQC 16C 1.600GHz, Custom Interconnect,                 IBM                DOE/SC/Argonne National LaboratoryUnited States",16384,188.97,209.72,82
+168,"Vesta - BlueGene/Q, Power BQC 16C 1.60GHz, Custom,                 IBM                DOE/SC/Argonne National LaboratoryUnited States",16384,188.97,209.72,82
+169,"CADMOS BG/Q - BlueGene/Q, Power BQC 16C 1.600GHz, Custom Interconnect,                 IBM                Ecole Polytechnique Federale de LausanneSwitzerland",16384,188.97,209.72,82
+170,"BlueGene/Q, Power BQC 16C 1.60 GHz, Custom,                 IBM                IBM Thomas J. Watson Research CenterUnited States",16384,188.97,209.72,82
+171,"BlueGene/Q, Power BQC 16C 1.600GHz, Custom Interconnect,                 IBM                Interdisciplinary Centre for Mathematical and Computational Modelling, University of WarsawPoland",16384,188.97,209.72,82
+172,"BlueGene/Q, Power BQC 16C 1.60GHz, Custom,                 IBM                University of RochesterUnited States",16384,188.97,209.72,82
+173,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2660 8C 2.200GHz, 10G Ethernet,                 HPE                Telecommunication CompanyUnited States",15424,188.74,271.46,
+174,"OCuLUS (Owl CLUSter) - Clustervision CV-AIRE5, Xeon E5-2670 8C 2.600GHz, Infiniband QDR,                 ClusterVision                Universitaet Paderborn - PC2Germany",9600,188.72,199.68,
+175,"SAGA - Z24XX/SL390s Cluster, Xeon E5530/E5645 6C 2.40GHz, Infiniband QDR, NVIDIA 2090/2070,                 Hewlett Packard/WIPRO                Vikram Sarabhai Space Centre, Indian Space Research OrganisationIndia",12532,188.7,394.76,
+176,"iDataPlex DX360M4, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 Lenovo/IBM                Max-Planck-Gesellschaft MPI/IPPGermany",9904,187.37,206.0,206
+177,"Carter - Cluster Platform 3000 SL6500, Xeon E5 (Sandy Bridge - EP) 8C 2.60GHz, FDR Infiniband,                 HPE                Purdue UniversityUnited States",10368,186.9,215.65,252
+178,"Cluster Platform DL360e Gen8, Xeon E5-2450 8C 2.100GHz, Gigabit Ethernet,                 HPE                Software Company (M)United States",23024,186.89,386.8,
+179,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                IT Services Provider Japan",12768,186.78,265.57,
+180,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                IT Service ProviderIsrael",12720,186.12,264.58,
+181,"Cluster Platform DL380p Gen8 , Xeon E5-2650 8C 2.000GHz, Gigabit Ethernet,                 HPE                Web Content ProviderUnited States",24480,186.11,391.68,
+182,"Cray CS300-AC, Xeon E5-2670 8C 2.600GHz, Infiniband QDR,                 Cray/HPE                DOE/Bettis Atomic Power LaboratoryUnited States",10176,184.81,211.66,
+183,"Cray CS300-AC, Xeon E5-2670 8C 2.600GHz, Infiniband QDR,                 Cray/HPE                Knolls Atomic Power LaboratoryUnited States",10176,184.81,211.66,
+184,"Cray XE6, Opteron 16C 2.500GHz, Cray Gemini interconnect,                 Cray/HPE                ERDC DSRCUnited States",23296,184.02,232.96,
+185,"Darwin - Dell PowerEdge C6220, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 DELL EMC                University of CambridgeUnited Kingdom",9728,183.38,202.34,975
+186,"Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 HPE                Computacenter (UK) LTDUnited Kingdom",17280,182.75,359.42,
+187,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2650 8C 2.000GHz, 10G Ethernet,                 HPE                GovernmentUnited States",16480,182.48,263.68,
+188,"Magic Cube - Dawning 5000A, QC Opteron 1.9 Ghz, Infiniband, Windows HPC 2008,                 Sugon                Shanghai Supercomputer CenterChina",30720,180.6,233.47,
+189,"Cluster Platform 3000 BL2x220, L54xx 2.5 Ghz, Infiniband,                 HPE                GovernmentFrance",24704,179.63,247.04,
+190,"Abel - MEGWARE MiriQuid, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 MEGWARE                University of OsloNorway",10080,178.6,209.66,227
+191,"Tide - iDataPlex DX360M4, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 IBM                National Centers for Environment PredictionUnited States",10240,178.15,212.99,204
+192,"Gyre - iDataPlex DX360M4, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 IBM                National Centers for Environment PredictionUnited States",10240,178.15,212.99,204
+193,"airain - Bullx B510, Xeon E5-2680 8C 2.700GHz, Infiniband QDR,                 Atos                Commissariat a l'Energie Atomique (CEA)/CCRTFrance",9440,177.51,203.9,260
+194,"ALPS - Acer AR585 F1 Cluster, Opteron 12C 2.2GHz, QDR infiniband,                 Acer Group                National Center for High Performance ComputingTaiwan",26244,177.1,231.86,
+195,"Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 HPE                IT Services Provider United States",16640,176.42,346.11,
+196,"Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 HPE                IT Services Provider United States",16640,176.42,346.11,
+197,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2680 8C 2.700GHz, 10G Ethernet,                 HPE                IT Service ProviderUnited States",11648,176.11,251.6,
+198,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2680 8C 2.700GHz, 10G Ethernet,                 HPE                IT Service ProviderUnited States",11648,176.11,251.6,
+199,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 HPE                IT Services Provider (D)United States",16392,173.96,340.95,
+200,"Cluster Platform DL360e Gen8, Xeon E5-2450 8C 2.100GHz, Gigabit Ethernet,                 HPE                Software Company (M)United States",21296,172.86,357.77,
