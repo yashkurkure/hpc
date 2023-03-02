@@ -5,7 +5,7 @@ int main() {
 
 int num_threads = -1, thread_id = -3;
 
-#pragma omp parallel private(num_threads, thread_id)
+#pragma omp parallel firstprivate(num_threads, thread_id)
 {
     printf("Intial Values, thread id %d, num_threads %d", thread_id, num_threads);
     thread_id = omp_get_thread_num();

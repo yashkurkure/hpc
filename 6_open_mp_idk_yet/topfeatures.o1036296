@@ -1,0 +1,35 @@
+Starting job on compute-0-33.extreme at Thu Feb 16 14:51:42 CST 2023 
+
+
+Number of threads: 1
+Thread ID: 0Thread ID: 
+3
+Thread ID: Thread ID: 12
+
+Dynamic thread adjustment: 1
+Nested parallelism: 1
+Thread ID: 0 is about to sleep for 1
+Thread ID: 1 is about to sleep for 4
+Thread ID: 2 is about to sleep for 1
+Thread ID: 3 is about to sleep for 3
+Elapsed time: 4.0002 seconds
+Thread ID: 0 is inside the lock
+Thread ID: 2 is inside the lock
+Thread ID: 3 is inside the lock
+Thread ID: 1 is inside the lock
+Thread 3 finished work
+Thread 1 finished workThread 
+0Thread  finished work
+2 finished work
+Reduction: 45
+Thread Thread Thread 03 is processing iteration  is processing iteration 1
+Thread Thread 3 is processing iteration 4
+2Thread 3 is processing iteration 5
+1Thread 3 is processing iteration 6
+ is processing iteration Thread 3 is processing iteration 7
+0Thread 3 is processing iteration 8
+ is processing iteration Thread 3 is processing iteration 9
+3
+
+2
+Job completed at Thu Feb 16 14:51:51 CST 2023

@@ -43,7 +43,7 @@ cat *.o*
 The value of the vairables after the execution of the parallel block will be the same as what it was at the point initially.
 
 ## Can the intial values of the vairables be access in the directive?
-No. See omp_privates3.cc.
+Yes by using firstprivate() instead of private(). See omp_privates3.cc.
 ```
 make omp_privates3
 qsub omp_privates.pbs

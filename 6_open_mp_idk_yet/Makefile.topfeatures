@@ -1,0 +1,10 @@
+CXX = g++
+CXXFLAGS = -Wall -Wextra -fopenmp
+
+all: topfeatures
+
+topfeatures: topfeatures.cc
+	$(CXX) $(CXXFLAGS) $< -o $@
+
+clean:
+	rm -f topfeatures
