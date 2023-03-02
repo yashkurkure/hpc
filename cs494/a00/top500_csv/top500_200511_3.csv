@@ -1,0 +1,101 @@
+Rank,System,Cores,Rmax (TFlop/s),Rpeak (TFlop/s),Power (kW)
+201,"BladeCenter HS20 Cluster, Xeon EM64T 3.2 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",734,2.85,4.7,120
+202,"Cluster Platform 4000 DL145 Opteron 2.4 GHz GigEthernet,                 HPE                Defense ClassifiedUnited States",1024,2.8,4.92,
+203,"eServer 326 Cluster. Opteron 2.6 GHz, GigEthernet,                 IBM                DCSC, University of CopenhagenDenmark",1024,2.79,5.32,
+204,"eServer, Opteron 2.6 GHz, GigEthernet,                 IBM                Semiconductor Company (L)India",1024,2.79,5.32,
+205,"Walton - eServer, Opteron 2.4 GHz, GigEthernet,                 IBM                Irish Centre for High-End ComputingIreland",968,2.79,4.65,
+206,"Blade Cluster BL-20P, Pentium4 Xeon 2.8 GHz, GigEthernet,                 HPE                Gaming Company (B)Taiwan",884,2.77,4.95,
+207,"Blade Cluster BL-20P, Pentium4 Xeon 2.8 GHz, GigEthernet,                 HPE                Gaming Company (B)Taiwan",884,2.77,4.95,
+208,"Cluster Platform 3000 DL360G3 Xeon 3.2 GHz Myrinet,                 HPE                Information Management CompanyUnited States",800,2.76,5.12,
+209,"eServer pSeries p5 575 1.9 GHz,                 IBM                Deutscher WetterdienstGermany",416,2.76,3.16,67
+210,"eServer pSeries p5 575 1.9 GHz,                 IBM                Deutscher WetterdienstGermany",416,2.76,3.16,67
+211,"BladeCenter HS20 Cluster, Xeon EM64T 3.2 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",698,2.75,4.47,114
+212,"Cluster Platform 3000 DL360G4 Xeon 3.4 GHz, Myrinet,                 HPE                GovernmentUnited States",512,2.74,3.48,
+213,"Cluster Platform 3000 DL360G4 Xeon 3.4 GHz, Myrinet,                 HPE                GovernmentGermany",512,2.74,3.48,
+214,"Cluster Platform 3000 DL360G4 Xeon 3.4 GHz, Myrinet,                 HPE                GovernmentGermany",512,2.74,3.48,
+215,"Cluster Platform 3000 DL360G4 Xeon 3.4 GHz, Myrinet,                 HPE                GovernmentGermany",512,2.74,3.48,
+216,"Cluster Platform 3000 DL360G4 Xeon 3.4 GHz, Myrinet,                 HPE                Sandia National LaboratoriesUnited States",512,2.74,3.48,
+217,"Cluster Platform 3000 DL360G3 Xeon 3.06 GHz, GigEthernet,                 HPE                Saudi AramcoSaudi Arabia",800,2.74,4.9,
+218,"Cluster Platform 3000 DL360G3 Xeon 3.06 GHz, GigEthernet,                 HPE                Saudi AramcoSaudi Arabia",800,2.74,4.9,
+219,"Cluster Platform 3000 DL360G3 Xeon 3.06 GHz, GigEthernet,                 HPE                Saudi AramcoSaudi Arabia",800,2.74,4.9,
+220,"Blade Cluster BL-20P, Pentium4 Xeon 3.06 GHz, Gig-Ethernet,                 HPE                Telecommunication CompanyUnited States",800,2.74,4.9,
+221,"Blade Cluster BL-20P, Pentium4 Xeon 3.06 GHz, Gig-Ethernet,                 HPE                Telecommunication CompanyUnited States",800,2.74,4.9,
+222,"Blade Cluster BL-20P, Pentium4 Xeon 3.06 GHz, Gig-Ethernet,                 HPE                Telecommunication CompanyUnited States",800,2.74,4.9,
+223,"Blade Cluster BL-20P, Pentium4 Xeon 3.06 GHz, Gig-Ethernet,                 HPE                Telecommunication CompanyUnited States",800,2.74,4.9,
+224,"pSeries 690 Turbo 1.3GHz,                 IBM                Max-Planck-Gesellschaft MPI/IPPGermany",1024,2.73,5.32,
+225,"Lightning Bolt #7 - Opteron 1.8 GHz dual core, Myrinet,                 Linux Networx                Los Alamos National LaboratoryUnited States",1024,2.73,3.69,
+226,"IITAC - eServer Cluster, Opteron 2.4 GHz, Infiniband,                 IBM                Trinity College DublinIreland",712,2.72,3.41,
+227,"Cluster Platform 3000 DL360G3 Xeon 2.8 GHz GigEthernet,                 HPE                GovernmentUnited States",912,2.7,5.11,
+228,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",736,2.7,5.3,120
+229,"Cluster Platform 3000 DL360G3 Xeon 3.2 GHz Myrinet,                 HPE                GovernmentUnited States",640,2.69,4.1,
+230,"BladeCenter HS20 Cluster, Xeon EM64T 3.2 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",680,2.69,4.35,111
+231,"xSeries x336 Cluster Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (F)India",730,2.68,5.26,
+232,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",722,2.65,5.2,118
+233,"Blade Cluster BL-20P, Pentium4 Xeon 3.06 GHz,                 HPE                Bank (I)United Kingdom",760,2.6,4.65,
+234,"BladeCenter HS20 Cluster, Xeon EM64T 3.2 GHz - Gig-Ethernet,                 IBM                US Navy classifiedUnited States",652,2.59,4.17,106
+235,"BladeCenter HS20 Cluster, Xeon EM64T 3.2 GHz - Gig-Ethernet,                 IBM                US Navy classifiedUnited States",652,2.59,4.17,106
+236,"BladeCenter HS20 Cluster, Xeon EM64T 3.2 GHz - Gig-Ethernet,                 IBM                US Navy classifiedUnited States",652,2.59,4.17,106
+237,"Blade Cluster BL-20P, Pentium4 Xeon 3.2 GHz, GigEthernet,                 HPE                Financial Institution (F)Australia",720,2.58,4.61,
+238,"Blade Cluster BL-20P, Pentium4 Xeon 3.6 GHz, GigEthernet,                 HPE                Financial Institution (G)Australia",640,2.58,4.61,
+239,"Blade Cluster BL-20P, Pentium4 Xeon 3.6 GHz, GigEthernet,                 HPE                Financial Institution (G)Australia",640,2.58,4.61,
+240,"pSeries 690 Turbo 1.3GHz,                 IBM                Environment CanadaCanada",960,2.56,4.99,
+241,"Cluster Platform 6000 rx5670-4x256, Itanium2 1.3 GHz, GigE,                 HPE                Energy Company (D)United States",1024,2.56,5.32,
+242,"xSeries x336 Cluster Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (D)Israel",694,2.54,5.0,
+243,"xSeries x336 Cluster Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (D)Israel",694,2.54,5.0,
+244,"BladeCenter HS20 Cluster, Xeon EM64T 3.2 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",636,2.54,4.07,104
+245,"xSeries x336 Cluster Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (D)Israel",692,2.54,4.98,
+246,"xSeries x336 Cluster Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (D)Israel",692,2.54,4.98,
+247,"xSeries x336 Cluster Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (D)Israel",692,2.54,4.98,
+248,"BladeCenter HS20 Cluster, Xeon EM64T 3.4 GHz - Gig-Ethernet,                 IBM                SinopecChina",692,2.54,4.71,113
+249,"BladeCenter HS20 Cluster, Xeon EM64T 3.4 GHz - Gig-Ethernet,                 IBM                SinopecChina",692,2.54,4.71,113
+250,"BladeCenter HS20 Cluster, Xeon EM64T 3.2 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (D)Israel",634,2.53,4.06,103
+251,"xSeries x336 Cluster, Xeon EM64T 3.2 GHz, GigEthernet,                 IBM                Semiconductor Company (D)Israel",634,2.53,4.06,
+252,"xSeries Xeon 3.06 GHz - Gig-Ethernet,                 IBM                PGSAustralia",672,2.52,4.11,
+253,"eServer pSeries 655 (1.5 GHz Power4+),                 IBM                University of Alaska - Arctic Region Supercomputing CenterUnited States",672,2.51,4.03,
+254,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",628,2.51,4.52,102
+255,"Blade Cluster BL-20P, Pentium4 Xeon 3.2 GHz, GigEthernet,                 HPE                Financial Institution (H)Australia",700,2.5,4.48,
+256,"Blade Cluster BL-20P, Pentium4 Xeon 3.2 GHz, GigEthernet,                 HPE                Financial Institution (H)Australia",700,2.5,4.48,
+257,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",616,2.46,4.44,100
+258,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",616,2.46,4.44,100
+259,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",616,2.46,4.44,100
+260,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",616,2.46,4.44,100
+261,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",616,2.46,4.44,100
+262,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",616,2.46,4.44,100
+263,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",616,2.46,4.44,100
+264,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",616,2.46,4.44,100
+265,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",616,2.46,4.44,100
+266,"eServer, Opteron 2.6 GHz, GigEthernet,                 IBM                Manufacturing CompanyFrance",798,2.42,4.15,
+267,"Blade Cluster BL-20P, Pentium4 Xeon 3.6 GHz, GigEthernet,                 HPE                WellpointUnited States",600,2.41,4.32,
+268,"BladeCenter HS20 Cluster, Xeon EM64T 3.2 GHz - Gig-Ethernet,                 IBM                The Wellcome Trust Sanger InstituteUnited Kingdom",600,2.4,3.84,98
+269,"Blade Cluster BL-25P, Opteron 2.4 GHz, GigEthernet,                 HPE                Financial Institution (J)United Kingdom",896,2.4,4.3,
+270,"Blade Cluster BL-25P, Opteron 2.4 GHz, GigEthernet,                 HPE                Financial Institution (J)United Kingdom",896,2.4,4.3,
+271,"xSeries Xeon 3.06 GHz - Gig-E,                 IBM                Digital Media Company (C)United Kingdom",640,2.4,3.92,
+272,"Cluster Platform 3000 DL360 Xeon 2.8 GHz GigEthernet,                 HPE                Defense ClassifiedUnited States",840,2.4,4.7,
+273,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",652,2.39,4.69,106
+274,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",652,2.39,4.69,106
+275,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",652,2.39,4.69,106
+276,"ASCI Red,                 Intel                Sandia National LaboratoriesUnited States",9632,2.38,3.21,
+277,"Lisa - PowerEdge 1850, 3.4 GHz, Infiniband,                 DELL EMC                SARA (Stichting Academisch Rekencentrum)Netherlands",544,2.37,3.74,
+278,"Cray XD1, 2.2 GHz,                 Cray/HPE                Rice UniversityUnited States",668,2.35,2.94,
+279,"SGI Altix 1.3 GHz,                 HPE                CSAR at the University of ManchesterUnited Kingdom",512,2.34,2.66,
+280,"Blade Cluster BL-20P, Pentium4 Xeon 3.2 GHz, GigEthernet,                 HPE                Bank (K)Belgium",650,2.33,4.16,
+281,"Blade Cluster BL-20P, Pentium4 Xeon 3.2 GHz, GigEthernet,                 HPE                Bank (K)Belgium",650,2.33,4.16,
+282,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                SinopecChina",576,2.31,4.15,94
+283,"pSeries 690 Turbo 1.3GHz,                 IBM                DOE/SC/Oak Ridge National LaboratoryUnited States",864,2.31,4.49,
+284,"eServer, Opteron 2.0 GHz, Myrinet,                 IBM                Automotive Manufacturer (F)Italy",768,2.31,3.07,
+285,"xSeries Xeon 3.06 GHz, Myrinet,                 IBM                Sandia National LaboratoriesUnited States",512,2.27,3.13,
+286,"Red RoSE Cluster - Precision 470 Cluster, 3.6 GHz, Infiniband,                 DELL EMC                Sandia National LaboratoriesUnited States",592,2.21,4.26,
+287,"SuperMike - P4 Xeon 1.8 GHz - Myrinet,                 Atipa Technology                Louisiana State UniversityUnited States",1024,2.21,3.69,
+288,"Flash - Opteron 2 GHz, Myrinet,                 Linux Networx                Los Alamos National LaboratoryUnited States",764,2.18,3.06,
+289,"Intel Cluster, Xeon 3.2 GHz dual core, Infiniband,                 Intel                IntelUnited States",480,2.18,3.07,
+290,"Cray XT3, 2.4 GHz,                 Cray/HPE                GovernmentUnited States",544,2.17,2.61,
+291,"AlphaServer SC45, 1 GHz,                 HPE                NASA/Goddard Space Flight CenterUnited States",1392,2.16,2.78,
+292,"BladeCenter HS20 Cluster, Xeon EM64T 3.2 GHz - Gig-Ethernet,                 IBM                Semiconductor Company (C)United States",534,2.16,3.42,87
+293,"Cluster Platform 3000 DL140G2 Xeon 3.6 GHz Infiniband,                 HPE                Institute of Genomics and Integrative BiologyIndia",576,2.16,4.15,
+294,"SX-6/248M31 (typeE, 1.778ns),                 NEC                Meteorological Research Institute, Japan Meteorological AgencyJapan",248,2.15,2.23,
+295,"Blade Cluster BL-20P, Pentium4 Xeon 3.2 GHz,                 HPE                Financial Institution (K)United States",600,2.15,3.84,
+296,"Blade Cluster BL-20P, Pentium4 Xeon 3.2 GHz,                 HPE                Telecommunication CompanyUnited States",600,2.15,3.84,
+297,"Blade Cluster BL-20P, Pentium4 Xeon 3.2 GHz,                 HPE                Telecommunication CompanyUnited States",600,2.15,3.84,
+298,"Blade Cluster BL-20P, Pentium4 Xeon 3.2 GHz,                 HPE                Telecommunication CompanyUnited States",600,2.15,3.84,
+299,"Blade Cluster BL-20P, Pentium4 Xeon 3.2 GHz,                 HPE                Telecommunication CompanyUnited States",600,2.15,3.84,
+300,"Blade Cluster BL-20P, Pentium4 Xeon 3.2 GHz,                 HPE                Telecommunication CompanyUnited States",600,2.15,3.84,

@@ -1,0 +1,101 @@
+Rank,System,Cores,Rmax (GFlop/s),Rpeak (GFlop/s),Power (kW)
+201,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,                 Lenovo                Service Provider TChina",36000,1552.44,2880.0,
+202,"Internet Company T Z1 - Lenovo RD450, Xeon E5-2680v4 14C 2.4GHz, 10G Ethernet,                 Lenovo                Service Provider TChina",84000,1551.51,3225.6,
+203,"Internet Company T X1 - Lenovo RD450, Xeon E5-2680v4 14C 2.4GHz, 10G Ethernet,                 Lenovo                Service Provider TChina",82880,1537.19,3182.59,
+204,"Astra - Apollo 70, Cavium ThunderX2 CN9975-2000  28C 2GHz, 4xEDR Infiniband,                 HPE                Sandia National LaboratoriesUnited States",125328,1529.0,2005.25,
+205,"LANL CTS-1 Grizzly - Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path,                 Penguin Computing, Inc.                Los Alamos National LaboratoryUnited States",53352,1524.72,1792.63,603
+206,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,                 Lenovo                Service Provider TChina",35200,1521.94,2816.0,
+207,"U1 - ThinkSystem SR650, Xeon Gold 6140 18C 2.3GHz, NVIDIA Tesla V100, Infiniband EDR,                 Lenovo                GovernmentChina",29792,1520.97,2444.71,
+208,"TaiYi GPU - ThinkSystem SD530, Xeon Gold 6140 18C 2.3GHz, NVIDIA Tesla V100, Infiniband EDR,                 Lenovo                Southern University of Science and TechnologyChina",29400,1498.32,2412.54,
+209,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,                 Lenovo                Service Provider TChina",34400,1492.78,2752.0,
+210,"Internet Company T AA1 - Lenovo RD450, Xeon E5-2680v4 14C 2.4GHz, 10G Ethernet,                 Lenovo                Service Provider TChina",79520,1477.92,3053.57,
+211,"Inspur TS10000, Xeon Silver 4114 10C 2.2GHz, NVIDIA Tesla V100, Infiniband FDR,                 Inspur                Internet Service AChina",33000,1471.0,3000.0,
+212,"Endeavor - Intel Cluster, Intel Xeon Gold 6148/Xeon Phi 7250F 68C 1.4GHz, Intel Omni-Path,                 Intel                IntelUnited States",45680,1462.97,2507.26,431
+213,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,                 Lenovo                Service Provider TChina",33600,1462.27,2688.0,
+214,"Salomon - SGI ICE X, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR, Intel Xeon Phi 7120P,                 HPE                IT4Innovations National Supercomputing Center, VSB-Technical University of OstravaCzechia",76896,1457.73,2011.64,4806
+215,"ThinkSystem SD530, Xeon Gold 6140 18C 2.3GHz, Infiniband EDR, NVIDIA Tesla V100,                 Lenovo                GovernmentChina",28224,1443.56,2316.04,
+216,"N1 - ThinkSystem SD530, Xeon Gold 6140 18C 2.3GHz, NVIDIA Tesla V100, Infiniband EDR,                 Lenovo                GovernmentChina",28224,1443.56,2316.04,
+217,"Huawei G5500, Xeon E5-2680v4 14C 2.4GHz, NVIDIA Tesla P100, 100G Ethernet,                 Huawei Technologies Co., Ltd.                Chinese Bank AChina",26180,1432.9,2153.54,160
+218,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,                 Lenovo                Service Provider TChina",32800,1432.0,2624.0,
+219,"Blue Joule - BlueGene/Q, Power BQC 16C 1.60GHz, Custom,                 IBM                Science and Technology Facilities Council - Daresbury LaboratoryUnited Kingdom",131072,1431.1,1677.72,657
+220,"Pre Earth Simulatorv2 - Sugon Si-Cube, Xeon E5-2680v3 12C 2.5GHz, 56Gb 3D-Torus,                 Sugon                Institute of Atmospheric Physics, Chinese Academy of SciencesChina",48000,1428.0,1920.0,600
+221,"XJSCSystem - Sugon TC6000, Xeon E5-2680v4 14C 2.4GHz, NVIDIA Tesla P100, Infiniband FDR,                 Sugon                Xinjiang SC CenterChina",30240,1418.0,2413.82,240
+222,"HKVSSystem - Sugon TC6000, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet,                 Sugon                Internet CompanyChina",82800,1417.0,2914.56,850
+223,"BtACC - Sugon TC6000, Xeon E5-2680v4 14C 2.4GHz, Infiniband FDR,                 Sugon                Baotou Advanced Computing CenterChina",52080,1416.0,1999.87,560
+224,"Spirit - SGI ICE X, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 HPE                Air Force Research LaboratoryUnited States",73584,1415.47,1530.55,1606
+225,"TSystem - Sugon TC6000, Xeon Gold 5118 12C 2.3GHz, 10G Ethernet,                 Sugon                Internet CompanyChina",78000,1405.0,5740.8,800
+226,"GSACC - Sugon TC6000, Xeon Gold 6132 14C 2.6GHz, 100Gb 6D-Torus,                 Sugon                GanSu Advanced Computing CenterChina",28000,1405.0,2329.6,350
+227,"Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,                 Lenovo                Service Provider TChina",32000,1400.88,2560.0,
+228,"MN-1 - SuperServer 4028GR-TR2, Xeon E5-2667v4 8C 3.2GHz, Infiniband FDR, NVIDIA Tesla P100,                 NTT Communications / NTT PC Communications                NTT Communications Tokyo No.4 Data CenterJapan",59392,1391.0,4917.66,
+229,"GCloud - Sugon TC6000, Xeon E5-2680v4 14C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet,                 Sugon                MCloud CompanyChina",30624,1389.0,2459.0,176
+230,"Sid - bullx DLC 720, Xeon E5-2695v4 18C 2.1GHz, Infiniband FDR,                 Atos                AtosFrance",49896,1363.48,1676.51,543
+231,"Curie thin nodes - Bullx B510, Xeon E5-2680 8C 2.700GHz, Infiniband QDR,                 Atos                CEA/TGCC-GENCIFrance",77184,1359.0,1667.17,2132
+232,"Inspur NF5280M, Xeon E5-2682v4 16C 2.5GHz, NVIDIA Tesla P100, 25G Ethernet,                 Inspur                Internet Service AChina",31680,1352.0,2332.0,
+233,"JD B1 - Lenovo x3650, Xeon E5-2683 v4  16C 2.1GHz, 10G Ethernet,                 Lenovo                Internet CompanyChina",82752,1348.56,2780.47,
+234,"Lenovo HR650x, Xeon Gold 6148 20C 2.4GHz, 25G Ethernet,                 Lenovo                Service Provider TChina",32000,1346.76,2457.6,
+235,"SGSystem - Sugon TC6000, Xeon E5-2650v4 12C 2.2GHz, 10G Ethernet,                 Sugon                SPGridChina",78720,1345.0,2770.94,810
+236,"Cedar - Dell C4130, Xeon E5-2650v4 12C 2.2GHz, Intel Omni-Path, NVIDIA Tesla P100,                 DELL EMC                Simon Fraser University/Compute CanadaCanada",35712,1337.0,2863.41,167
+237,"HPE SGI 8600, Xeon Gold 6148 20C 2.4GHz, 4xEDR Infiniband,                 HPE                Central Research Institute of Electric Power Industry/CRIEPIJapan",26400,1326.25,2027.52,358
+238,"Taiwania - PRIMERGY CX2550 M4/CX2560 M4/CX2570 M4, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path,                 Fujitsu                National Center for High Performance ComputingTaiwan",27200,1325.15,2088.96,332
+239,"Internet Company T EE2 - Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,                 Lenovo                Service Provider TChina",30000,1319.52,2400.0,
+240,"Internet Company T EE1 - Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,                 Lenovo                Service Provider TChina",30000,1319.52,2400.0,
+241,"Internet Company T FF1 - Lenovo HR650x, Xeon Gold 6133 20C 2.5GHz, 25G Ethernet,                 Lenovo                Service Provider TChina",29920,1316.84,2393.6,
+242,"Sugon TC6000, Xeon E5-2680v4 14C 2.4GHz, NVIDIA Tesla V100, 10G Ethernet,                 Sugon                Cloud CompanyChina",28884,1314.0,2319.29,165
+243,"JOLIOT-CURIE KNL - Bull Sequana X1000, Intel Xeon Phi 7250 68C 1.4GHz, Bull BXI 1.2,                 Atos                CEA/TGCC-GENCIFrance",56304,1311.33,2339.64,326
+244,"AIGIS - Sugon Cluster W780I, Xeon E5-2630v4 10C 2.2GHz, NVIDIA Tesla P100, Infiniband FDR,                 Sugon                GovernmentChina",24400,1307.0,1950.4,300
+245,"Sugon TC6000, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet,                 Sugon                Internet CompanyChina",76000,1306.0,2675.2,790
+246,"Cobalt - bullx DLC 720, Xeon E5-2680v4 14C 2.4GHz, Infiniband EDR,                 Atos                Commissariat a l'Energie Atomique (CEA)/CCRTFrance",38528,1299.47,1479.47,539
+247,"Ansel - IBM Power System AC922, IBM POWER9 22C 3.1GHz, Dual-rail Mellanox EDR Infiniband, NVIDIA Tesla V100,                 IBM / NVIDIA / Mellanox                DOE/NNSA/LLNLUnited States",19656,1289.0,1686.57,
+248,"Sugon TC6000, Xeon E5-2680v4 14C 2.4GHz, Infiniband FDR,                 Sugon                Chendu SC CenterChina",47040,1286.0,1806.34,504
+249,"Conrad - Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect , Intel Xeon Phi 5120D,                 Cray/HPE                Navy DSRCUnited States",61256,1285.6,2049.6,2324
+250,"Gordon - Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect , Intel Xeon Phi 5120D,                 Cray/HPE                Navy DSRCUnited States",61256,1285.6,2049.6,2324
+251,"Lenovo x240 M5, Xeon E5-2667v4 8C 3.2GHz, 10G Ethernet,                 Lenovo                China Manufacture Company BChina",51200,1284.5,2621.44,
+252,"Lenovo HR650x, Xeon Gold 6148 20C 2.4GHz, 25G Ethernet,                 Lenovo                Service Provider TChina",30400,1284.26,2334.72,
+253,"iDataPlex DX360M4, Intel Xeon E5-2680v2  10C 2.800GHz, Infiniband FDR,                 Lenovo/IBM                Max-Planck-Gesellschaft MPI/IPPGermany",65320,1283.31,1463.17,1260
+254,"Inspur SA5212M4, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet,                 Inspur                Internet Service AChina",66560,1276.0,2662.4,
+255,"Nebulae - Dawning TC3600 Blade System, Xeon X5650 6C 2.66GHz, Infiniband QDR, NVIDIA 2050,                 Sugon                National Supercomputing Centre in Shenzhen (NSCS)China",120640,1271.0,2984.3,2580
+256,"Inspur SA5212M4, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet,                 Inspur                Internet Service AChina",65280,1271.0,2611.2,
+257,"Inspur SA5212M4, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet,                 Inspur                Internet Service AChina",64000,1269.0,2560.0,
+258,"Inspur SA5212M4, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet,                 Inspur                Internet Service AChina",64000,1269.0,2560.0,
+259,"MCSystem - Sugon TC6000, Xeon E5-2650v4 12C 2.2GHz, 10G Ethernet,                 Sugon                MCloud CompanyChina",74400,1266.0,2618.88,800
+260,"GSCloud - Sugon TC6000, Xeon E5-2680v4 14C 2.4GHz, 10G Ethernet,                 Sugon                Cloud CompanyChina",67200,1262.0,2580.48,720
+261,"DJSystem - Sugon TC6000, Xeon E5-2620v4 8C 2.1GHz, 10G Ethernet,                 Sugon                DJIT CompanyChina",76480,1258.0,2569.73,770
+262,"A1 - Lenovo RD650, Xeon Gold 6148 20C 2.4GHz, 25G Ethernet,                 Lenovo                Financial Company PChina",29760,1257.62,2285.57,
+263,"Yellowstone - iDataPlex DX360M4, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 IBM                National Center for Atmospheric Research (NCAR)United States",72288,1257.62,1503.59,1437
+264,"HKVSystem - Sugon TC6000, Intel Xeon E5-2658v2 10C 2.4GHz, 10G Ethernet,                 Sugon                Internet CompanyChina",68000,1257.0,1305.6,840
+265,"BSystem - Sugon TC6000, Xeon Gold 5117 14C 2GHz, 10G Ethernet,                 Sugon                Internet Service (B)China",81200,1254.0,5196.8,870
+266,"Sugon TC6000, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet,                 Sugon                Cloud CompanyChina",72800,1252.0,2562.56,760
+267,"Sisu - Cray XC40, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect ,                 Cray/HPE                CSC (Center for Scientific Computing)Finland",40608,1250.0,1689.29,680
+268,"CTRtraning - Sugon I620, Xeon E5-2650v4 12C 2.2GHz, 10G Ethernet,                 Sugon                Internet Service (B)China",72000,1242.0,2534.4,900
+269,"Era-AI - Sugon Cluster W780I, Xeon E5-2650v4 12C 2.2GHz, NVIDIA Tesla P100, Infiniband FDR,                 Sugon                Computer Network Information Center, Chinese Academy of ScienceChina",22656,1238.0,1845.35,144
+270,"TYACC-System - Sugon TC6000, Xeon Gold 6132 14C 2.6GHz, 100Gb 6D-Torus,                 Sugon                Taiyuan Advanced Computing CenterChina",24640,1237.0,2050.05,320
+271,"Graham - Huawei X6800 V3, Xeon E5-2683 v4  16C 2.1GHz, Infiniband EDR/FDR, NVIDIA Tesla P100,                 Huawei Technologies Co., Ltd.                SharcNetCanada",51200,1228.0,2641.41,546
+272,"Inspur TS10000, Xeon Gold 6132 14C 2.6GHz, NVIDIA Tesla V100, Infiniband EDR,                 Inspur                Internet CompanyChina",26720,1228.0,2242.62,
+273,"Inspur TS10000, Xeon Gold 6132 14C 2.6GHz, NVIDIA Tesla V100, Infiniband EDR,                 Inspur                Internet CompanyChina",26720,1228.0,2242.62,
+274,"Inspur TS10000, Xeon Gold 6132 14C 2.6GHz, NVIDIA Tesla V100, Infiniband EDR,                 Inspur                Internet CompanyChina",26720,1228.0,2242.62,
+275,"Diego - bullx DLC 720, Xeon E5-2698v4 20C 2.2GHz, Infiniband FDR,                 Atos                AtosFrance",46800,1225.28,1647.36,472
+276,"SNL/NNSA CTS-1 Serrano - Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path,                 Penguin Computing, Inc.                Sandia National LaboratoriesUnited States",40392,1223.7,1357.17,480
+277,"SNL/NNSA CTS-1 Cayenne - Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path,                 Penguin Computing, Inc.                Sandia National LaboratoriesUnited States",40392,1223.7,1357.17,480
+278,"Cray XC40, E5-2680v3 12C 2.5Ghz/Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ,                 Cray/HPE                Deutscher WetterdienstGermany",41472,1214.2,1459.81,528
+279,"B1 - Lenovo RD650, Xeon Gold 6148 20C 2.4GHz, NVIDIA Tesla V100, 25G Ethernet,                 Lenovo                Financial Company PChina",24000,1213.62,1980.72,
+280,"RAIDEN GPU subsystem - NVIDIA DGX-1 Volta36, Xeon E5-2698v4 20C 2.2GHz, Infiniband EDR, NVIDIA Tesla V100,                 Fujitsu                Center for Advanced Intelligence Project, RIKENJapan",35360,1213.0,3244.8,
+281,"Lenovo HR630X, Xeon Silver 4110 8C 2.1GHz, 10G Ethernet,                 Lenovo                Service Provider TChina",76800,1212.8,5160.96,
+282,"ThinkSystem HR650X, Xeon Gold 6138 20C 2GHz, 10G Ethernet,                 Lenovo                Network CompanyChina",36000,1202.68,2304.0,
+283,"Cray XC40, Xeon E5-2697v4 18C 2.3GHz, Aries interconnect ,                 Cray Inc./T-Platforms                Main Computing Center of RoshydrometRussia",35136,1200.35,1293.01,
+284,"Wilkes-2 - Dell C4130, Xeon E5-2650v4 12C 2.2GHz, Infiniband EDR, NVIDIA Tesla P100,                 DELL EMC                University of CambridgeUnited Kingdom",21240,1193.0,1751.62,114
+285,"Inspur SA5212H5, Xeon E5-2682v4 16C 2.5GHz, NVIDIA Tesla P100, 25G Ethernet,                 Inspur                Internet Service AChina",28800,1188.0,2120.0,
+286,"Inspur SA5212H5, Xeon E5-2682v4 16C 2.5GHz, NVIDIA Tesla P100, 25G Ethernet,                 Inspur                Internet Service AChina",28800,1188.0,2120.0,
+287,"Inspur SA5212H5, Xeon E5-2682v4 16C 2.5GHz, NVIDIA Tesla P100, 25G Ethernet,                 Inspur                Internet Service AChina",24960,1182.0,2204.8,
+288,"Inspur SA5212H5, Xeon E5-2682v4 16C 2.5GHz, NVIDIA Tesla P100, 25G Ethernet,                 Inspur                Internet Service AChina",24960,1182.0,2204.8,
+289,"Apollo 6000 XL230k, Xeon Gold 6142 16C 2.6GHz, Infiniband EDR,                 HPE                Manufacturing CompanyUnited States",23808,1181.07,1980.83,
+290,"Apollo 6000 XL230k, Xeon Gold 6142 16C 2.6GHz, Infiniband EDR,                 HPE                Manufacturing CompanyUnited States",23808,1181.07,1980.83,
+291,"Inspur NF5588M4, Xeon E5-2682v4 16C 2.5GHz, NVIDIA Tesla V100, 25G Ethernet,                 Inspur                Internet Service AChina",26880,1180.0,2200.64,
+292,"LLNL/NNSA CTS-1 Nel - Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path,                 Penguin Computing, Inc.                Lawrence Livermore National LaboratoryUnited States",39744,1179.58,1335.4,485
+293,"Sekirei - SGI ICE XA, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR,                 HPE                University of Tokyo/Institute for Solid State PhysicsJapan",38016,1178.3,1520.64,581
+294,"Inspur SA5212H5, Xeon E5-2682v4 16C 2.5GHz, NVIDIA Tesla P100, 25G Ethernet,                 Inspur                Internet Service AChina",12800,1171.0,2120.0,
+295,"Inspur SA5212H5, Xeon E5-2682v4 16C 2.5GHz, NVIDIA Tesla P100, 25G Ethernet,                 Inspur                Internet Service AChina",12800,1171.0,2120.0,
+296,"Garnet - Cray XE6, Opteron 16C 2.500GHz, Cray Gemini interconnect,                 Cray/HPE                ERDC DSRCUnited States",150528,1167.0,1505.28,5569
+297,"Inspur TS10000, Xeon Gold 6130 16C 2.1GHz, NVIDIA Tesla V100, Infiniband EDR,                 Inspur                Internet CompanyChina",26880,1161.0,2400.0,
+298,"Internet Company T CC1 - Lenovo RD450, Xeon E5-2670v3 12C 2.3GHz, 10G Ethernet,                 Lenovo                Service Provider TChina",64320,1156.5,2366.98,
+299,"Huawei G5500, Xeon E5-2650v4 12C 2.2GHz, NVIDIA Tesla V100, 100G Ethernet,                 Huawei Technologies Co., Ltd.                Telecom CompanyChina",23904,1154.8,1964.91,107
+300,"Inspur NF5280M, Xeon E5-2682v4 16C 2.5GHz, NVIDIA Tesla P100, 25G Ethernet,                 Inspur                Internet Service AChina",28800,1152.0,2544.0,

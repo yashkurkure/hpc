@@ -1,0 +1,101 @@
+Rank,System,Cores,Rmax (TFlop/s),Rpeak (TFlop/s),Power (kW)
+1,"Sunway TaihuLight - Sunway MPP, Sunway SW26010 260C 1.45GHz, Sunway,                 NRCPC                National Supercomputing Center in WuxiChina",10649600,93014.59,125435.9,15371
+2,"Tianhe-2A - TH-IVB-FEP Cluster, Intel Xeon E5-2692 12C 2.200GHz, TH Express-2, Intel Xeon Phi 31S1P,                 NUDT                National Super Computer Center in GuangzhouChina",3120000,33862.7,54902.4,17808
+3,"Piz Daint - Cray XC50, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect , NVIDIA Tesla P100,                 Cray/HPE                Swiss National Supercomputing Centre (CSCS)Switzerland",361760,19590.0,25326.26,2272
+4,"Gyoukou - ZettaScaler-2.2 HPC system, Xeon D-1571 16C 1.3GHz, Infiniband EDR, PEZY-SC2 700Mhz,                 ExaScaler                Japan Agency for Marine-Earth Science and TechnologyJapan",19860000,19135.8,28192.0,1350
+5,"Titan - Cray XK7, Opteron 6274 16C 2.200GHz, Cray Gemini interconnect, NVIDIA K20x,                 Cray/HPE                DOE/SC/Oak Ridge National LaboratoryUnited States",560640,17590.0,27112.55,8209
+6,"Sequoia - BlueGene/Q, Power BQC 16C 1.60 GHz, Custom,                 IBM                DOE/NNSA/LLNLUnited States",1572864,17173.22,20132.66,7890
+7,"Trinity - Cray XC40, Intel Xeon Phi 7250 68C 1.4GHz, Aries interconnect ,                 Cray/HPE                DOE/NNSA/LANL/SNLUnited States",979968,14137.3,43902.57,3844
+8,"Cori - Cray XC40, Intel Xeon Phi 7250 68C 1.4GHz, Aries interconnect ,                 Cray/HPE                DOE/SC/LBNL/NERSCUnited States",622336,14014.7,27880.65,3939
+9,"Oakforest-PACS - PRIMERGY CX1640 M1, Intel Xeon Phi 7250 68C 1.4GHz, Intel Omni-Path,                 Fujitsu                Joint Center for Advanced High Performance ComputingJapan",556104,13554.6,24913.46,2719
+10,"K computer, SPARC64 VIIIfx 2.0GHz, Tofu interconnect,                 Fujitsu                RIKEN Advanced Institute for Computational Science (AICS)Japan",705024,10510.0,11280.38,12660
+11,"Mira - BlueGene/Q, Power BQC 16C 1.60GHz, Custom,                 IBM                DOE/SC/Argonne National LaboratoryUnited States",786432,8586.61,10066.33,3945
+12,"Stampede2 - PowerEdge C6320P/C6420, Intel Xeon Phi 7250 68C 1.4GHz/Platinum 8160, Intel Omni-Path,                 DELL EMC                Texas Advanced Computing Center/Univ. of TexasUnited States",368928,8317.72,18215.8,
+13,"TSUBAME3.0 - SGI ICE XA, IP139-SXM2, Xeon E5-2680v4 14C 2.4GHz, Intel Omni-Path, NVIDIA Tesla P100 SXM2,                 HPE                GSIC Center, Tokyo Institute of TechnologyJapan",135828,8125.0,12127.07,792
+14,"Marconi Intel Xeon Phi - CINECA Cluster, Lenovo SD530, Intel Xeon Phi 7250 68C 1.4GHz/Platinum 8160, Intel Omni-Path,                 Lenovo                CINECAItaly",314384,7471.08,15371.96,
+15,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ,                 Cray/HPE                United Kingdom Meteorological OfficeUnited Kingdom",241920,7038.93,8128.51,
+16,"MareNostrum - Lenovo SD530, Xeon Platinum 8160 24C 2.1GHz, Intel Omni-Path,                 Lenovo                Barcelona Supercomputing CenterSpain",153216,6470.8,10296.11,1632
+17,"Pleiades - SGI ICE X, Intel Xeon E5-2670/E5-2680v2/E5-2680v3/E5-2680v4  2.6/2.8/2.5/2.4 GHz, Infiniband FDR,                 HPE                NASA/Ames Research Center/NASUnited States",241108,5951.55,7107.15,4407
+18,"Theta - Cray XC40, Intel Xeon Phi 7230 64C 1.3GHz, Aries interconnect ,                 Cray/HPE                DOE/SC/Argonne National LaboratoryUnited States",231424,5884.62,9627.24,1087
+19,"Hazel Hen - Cray XC40, Xeon E5-2680v3 12C 2.5GHz, Aries interconnect ,                 Cray/HPE                HLRS - Höchstleistungsrechenzentrum StuttgartGermany",185088,5640.17,7403.52,3615
+20,"Shaheen II - Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect ,                 Cray/HPE                King Abdullah University of Science and TechnologySaudi Arabia",196608,5536.99,7235.17,2834
+21,"Pangea - SGI ICE X, Xeon Xeon E5-2670/ E5-2680v3 12C 2.5GHz, Infiniband FDR,                 HPE                Total Exploration ProductionFrance",220800,5283.11,6712.32,4150
+22,"JUQUEEN - BlueGene/Q, Power BQC 16C 1.600GHz, Custom Interconnect,                 IBM                Forschungszentrum Juelich (FZJ)Germany",458752,5008.86,5872.03,2301
+23,"JUQUEEN - BlueGene/Q, Power BQC 16C 1.600GHz, Custom Interconnect,                 IBM                Forschungszentrum Juelich (FZJ)Germany",458752,5008.86,5872.03,2301
+24,"Tera-1000-2-Part 1 - Bull Sequana X1000, Intel Xeon Phi 7250 68C 1.4GHz, Bull BXI 1.2,                 Atos                Commissariat a l'Energie Atomique (CEA)France",208896,4967.22,9358.54,1248
+25,"Cheyenne - SGI ICE XA, Xeon E5-2697v4 18C 2.3GHz, Infiniband EDR,                 HPE                National Center for Atmospheric Research (NCAR)United States",144900,4788.19,5332.32,1727
+26,"Vulcan - BlueGene/Q, Power BQC 16C 1.600GHz, Custom Interconnect,                 IBM                DOE/NNSA/LLNLUnited States",393216,4293.31,5033.16,1972
+27,"Abel - Cray XC30, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect ,                 Cray/HPE                Petroleum Geo-ServicesUnited States",145920,4042.46,5369.86,1800
+28,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ,                 Cray/HPE                ECMWFUnited Kingdom",126468,3944.68,4249.32,1897
+29,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ,                 Cray/HPE                ECMWFUnited Kingdom",126468,3944.68,4249.32,1897
+30,"JURECA - T-Platforms V-Class/Dell C6320P, E5-2680v3/Phi 7250-F, EDR/Intel Omni-Path/ParTec ParaStation, Tesla K80/K40,                 T-Platforms, Intel, Dell                Forschungszentrum Juelich (FZJ)Germany",155150,3782.57,6563.84,1345
+31,"Cray CS-Storm, Intel Xeon E5-2660v2 10C 2.2GHz, Infiniband FDR, Nvidia K40,                 Cray/HPE                GovernmentUnited States",72800,3577.0,6131.84,1499
+32,"Cray CS-Storm, Intel Xeon E5-2660v2 10C 2.2GHz, Infiniband FDR, Nvidia K40,                 Cray/HPE                GovernmentUnited States",72800,3577.0,6131.84,1499
+33,"ONYX - Cray XC40, Intel Xeon Phi 7230 64C 1.3GHz/Xeon E5-2699v4, Aries interconnect ,                 Cray/HPE                ERDC DSRCUnited States",160304,3409.61,5865.52,
+34,"Electra - HPE SGI 8600, SGI ICE-X, Xeon E5-2680V4/Gold 6148 20C 2.4GHz, Infiniband EDR,                 HPE                NASA/Ames Research Center/NASUnited States",78336,3328.59,4777.57,980
+35,"Topaz - SGI ICE X, Xeon E5-2699v3 18C 2.3GHz, Infiniband FDR,                 HPE                ERDC DSRCUnited States",124200,3318.95,4570.56,5175
+36,"NVIDIA DGX-1/Relion 2904GT, Xeon E5-2698v4 20C 2.2GHz/ E5-2650v4, Infiniband EDR, NVIDIA Tesla P100/Quadro GP100,                 Self-made                FacebookUnited States",60512,3307.0,4896.51,350
+37,"DGX Saturn V - NVIDIA DGX-1, Xeon E5-2698v4 20C 2.2GHz, Infiniband EDR, NVIDIA Tesla P100,                 Nvidia                NVIDIA CorporationUnited States",60512,3307.0,4896.51,350
+38,"HPC2 - iDataPlex DX360M4, Intel Xeon E5-2680v2  10C 2.8GHz, Infiniband FDR, NVIDIA K20x,                 IBM                Eni S.p.A.Italy",72000,3188.0,4605.0,1227
+39,"SORA-MA - Fujitsu PRIMEHPC FX100, SPARC64 XIfx  32C 1.98GHz, Tofu interconnect 2,                 Fujitsu                Japan Aerospace eXploration AgencyJapan",110160,3157.0,3481.06,1652
+40,"Cray XC30, Intel Xeon E5-2697v2 12C 2.7GHz, Aries interconnect ,                 Cray/HPE                GovernmentUnited States",225984,3143.52,4881.25,6328
+41,"Thunder - SGI ICE X, Xeon E5-2699v3/E5-2697 v3, Infiniband FDR, NVIDIA Tesla K40, Intel Xeon Phi 7120P,                 HPE                Air Force Research LaboratoryUnited States",152692,3126.24,5610.48,4820
+42,"Camphor 2 - Cray XC40, Intel Xeon Phi 7250 68C 1.4GHz, Aries interconnect ,                 Cray/HPE                Academic Center for Computing and Media Studies (ACCMS),  Kyoto UniversityJapan",122400,3057.35,5483.52,748
+43,"Mistral - bullx DLC 720, Xeon E5-2680v3 12C 2.5GHz/E5-2695V4 18C  2.1Ghz, Infiniband FDR,                 Atos                DKRZ - Deutsches KlimarechenzentrumGermany",99072,3010.68,3962.88,1116
+44,"Fujitsu PRIMEHPC FX100, SPARC64 XIfx 32C 2.2GHz, Tofu interconnect 2,                 Fujitsu                Information Technology Center, Nagoya UniversityJapan",92160,2910.0,3244.03,1382
+45,"SuperMUC - iDataPlex DX360M4, Xeon E5-2680 8C 2.70GHz, Infiniband FDR,                 IBM/Lenovo                Leibniz RechenzentrumGermany",147456,2897.0,3185.05,3423
+46,"SuperMUC Phase 2 - NeXtScale nx360M5, Xeon E5-2697v3 14C 2.6GHz, Infiniband FDR14,                 Lenovo/IBM                Leibniz RechenzentrumGermany",86016,2813.62,3578.27,1481
+47,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ,                 Cray/HPE                United Kingdom Meteorological OfficeUnited Kingdom",89856,2801.78,3019.16,1348
+48,"Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ,                 Cray/HPE                United Kingdom Meteorological OfficeUnited Kingdom",89856,2801.78,3019.16,1348
+49,"TSUBAME 2.5 - Cluster Platform SL390s G7, Xeon X5670 6C 2.93GHz, Infiniband QDR, NVIDIA K20x,                 NEC/HPE                GSIC Center, Tokyo Institute of TechnologyJapan",76032,2785.0,5735.69,1399
+50,"LLNL/NNSA CTS-1 Jade - Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path,                 Penguin Computing, Inc.                Lawrence Livermore National LaboratoryUnited States",95472,2632.51,3207.86,13620
+51,"LLNL CTS-1 Quartz - Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path,                 Penguin Computing, Inc.                Lawrence Livermore National LaboratoryUnited States",95472,2632.51,3207.86,13620
+52,"HPC3 - Lenovo NeXtScale nx360M5, Xeon E5-2697v4 18C 2.3GHz, Infiniband EDR, NVIDIA Tesla K80,                 Lenovo                Energy Company (A)Italy",66000,2592.0,3798.6,
+53,"Tianhe-1A - NUDT YH MPP, Xeon X5670 6C 2.93 GHz, NVIDIA 2050,                 NUDT                National Supercomputing Center in TianjinChina",186368,2566.0,4701.0,4040
+54,"cascade - Atipa Visione IF442 Blade Server, Xeon E5-2670 8C 2.600GHz, Infiniband FDR, Intel Xeon Phi 5110P,                 Atipa Technology                DOE/SC/Pacific Northwest National LaboratoryUnited States",194616,2539.13,3388.03,1384
+55,"occigen2 - bullx DLC 720, Xeon E5-2690v4 14C 2.6GHz, Infiniband FDR,                 Atos                Grand Equipement National de Calcul Intensif - Centre Informatique National de l'Enseignement Suprieur (GENCI-CINES)France",85824,2494.65,3570.28,1430
+56,"Excalibur - Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect ,                 Cray/HPE                Army Research Laboratory DoD Supercomputing Resource Center (ARL DSRC)United States",100064,2485.0,3682.36,1466
+57,"Centennial - SGI ICE XA, Xeon E5-2698v4 20C 2.2GHz, Infiniband EDR,                 HPE                US Army Research Laboratory (ARL)United States",73920,2443.7,2601.98,835
+58,"Nuri - Cray XC40, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect ,                 Cray/HPE                Korea Meteorological AdministrationSouth Korea",69600,2395.68,2895.36,1359
+59,"Miri - Cray XC40, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect ,                 Cray/HPE                Korea Meteorological AdministrationSouth Korea",69600,2395.68,2895.36,1359
+60,"Plasma Simulator - Fujitsu PRIMEHPC FX100, SPARC64 XIfx  32C 1.98GHz, Tofu interconnect 2,                 Fujitsu                National Institute for Fusion Science (NIFS)Japan",82944,2376.0,2621.03,1244
+61,"Makman-2 - Dell PowerEdge R630, Xeon E5-2680v3 12C 2.5GHz, Infiniband QDR,                 DELL EMC                Saudi AramcoSaudi Arabia",76032,2249.68,3041.28,1134
+62,"Prolix2 - bullx DLC 720, Xeon E5-2698v4 20C 2.2GHz, Infiniband FDR,                 Atos                Meteo FranceFrance",72000,2167.99,2534.4,830
+63,"Beaufix2 - bullx DLC 720, Xeon E5-2698v4 20C 2.2GHz, Infiniband FDR,                 Atos                Meteo FranceFrance",73440,2157.41,2585.09,830
+64,"Lomonosov 2 - T-Platform A-Class Cluster, Xeon E5-2697v3 14C 2.6GHz, Infiniband FDR, Nvidia K40m,                 T-Platforms                Moscow State University - Research Computing CenterRussia",42688,2102.0,2962.25,1079
+65,"Tianhe-2 LvLiang Solution - Tianhe-2 LvLiang, Intel Xeon E5-2692v2 12C 2.2GHz, TH Express-2, Intel Xeon Phi 31S1P,                 NUDT                LvLiang Cloud Computing CenterChina",174720,2071.39,3074.53,997
+66,"Mogon II - NEC Cluster, Xeon Gold 6130 16C 2.1GHz, MEGWARE MiriQuid Xeon E5-2630v4, Intel Omni-Path,                 NEC/MEGWARE                Universitaet MainzGermany",49432,1967.81,2800.87,657
+67,"Biowulf - Apollo 2000 Gen 8/9, Xeon E5-2680v4/E5-2695v3 14C 2.4GHz, Infiniband FDR,                 HPE                National Institutes of Health (NIH)United States",66304,1966.08,2491.37,
+68,"SGI ICE X, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR,                 HPE                Japan Atomic Energy Agency (JAEA)Japan",60240,1929.37,2409.6,3012
+69,"Tera-1000-1 - bullx DLC 720, Xeon E5-2698v3 16C 2.3GHz, Infiniband FDR,                 Atos                Commissariat a l'Energie Atomique (CEA)France",70272,1871.0,2586.01,1042
+70,"Beskow - Cray XC40, Xeon E5-2695v4/E5-2698v3 16C 2.3GHz, Aries interconnect ,                 Cray/HPE                KTH - Royal Institute of TechnologySweden",67456,1802.51,2438.14,842
+71,"Molecular Simulator - NEC LX Cluster, Xeon Gold 6148/6154, Intel Omni-Path,                 NEC                Institute for Molecular ScienceJapan",38552,1785.62,3072.77,544
+72,"QURIOSITY - Apollo XL230k, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path,                 HPE                BASFGermany",35280,1750.18,2709.5,
+73,"Marconi Intel Xeon - Lenovo NeXtScale nx360M5, Xeon E5-2697v4 18C 2.3GHz, Omni-Path,                 Lenovo                CINECAItaly",54432,1723.89,2003.1,1361
+74,"Inspur TS10000, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet, NVIDIA Tesla P100,                 Inspur                Internet Service AChina",39680,1714.0,3149.6,
+75,"SwiftLucy - Cluster Platform 3000 BL460c Gen9, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR,                 HPE                GovernmentUnited States",57600,1703.28,2304.0,2880
+76,"Peta4 - Dell C6420, Xeon Gold 6142 16C 2.6GHz, Intel Omni-Path,                 DELL EMC                University of CambridgeUnited Kingdom",46464,1696.6,2875.0,480
+77,"Raijin - Hybrid Cluster PRIMERGY/x3550 M5/PowerEdge/Rackable/Rackable, Xeon , Infiniband EDR, NVIDIA Tesla P100, Xeon Phi,                 Fujitsu / Lenovo / Xenon                National Computational Infrastructure (NCI Australia)Australia",87224,1676.22,3801.42,
+78,"Prometheus - HP Apollo 8000, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR, NVIDIA Tesla K40,                 HPE                CyfronetPoland",55728,1670.09,2348.64,808
+79,"Edison - Cray XC30, Intel Xeon E5-2695v2 12C 2.4GHz, Aries interconnect ,                 Cray/HPE                DOE/SC/LBNL/NERSCUnited States",133824,1654.7,2569.42,3747
+80,"ARCHER - Cray XC30, Intel Xeon E5 v2 12C 2.700GHz, Aries interconnect ,                 Cray/HPE                EPSRC/University of EdinburghUnited Kingdom",118080,1642.54,2550.53,3306
+81,"Surge - Cray XC40, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect ,                 Cray/HPE                NOAAUnited States",48960,1635.02,2036.74,956
+82,"Luna - Cray XC40, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect ,                 Cray/HPE                NOAAUnited States",48960,1635.02,2036.74,956
+83,"HOKUSAI BigWaterfall	 - PRIMERGY CX2550 M4, Xeon Gold 6148 20C 2.4GHz, Infiniband EDR,                 Fujitsu                Information Systems Division, RIKENJapan",33600,1601.0,2580.48,
+84,"Power 775, POWER7 8C 3.836GHz, Custom Interconnect,                 IBM                IBM Development EngineeringUnited States",62944,1587.0,1931.62,3576
+85,"scafellpike - Bull Sequana X1000, Intel Xeon Phi 7210 64C 1.3GHz/Xeon Gold 6142, Mellanox EDR,                 Atos                Science and Technology Facilities CouncilUnited Kingdom",80640,1531.6,4329.73,526
+86,"LANL CTS-1 Grizzly - Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path,                 Penguin Computing, Inc.                Los Alamos National LaboratoryUnited States",53352,1524.72,1792.63,603
+87,"Endeavor - Intel Cluster, Intel Xeon Gold 6148/Xeon Phi 7250F 68C 1.4GHz, Intel Omni-Path,                 Intel                IntelUnited States",45680,1462.97,2507.26,431
+88,"Salomon - SGI ICE X, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR, Intel Xeon Phi 7120P,                 HPE                IT4Innovations National Supercomputing Center, VSB-Technical University of OstravaCzechia",76896,1457.73,2011.64,4806
+89,"Blue Joule - BlueGene/Q, Power BQC 16C 1.60GHz, Custom,                 IBM                Science and Technology Facilities Council - Daresbury LaboratoryUnited Kingdom",131072,1431.1,1677.72,657
+90,"Spirit - SGI ICE X, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 HPE                Air Force Research LaboratoryUnited States",73584,1415.47,1530.55,1606
+91,"Piz Daint Multicore - Cray XC40, Xeon E5-2695v4 18C 2.1GHz, Aries interconnect ,                 Cray/HPE                Swiss National Supercomputing Centre (CSCS)Switzerland",44928,1410.73,1509.58,519
+92,"MN-1 - SuperServer 4028GR-TR2, Xeon E5-2667v4 8C 3.2GHz, Infiniband FDR, NVIDIA Tesla P100,                 NTT Communications / NTT PC Communications                NTT Communications Tokyo No.4 Data CenterJapan",59392,1391.0,4917.66,
+93,"Sid - bullx DLC 720, Xeon E5-2695v4 18C 2.1GHz, Infiniband FDR,                 Atos                AtosFrance",49896,1363.48,1676.51,543
+94,"Curie thin nodes - Bullx B510, Xeon E5-2680 8C 2.700GHz, Infiniband QDR,                 Atos                CEA/TGCC-GENCIFrance",77184,1359.0,1667.17,2132
+95,"Cedar - Dell C4130/Dell C6320, Xeon E5-2650v4/E5-2683-v4, Intel Omni-Path, NVIDIA Tesla P100,                 DELL EMC                Simon Fraser University/Compute CanadaCanada",59776,1337.0,3710.46,167
+96,"Taiwania - PRIMERGY CX2550 M4/CX2560 M4/CX2570 M4, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path,                 Fujitsu                National Center for High Performance ComputingTaiwan",27200,1325.15,2088.96,332
+97,"AIGIS - Sugon Cluster W780I, Xeon E5-2630v4 10C 2.2GHz, NVIDIA Tesla P100, Infiniband FDR,                 Sugon                GovernmentChina",24400,1307.0,1950.4,300
+98,"Cobalt - bullx DLC 720, Xeon E5-2680v4 14C 2.4GHz, Infiniband EDR,                 Atos                Commissariat a l'Energie Atomique (CEA)/CCRTFrance",38528,1299.47,1479.47,539
+99,"Conrad - Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect , Intel Xeon Phi 5120D,                 Cray/HPE                Navy DSRCUnited States",61256,1285.6,2049.6,2324
+100,"Gordon - Cray XC40, Xeon E5-2698v3 16C 2.3GHz, Aries interconnect , Intel Xeon Phi 5120D,                 Cray/HPE                Navy DSRCUnited States",61256,1285.6,2049.6,2324

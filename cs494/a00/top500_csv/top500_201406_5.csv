@@ -1,0 +1,101 @@
+Rank,System,Cores,Rmax (TFlop/s),Rpeak (TFlop/s),Power (kW)
+401,"iDataPlex DX360M4, Intel Xeon E5-2680v2  10C 2.8GHz, Infiniband FDR,                 IBM                Financial Institution (P)France",9180,158.07,205.63,193
+402,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2680 8C 2.700GHz, 10G Ethernet,                 HPE                Financial Service ProviderUnited States",10288,157.96,222.22,
+403,"IBM Flex System x240, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 IBM                AutomotiveUnited States",8336,157.71,173.39,181
+404,"IBM Flex System x240, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 IBM                AutomotiveUnited States",8336,157.71,173.39,181
+405,"IBM Flex System x240, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 IBM                AutomotiveUnited States",8336,157.71,173.39,181
+406,"Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 HPE                IT Services Provider United States",14720,157.24,306.18,
+407,"Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 HPE                IT Services Provider United States",14720,157.24,306.18,
+408,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                Manufacturing CompanyUnited States",10624,156.85,220.98,
+409,"iDataPlex DX360M3, Xeon E5645 6C 2.4GHz, Gigabit Ethernet,                 IBM                Digital MediaUnited States",27744,156.34,266.34,798
+410,"xSeries x3650M4 Cluster, Xeon E5-2680 8C 2.700GHz, Infiniband,                 IBM                ElectronicsUnited States",8224,155.59,177.64,214
+411,"xSeries x3650M4 Cluster, Xeon E5-2680 8C 2.700GHz, Infiniband,                 IBM                ElectronicsUnited States",8224,155.59,177.64,214
+412,"Cluster Platform DL380p Gen8 , Xeon E5-2650 8C 2.000GHz, Gigabit Ethernet,                 HPE                IT Services Provider (B)China",20016,155.53,320.26,
+413,"xSeries x3650M4 Cluster, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 IBM                Banking (M)United States",27600,155.53,574.08,573
+414,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                Service ProviderUnited States",14560,154.72,302.85,
+415,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                Service ProviderUnited States",14560,154.72,302.85,
+416,"Cluster Platform DL380p Gen8 , Xeon E5-2640 6C 2.500GHz, Gigabit Ethernet,                 HPE                Telecommunication CompanyChina",16152,154.35,323.04,
+417,"Tera-100 Hybrid - Bullx B505, Xeon E56xx (Westmere-EP) 2.40 GHz, Infiniband QDR,                 Atos                Commissariat a l'Energie Atomique (CEA)France",7020,154.0,274.56,
+418,"Cluster Platform DL380e Gen8, Xeon E5-2640 6C 2.500GHz, Gigabit Ethernet,                 HPE                Telecommunication CompanyChina",15000,153.9,300.0,
+419,"xSeries x3650M4 Cluster, Xeon E5-2670 8C 2.6GHz, Gigabit Ethernet,                 IBM                Telecommunication CompanyChina",27296,153.81,567.76,653
+420,"Cartesius Accelerator Island - Bullx B515 cluster, Intel Xeon E5-2450v2 8C 2.5GHz, InfiniBand 4× FDR, Nvidia K40m,                 Atos                SURFsaraNetherlands",3036,153.6,209.88,44
+421,"Cluster Platform DL360e Gen8, Xeon E5-2450 8C 2.100GHz, Gigabit Ethernet,                 HPE                Software Company (M)United States",18896,153.38,317.45,
+422,"Cluster Platform SL210t, Intel Xeon E5-2695v2 12C 2.4GHz, Infiniband FDR,                 HPE                Energy CompanyUnited States",9408,153.36,180.63,
+423,"xSeries x3650M4 Cluster, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 IBM                Engineering CompanyChina",27136,152.91,564.43,650
+424,"VSC-2 - MEGWARE Saxonid 6100, Opteron 6132 HE 8C 2.2GHz, Infiniband QDR,                 MEGWARE                Vienna Scientific ClusterAustria",20776,152.9,182.83,430
+425,"Cluster Platform DL380p Gen8 , Xeon E5-2630 6C 2.300GHz, Gigabit Ethernet,                 HPE                Service ProviderSouth Korea",16260,152.73,299.18,
+426,"xSeries x3650M4 Cluster, Xeon E5-2670 8C 2.6GHz, Gigabit Ethernet,                 IBM                Internet Service (B)China",27056,152.46,562.76,562
+427,"xSeries x3650M4 Cluster, Xeon E5-2670 8C 2.6GHz, Gigabit Ethernet,                 IBM                Internet Service (B)China",27056,152.46,562.76,562
+428,"xSeries x3650M4 Cluster, Xeon E5-2670 8C 2.6GHz, Gigabit Ethernet,                 IBM                Internet Service (B)China",27056,152.46,562.76,562
+429,"Cluster Platform DL380p Gen8 , Xeon E5-2620 6C 2.000GHz, Gigabit Ethernet,                 HPE                Service ProviderUnited States",19104,152.43,305.66,
+430,"Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.60GHz, Infiniband FDR,                 HPE                VSC / Flemish Supercomputer CenterBelgium",8448,152.35,175.72,
+431,"MRI - PowerEdge C6100 Cluster, Xeon X5660 2.8 Ghz, Infiniband,                 DELL EMC                University of ColoradoUnited States",15648,152.2,175.26,
+432,"xSeries x3650M4 Cluster, Xeon E5-2680 8C 2.700GHz, Gigabit Ethernet,                 IBM                Service Provider TChina",26976,152.01,582.68,646
+433,"xSeries x3650M4 Cluster, Xeon E5-2670 8C 2.6GHz, Gigabit Ethernet,                 IBM                Service Provider TChina",26976,152.01,561.1,646
+434,"Faenov - Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.600GHz, Infiniband QDR,                 HPE                Microsoft Windows AzureUnited States",8064,151.3,167.73,
+435,"BladeCenter HS23 Cluster, Xeon E5-2680 8C 2.700GHz, Infiniband QDR,                 IBM                Aerospace CompanyUnited States",7664,150.57,165.54,152
+436,"TSUBAME-KFC/DL - LX 1U-4GPU/104Re-1G  Cluster, Intel Xeon E5-2620v2 6C 2.100GHz, Infiniband FDR, NVIDIA K20x,                 NEC                GSIC Center, Tokyo Institute of TechnologyJapan",2720,150.4,217.82,44
+437,"Cluster Platform DL360p Gen8, Xeon E5-2630 6C 2.300GHz, Gigabit Ethernet,                 HPE                IT Services Provider United States",16140,150.29,296.98,
+438,"HPC - PowerEdge 1950/SunFire X2200/IBM dx340/dx360/HP SL160/DL165, Xeon/Opteron 2.3-2.67GHz, Myrinet 10G,                 Dell/Sun/IBM                University of Southern CaliforniaUnited States",20925,149.9,196.47,
+439,"Cluster Platform DL360e Gen8, Xeon E5-2450 8C 2.100GHz, Gigabit Ethernet,                 HPE                Software Company (M)United States",18448,149.75,309.93,
+440,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 HPE                Manufacturing CompanyIndia",8448,149.19,175.72,
+441,"iDataPlex DX360M4, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 IBM                Centro Euro-Mediterraneo per i Cambiamenti ClimaticiItaly",7680,148.78,159.74,160
+442,"iDataPlex DX360M3, Xeon E5-2670 8C 2.600GHz, Infiniband QDR,                 IBM                NASA/Goddard Space Flight CenterUnited States",7680,148.78,159.74,160
+443,"Cluster Platform 4000 BL685c, Opteron 6274 16C 2.200GHz, Gigabit Ethernet,                 HPE                Electrionic IndustryUnited States",35840,148.65,315.39,
+444,"Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 HPE                RetailUnited States",13856,148.51,288.2,
+445,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                Electrionic IndustryUnited States",9984,147.81,207.67,
+446,"xSeries x3550M3 Cluster, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 IBM                Engineering CompanyChina",26208,147.68,545.13,627
+447,"xSeries x3550M3 Cluster, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 IBM                Engineering CompanyChina",26208,147.68,545.13,627
+448,"xSeries x3550M3 Cluster, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 IBM                Engineering CompanyChina",26208,147.68,545.13,627
+449,"xSeries x3550M3 Cluster, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 IBM                Engineering CompanyChina",26208,147.68,545.13,627
+450,"Crystal - Cray XC30, Xeon E5-2670 8C 2.600GHz, Aries interconnect ,                 Cray/HPE                Cray Inc.United States",8192,147.33,170.39,
+451,"System E - Cray CS300-AC, Intel Xeon E5-2670v2  10C 2.500GHz, Infiniband FDR, Intel Xeon Phi 5110P,                 Cray/HPE                Foundation for Computational Science (FOCUS)Japan",12480,146.76,213.12,81
+452,"xSeries x3650M4 Cluster, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 IBM                Telecommunication CompanyChina",26016,146.6,541.13,1141
+453,"xSeries x3650M4 Cluster, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 IBM                Telecommunication CompanyChina",26016,146.6,541.13,1141
+454,"iDataPlex DX360M4, Intel Xeon E5-2680v2  10C 2.800GHz, Infiniband, NVIDIA K20x,                 IBM/Lenovo                Financial InstitutionUnited States",3264,146.24,208.76,55
+455,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                Service ProviderUnited States",13728,145.88,285.54,
+456,"Sunway 4000H Cluster, Xeon X56xx (Westmere-EP) 2.93 GHz, Infiniband QDR,                 National Research Center of Parallel Computer Engineering & Technology                GovernmentChina",14280,145.6,167.36,
+457,"xSeries x3650M3 Cluster, Xeon E5649 6C 2.530GHz, Gigabit Ethernet,                 IBM                ElectronicsChina",25788,145.32,260.98,782
+458,"xSeries x3650M3 Cluster, Xeon E5649 6C 2.530GHz, Gigabit Ethernet,                 IBM                ElectronicsChina",25788,145.32,260.98,782
+459,"xSeries x3650M4 Cluster, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 IBM                ElectronicsChina",25776,145.25,536.14,617
+460,"xSeries x3650M4 Cluster, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 IBM                ElectronicsChina",25776,145.25,536.14,617
+461,"xSeries x3650M4 Cluster, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 IBM                ElectronicsChina",25776,145.25,536.14,617
+462,"Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.6GHz, 10G Ethernet,                 HPE                RetailUnited States",9792,145.08,203.67,
+463,"Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 HPE                IT Service ProviderGermany",8192,144.32,170.39,
+464,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                Manufacturing CompanyUnited States",9728,143.62,202.34,
+465,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                IT Services Provider United States",9824,143.22,204.34,
+466,"xSeries x3550M3 Cluster, Xeon E5649 6C 2.530GHz, Gigabit Ethernet,                 IBM                Service ProviderUnited States",25404,143.15,257.09,771
+467,"Cluster Platform 3000 BL460c Gen8, Intel Xeon E5-2658v2 10C 2.400GHz, 10G Ethernet,                 HPE                Electrionic IndustryUnited States",10480,142.91,201.22,
+468,"Cluster Platform 3000 BL460c Gen8, Intel Xeon E5-2695v2 12C 2.4GHz, 10G Ethernet,                 HPE                IT Services Provider United States",10464,142.7,200.91,
+469,"iDataPlex DX360M3, Xeon E5645 6C 2.40 GHz, Infiniband QDR, NVIDIA 2070,                 IBM                CINECA / SCS - SuperComputing SolutionItaly",10240,142.7,293.17,160
+470,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.60GHz, 10G Ethernet,                 HPE                IT Service ProviderUnited States",9488,141.89,197.35,
+471,"Cluster Platform SL165z G7, Opteron 6172 12C 2.100GHz, Gigabit Ethernet,                 HPE                Financial Services Company (G)United States",33408,141.42,280.63,
+472,"Guillimin Phase 2 - iDataPlex DX360M4, Xeon E5-2670 8C 2.600GHz, Infiniband QDR,                 IBM                CLUMEQ - McGill UniversityCanada",7456,141.06,155.08,155
+473,"xSeries x3650 Cluster, Xeon E5649 6C 2.530GHz, Infiniband, NVIDIA 2090,                 IBM                Petroleum CompanyChina",10120,141.03,367.72,163
+474,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                Logistic Services (E)United States",9504,140.87,197.68,
+475,"Cluster Platform 3000 BL460c G7, Xeon X5650 6C 2.660GHz, Gigabit Ethernet,                 HPE                Banking (M)United States",26256,140.78,279.36,
+476,"Cluster Platform SL230s Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                Energy CompanyUnited States",9472,140.53,197.02,
+477,"Fionn - SGI ICE X, Intel Xeon E5-2695v2 12C 2.400GHz, Infiniband FDR,                 HPE                Irish Centre for High-End ComputingIreland",7680,140.45,147.46,115
+478,"Cluster Platform SL230s Gen8, Intel Xeon E5-2650v2  8C 2.6GHz, Infiniband FDR,                 HPE                Manufacturing CompanyUnited States",7936,140.14,165.07,
+479,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2660 8C 2.200GHz, 10G Ethernet,                 HPE                AutomotiveUnited States",11232,139.95,197.68,
+480,"xSeries x3650M4 Cluster, Xeon E5-2670 8C 2.600GHz, Infiniband,                 IBM                ElectronicsUnited States",8016,139.46,166.73,208
+481,"iDataPlex DX360M4, Xeon E5-2690 8C 2.900GHz, Infiniband FDR,                 IBM/Lenovo                Electronics CompanyJapan",7088,139.25,164.44,173
+482,"xSeries x3650M4 Cluster, Xeon E5-2670 8C 2.600GHz, Infiniband,                 IBM                Petroleum CompanyUnited Kingdom",7360,139.24,153.09,191
+483,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                IT Services Provider (B)India",9392,139.21,195.35,
+484,"Cluster Platform DL388p, Intel Xeon E5-2609V2 4C 2.5GHz, Gigabit Ethernet,                 HPE                IT Services Provider (B)China",13416,138.5,268.32,
+485,"Cluster Platform 4000 BL465c, Opteron 6174 12C 2.200GHz, Gigabit Ethernet,                 HPE                Manufacturing CompanyUnited States",31200,138.36,274.56,
+486,"Cluster Platform DL388p, Xeon E5-2609  4C 2.400GHz, Gigabit Ethernet,                 HPE                IT Services Provider (B)China",13968,138.13,268.19,
+487,"Cluster Platform SL230s Gen8, Intel Xeon E5-2680v2  10C 2.8GHz, Infiniband QDR,                 HPE                Consumer goods CompanyUnited States",6920,137.96,155.01,
+488,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.6GHz, 10G Ethernet,                 HPE                IT Service ProviderUnited States",9216,136.88,191.69,
+489,"Cluster Platform SL250s Gen8, Intel Xeon E5-2670v2  10C 2.5GHz, 10G Ethernet,                 HPE                RetailUnited States",9600,136.88,192.0,
+490,"WillowA - Bullx B510, Xeon E5-2670 8C 2.600GHz, Infiniband QDR,                 Atos                AWEUnited Kingdom",7488,136.7,161.74,182
+491,"WillowB - Bullx B510, Xeon E5-2670 8C 2.600GHz, Infiniband QDR,                 Atos                AWEUnited Kingdom",7488,136.4,161.74,182
+492,"Guillimin - iDataPlex DX360M3, Xeon 2.66, Infiniband,                 IBM                CLUMEQ - McGill UniversityCanada",14400,136.3,153.22,337
+493,"Argus - iDataPlex DX360M4, Xeon E5-2670 8C 2.600GHz, Infiniband FDR14,                 IBM                Bombardier AerospaceCanada",7200,136.22,149.76,150
+494,"xSeries x3650M4 Cluster, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 IBM                Banking (M)United States",24064,135.6,500.53,576
+495,"Laurel - Xtreme-X , Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 Cray/HPE                Kyoto UniversityJapan",9280,135.4,193.02,210
+496,"Cluster Platform SL250s Gen8, Xeon E5-2660 8C 2.200GHz, Infiniband FDR, NVIDIA 2090,                 HPE                Research CenterChina",8064,135.37,270.75,
+497,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2670 8C 2.600GHz, 10G Ethernet,                 HPE                Insurance Company United States",9088,135.06,189.03,
+498,"Cluster Platform 3000 BL460c Gen8, Xeon E5-2660 8C 2.200GHz, 10G Ethernet,                 HPE                BankingFrance",10768,134.44,189.52,
+499,"Cluster Platform 3000 BL460c G7, Xeon X5650 6C 2.66GHz, Gigabit Ethernet,                 HPE                Logistic Services (E)United States",25044,134.28,266.47,
+500,"xSeries x3650M4 Cluster, Xeon E5-2670 8C 2.600GHz, Gigabit Ethernet,                 IBM                Telecommunication CompanyChina",23824,134.25,495.54,570

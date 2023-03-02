@@ -1,0 +1,101 @@
+Rank,System,Cores,Rmax (TFlop/s),Rpeak (TFlop/s),Power (kW)
+1,"BlueGene/L - eServer Blue Gene Solution,                 IBM                DOE/NNSA/LLNLUnited States",65536,136.8,183.5,716
+2,"BGW - eServer Blue Gene Solution,                 IBM                IBM Thomas J. Watson Research CenterUnited States",40960,91.29,114.69,448
+3,"Columbia - SGI Altix 1.5 GHz, Voltaire Infiniband,                 HPE                NASA/Ames Research Center/NASUnited States",10160,51.87,60.96,
+4,"Earth-Simulator,                 NEC                Japan Agency for Marine-Earth Science and TechnologyJapan",5120,35.86,40.96,3200
+5,"MareNostrum - JS20 Cluster, PPC 970, 2.2 GHz, Myrinet,                 IBM                Barcelona Supercomputing CenterSpain",4800,27.91,42.14,
+6,"Stella - eServer Blue Gene Solution,                 IBM                ASTRON/University GroningenNetherlands",12288,27.45,34.41,134
+7,"Thunder - Intel Itanium2 Tiger4  1.4GHz - Quadrics,                 California Digital Corporation                Lawrence Livermore National LaboratoryUnited States",4096,19.94,22.94,
+8,"Blue Protein - eServer Blue Gene Solution,                 IBM                Computational Biology Research Center, AISTJapan",8192,18.2,22.94,89
+9,"eServer Blue Gene Solution,                 IBM                Ecole Polytechnique Federale de LausanneSwitzerland",8192,18.2,22.94,89
+10,"Red Storm, Cray XT3, 2.0 GHz,                 Cray/HPE                Sandia National LaboratoriesUnited States",5000,15.25,20.0,
+11,"Cray XT3, 2.4 GHz,                 Cray/HPE                DOE/SC/Oak Ridge National LaboratoryUnited States",3748,14.17,17.99,
+12,"ASCI Q - AlphaServer SC45, 1.25 GHz,                 HPE                Los Alamos National LaboratoryUnited States",8192,13.88,20.48,
+13,"eServer pSeries p5 575 1.9 GHz,                 IBM                Lawrence Livermore National LaboratoryUnited States",2048,13.09,15.56,334
+14,"System X - 1100 Dual 2.3 GHz Apple XServe/Mellanox Infiniband 4X/Cisco GigE,                 Self-made                Virginia TechUnited States",2200,12.25,20.24,
+15,"SGI Altix 3700 Bx2, 1.6 GHz, NUMALink,                 HPE                Air Force Research LaboratoryUnited States",2048,11.81,13.11,
+16,"SGI Altix 3700 Bx2, 1.6 GHz, NUMALink,                 HPE                Japan Atomic Energy Research InstituteJapan",2048,11.81,13.11,
+17,"BlueGene/L DD1 Prototype (0.5GHz PowerPC 440 w/Custom),                 IBM/ LLNL                IBM RochesterUnited States",8192,11.68,16.38,
+18,"eServer pSeries 655 (1.7 GHz Power4+),                 IBM                China Meteorological AdministrationChina",3200,10.31,21.76,
+19,"eServer pSeries 655 (1.7 GHz Power4+),                 IBM                Naval Oceanographic Office - NAVO DSRCUnited States",2944,10.31,20.02,
+20,"Tungsten - PowerEdge 1750, P4 Xeon 3.06 GHz, Myrinet,                 DELL EMC                NCSAUnited States",2500,9.82,15.3,
+21,"eServer Blue Gene Solution,                 IBM                IBM - Almaden Research CenterUnited States",4096,9.36,11.47,44
+22,"eServer Blue Gene Solution,                 IBM                IBM - Deep Computing Capacity on Demand CenterUnited States",4096,9.36,11.47,44
+23,"eServer Blue Gene Solution,                 IBM/ LLNL                IBM Thomas J. Watson Research CenterUnited States",4096,9.36,11.47,44
+24,"eServer pSeries 690 (1.9 GHz Power4+),                 IBM                ECMWFUnited Kingdom",2176,9.24,16.54,
+25,"eServer pSeries 690 (1.9 GHz Power4+),                 IBM                ECMWFUnited Kingdom",2176,9.24,16.54,
+26,"SGI Altix 3700 Bx2, 1.6 GHz, NUMALink,                 HPE                National Computational Infrastructure (NCI Australia)Australia",1536,8.97,9.83,
+27,"SX8/576M72,                 NEC                HWW/Universitaet StuttgartGermany",576,8.92,9.22,
+28,"John Von Neumann - LNX Cluster, Xeon 3.4 GHz, Myrinet,                 Linux Networx                US Army Research Laboratory (ARL)United States",2048,8.77,13.93,
+29,"RIKEN Super Combined Cluster,                 Fujitsu                Institute of Physical and Chemical Research (RIKEN)Japan",2048,8.73,12.53,
+30,"Mpp2 - Cluster Platform 6000 rx2600 Itanium2 1.5 GHz, Quadrics,                 HPE                DOE/SC/Pacific Northwest National LaboratoryUnited States",1936,8.63,11.62,
+31,"Dawning 4000A, Opteron 2.2 GHz, Myrinet,                 Dawning                Shanghai Supercomputer CenterChina",2560,8.06,11.26,
+32,"Lightning - Opteron 2 GHz, Myrinet,                 Linux Networx                Los Alamos National LaboratoryUnited States",2816,8.05,11.26,
+33,"BigBen - Cray XT3, 2.4 GHz,                 Cray/HPE                Pittsburgh Supercomputing CenterUnited States",2060,7.94,9.89,
+34,"MCR Linux Cluster Xeon 2.4 GHz - Quadrics,                 Linux Networx/Quadrics                Lawrence Livermore National LaboratoryUnited States",2304,7.63,11.06,
+35,"ASCI White, SP Power3 375 MHz,                 IBM                Lawrence Livermore National LaboratoryUnited States",8192,7.3,12.29,
+36,"Seaborg - SP Power3 375 MHz 16 way,                 IBM                DOE/SC/LBNL/NERSCUnited States",6656,7.3,9.98,
+37,"HPC - Sun Fire V60, IBM xServer,2.8-3.2 GHz, Myrinet,                 IBM, Sun, Myricom                University of Southern CaliforniaUnited States",2640,7.29,14.78,
+38,"TeraGrid, Itanium2 1.3/1.5 GHZ, Myrinet,                 IBM                NCSAUnited States",1776,7.21,10.26,
+39,"eServer Opteron 2.2 GHz. Myrinet,                 IBM                US Army Research Laboratory (ARL)United States",2320,7.18,10.21,
+40,"Mp - PowerEdge SC1425 3.6 GHz- Infiniband,                 DELL EMC                University of SherbrookeCanada",1152,6.89,8.29,
+41,"PRIMEPOWER HPC2500 (2.08 GHz),                 Fujitsu                Nagoya UniversityJapan",1664,6.86,13.84,
+42,"xSeries Cluster Xeon 2.4 GHz - Quadrics,                 IBM/Quadrics                Lawrence Livermore National LaboratoryUnited States",1920,6.59,9.22,
+43,"DataStar - eServer pSeries 655/690 (1.5/1.7 Ghz Power4+),                 IBM                UCSD/San Diego Supercomputer CenterUnited States",1696,6.38,10.41,
+44,"Lilac - xSeries x335 Cluster, Xeon 3.06 GHz, Quadrics,                 IBM                Lawrence Livermore National LaboratoryUnited States",1540,6.23,9.43,
+45,"eServer pSeries 690 (1.7 GHz Power4+),                 IBM                HPCxUnited Kingdom",1600,6.19,10.88,
+46,"AIST Super Cluster P-32 - AIST Super Cluster P-32, Opteron 2.0 GHz, Myrinet,                 IBM                Grid Technology Research Center, AISTJapan",2200,6.16,8.8,
+47,"Tungsten 2 - PowerEdge 1850, 3.6 GHz, Infiniband,                 DELL EMC                NCSAUnited States",1024,6.12,7.37,
+48,"SGI Altix 3700 Bx2, 1.6 GHz, NUMALink,                 HPE                NCSAUnited States",1024,6.03,6.55,
+49,"eServer pSeries p5 575 1.9 GHz,                 IBM                Lawrence Livermore National LaboratoryUnited States",896,5.92,6.81,146
+50,"Cray X1,                 Cray/HPE                DOE/SC/Oak Ridge National LaboratoryUnited States",504,5.89,6.45,
+51,"eServer BladeCenter JS20 (PowerPC970 2.2 GHz), Myrinet,                 IBM                Seoul National UniversitySouth Korea",968,5.62,8.52,
+52,"JUMP - eServer pSeries 690 (1.7 GHz Power4+),                 IBM                Forschungszentrum Juelich (FZJ)Germany",1312,5.57,8.92,
+53,"Marylou4 - PowerEdge 1855, 3.6 GHz, GigEthernet,                 DELL EMC                Brigham Young UniversityUnited States",1260,5.44,9.07,
+54,"Topdawg - PowerEdge 1850, 3.2 GHz, Infiniband,                 DELL EMC                University of OklahomaUnited States",1024,5.44,6.55,
+55,"PRIMEPOWER HPC2500 (1.3 GHz),                 Fujitsu                National Aerospace Laboratory of JapanJapan",2304,5.41,11.98,
+56,"MVS-15000BM, eServer BladeCenter JS20 (PowerPC970 2.2 GHz), Myrinet,                 IBM                Joint Supercomputer CenterRussia",924,5.36,8.13,
+57,"Cray XT3, 2.6 GHz,                 Cray/HPE                Swiss Scientific Computing Center (CSCS)Switzerland",1100,4.78,5.72,
+58,"eServer Blue Gene Solution,                 IBM                Boston UniversityUnited States",2048,4.71,5.73,22
+59,"eServer Blue Gene Solution,                 IBM                DOE/SC/Argonne National LaboratoryUnited States",2048,4.71,5.73,22
+60,"eServer Blue Gene Solution,                 IBM                Forschungszentrum Juelich (FZJ)Germany",2048,4.71,5.73,22
+61,"eServer Blue Gene Solution,                 IBM                NIWS Co, LtdJapan",2048,4.71,5.73,22
+62,"eServer Blue Gene Solution,                 IBM                National Center for Atmospheric Research (NCAR)United States",2048,4.71,5.73,22
+63,"Intimidata - eServer Blue Gene Solution,                 IBM                UCSD/San Diego Supercomputer CenterUnited States",2048,4.71,5.73,22
+64,"eServer Blue Gene Solution,                 IBM                University of EdinburghUnited Kingdom",2048,4.71,5.73,22
+65,"Lenngren - PowerEdge 1850, 3.2 GHz, Infiniband,                 DELL EMC                KTH - Royal Institute of TechnologySweden",886,4.7,5.67,
+66,"Turing - XServe G5 2GHz, Myrinet,                 Self-made                University of IllinoisUnited States",1024,4.56,8.19,
+67,"PRIMEPOWER HPC2500 (1.56 GHz),                 Fujitsu                Kyoto UniversityJapan",1472,4.55,9.19,
+68,"AlphaServer SC45, 1 GHz,                 HPE                Pittsburgh Supercomputing CenterUnited States",3016,4.46,6.03,
+69,"eServer pSeries 655 (1.7 GHz Power4+),                 IBM                NOAA R&D/ National Centers for Environmental PredictionUnited States",1152,4.38,7.83,
+70,"eServer pSeries 655 (1.7 GHz Power4+),                 IBM                NOAA R&D/ National Centers for Environmental PredictionUnited States",1152,4.38,7.83,
+71,"Cosmos - PowerEdge 1750, P4 Xeon 3.2 GHz, Myrinet,                 DELL EMC                Caltech/JPLUnited States",1024,4.3,6.55,
+72,"DeepComp 6800, Itanium2 1.3 GHz, QsNet,                 Lenovo                Computer Network Information Center, Chinese Academy of ScienceChina",1024,4.19,5.32,
+73,"pSeries 690 Turbo 1.3 GHz,                 IBM                National Center for Atmospheric Research (NCAR)United States",1600,4.18,8.32,
+74,"lonestar - PowerEdge 1750, Pentium4 Xeon 3.2/3.06 GHz, Myrinet,                 Dell-Cray                Texas Advanced Computing Center/Univ. of TexasUnited States",1024,4.15,6.34,
+75,"Atipa Cluster, Opteron, Myrinet,                 Atipa Technology                DOE/Bettis Atomic Power LaboratoryUnited States",1090,4.04,5.23,
+76,"Atipa Cluster, Opteron, Myrinet,                 Atipa Technology                DOE/Knolls Atomic Power LaboratoryUnited States",1090,4.04,5.23,
+77,"AlphaServer SC45, 1 GHz,                 HPE                Commissariat a l'Energie Atomique (CEA)France",2560,3.98,5.12,
+78,"eServer pSeries 655 (1.5 GHz Power4+),                 IBM                Lawrence Livermore National LaboratoryUnited States",1024,3.81,6.14,
+79,"eServer pSeries 655 (1.5 GHz Power4+),                 IBM                Lawrence Livermore National LaboratoryUnited States",1024,3.81,6.14,
+80,"Cray X1E,                 Cray/HPE                Korea Meteorological AdministrationSouth Korea",252,3.78,4.56,
+81,"Cray X1E,                 Cray/HPE                US Army HPC Research Center at NCSUnited States",252,3.78,4.56,
+82,"BladeCenter HS20 Xeon 3.06 GHz, Gig-Ethernet,                 IBM                Bank (L)United Kingdom",3200,3.75,19.58,
+83,"glacier - BladeCenter Xeon 3.06 GHz, Gig-Ethernet,                 IBM                WestgridCanada",1680,3.75,10.28,
+84,"BladeCenter HS20 Cluster, Xeon 3.2 GHz, GigEthernet,                 IBM                Saudi AramcoSaudi Arabia",1536,3.75,9.83,251
+85,"BladeCenter HS20 Xeon 3.06 GHz, Gig-Ethernet,                 IBM                Credit Suisse/First BostonUnited Kingdom",1500,3.75,9.18,
+86,"BladeCenter HS20 Cluster, Xeon EM64T 3.6 GHz - Gig-Ethernet,                 IBM                WETA DigitalNew Zealand",1000,3.75,7.2,163
+87,"BladeCenter HS20 Xeon 3.06 GHz, Gig-Ethernet,                 IBM                Digital Content ProviderAustralia",1148,3.75,7.03,
+88,"BladeCenter HS20 Cluster, Xeon EM64T 3.4 GHz - Gig-Ethernet,                 IBM                Geoscience (B)India",1024,3.75,6.96,167
+89,"xSeries Xeon 3.06 GHz - Gig-E,                 IBM                Geoscience (C)United Kingdom",1128,3.75,6.9,
+90,"xSeries Xeon 3.06 GHz - Gig-E,                 IBM                Geoscience (C)United Kingdom",1128,3.75,6.9,
+91,"xSeries Xeon 3.06 GHz - Gig-E,                 IBM                Semiconductor Company (D)Israel",1120,3.75,6.85,
+92,"BladeCenter HS20 Cluster, Xeon 3.2 GHz, GigEthernet,                 IBM                TelcoCanada",1036,3.75,6.63,169
+93,"BladeCenter HS20 Cluster, Xeon 3.2 GHz, GigEthernet,                 IBM                Financial Services (H)United States",1024,3.75,6.55,167
+94,"BladeCenter Xeon 3.06 GHz, Gig-Ethernet,                 IBM                Bank (H)Germany",1064,3.75,6.51,
+95,"BladeCenter Xeon 3.06 GHz, Gig-Ethernet,                 IBM                ConocoPhillipsUnited States",1056,3.75,6.46,
+96,"xSeries Cluster Xeon 3.06 GHz - Gig-E,                 IBM                Petroleum Company (C)Brazil",1024,3.75,6.27,
+97,"xSeries Cluster Xeon 3.06 GHz - Gig-E,                 IBM                Petroleum Geo-ServicesUnited States",1024,3.75,6.27,
+98,"xSeries Xeon 3.06 GHz - Gig-E,                 IBM                IBM - Deep Computing Capacity on Demand CenterUnited States",1000,3.75,6.12,
+99,"bwr1 - Cluster Platform 3000 DL140G3 Xeon 3.06 GHz GigEthernet,                 HPE                Petróleo Brasileiro S.ABrazil",1300,3.74,7.96,
+100,"pSeries 690 Turbo 1.3 GHz,                 IBM                Naval Oceanographic Office - NAVO DSRCUnited States",1408,3.72,7.32,

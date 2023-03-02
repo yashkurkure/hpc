@@ -1,0 +1,101 @@
+Rank,System,Cores,Rmax (TFlop/s),Rpeak (TFlop/s),Power (kW)
+201,"Faris - Cluster Platform SL230s Gen8, Intel Xeon E5-2680v2  10C 2.8GHz, Infiniband QDR,                 HPE                Saudi AramcoSaudi Arabia",40960,816.58,917.5,707
+202,"Inspur TS10000, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet, NVIDIA Tesla P100,                 Inspur                Internet Service AChina",18432,814.2,1463.04,
+203,"Lenovo RD450, Xeon E5-2640v4 10C 2.4GHz, 10G Ethernet,                 Lenovo                Internet Service (B)China",54800,803.85,2104.32,
+204,"Reedbush-H - SGI Rackable C1102-GP8, Xeon E5-2695v4 18C 2.1GHz, Infiniband FDR, NVIDIA Tesla P100 SXM2,                 HPE                Information Technology Center, The University of TokyoJapan",17760,802.4,1417.15,94
+205,"Aterui - Cray XC40, Xeon E5-2690v3 12C 2.6GHz, Aries interconnect ,                 Cray/HPE                National Astronomical Observatory of JapanJapan",25440,801.4,1058.3,569
+206,"Sunway Blue Light - Sunway BlueLight MPP, ShenWei processor SW1600 975.00 MHz, Infiniband QDR,                 National Research Center of Parallel Computer Engineering & Technology                National Supercomputing Center in JinanChina",137200,795.9,1070.16,1074
+207,"DRACO - Lenovo NeXtScale nx360M5, Xeon E5-2698v3 16C 2.3GHz, Infiniband FDR,                 Lenovo                Max-Planck-Gesellschaft MPI/IPPGermany",28128,790.7,1035.11,
+208,"Sugon TC6000, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet,                 Sugon                Internet Service (B)China",46000,788.2,1619.2,1076
+209,"Huawei X6800 V3, Xeon E5-2683 v4  16C 2.1GHz, Infiniband EDR,                 Huawei Technologies Co., Ltd.                University (A)China",28160,787.1,946.18,358
+210,"Falcon - SGI ICE X, Xeon E5-2680v3 12C 2.5GHz/E5-2695c4 18C 2.1Ghz, Infiniband FDR,                 HPE                Idaho National LaboratoryUnited States",25056,786.71,969.06,
+211,"Cluster Platform DL360, Xeon E5-2673v3 12C 2.4GHz, 10G Ethernet,                 HPE                Software Company (M)Netherlands",34560,785.35,1327.1,
+212,"Cluster Platform DL360, Xeon E5-2673v3 12C 2.4GHz, 10G Ethernet,                 HPE                Software Company (M)Netherlands",34560,785.35,1327.1,
+213,"Cluster Platform DL360, Xeon E5-2673v3 12C 2.4GHz, 10G Ethernet,                 HPE                Software Company (M)United States",34560,785.35,1327.1,
+214,"Cluster Platform DL360, Xeon E5-2673v3 12C 2.4GHz, 10G Ethernet,                 HPE                Software Company (M)United States",34560,785.35,1327.1,
+215,"XStream - Cray CS-Storm, Intel Xeon E5-2680v2  10C 2.8GHz, Infiniband FDR, Nvidia K80,                 Cray/HPE                Stanford Research Computing CenterUnited States",14820,781.3,1001.69,190
+216,"Inspur TS10000, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet, NVIDIA Tesla P100,                 Inspur                Internet Service AChina",17920,779.2,1422.4,
+217,"Sekirei-ACC - SGI ICE XA, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR, Nvidia K40,                 HPE                University of Tokyo/Institute for Solid State PhysicsJapan",15552,777.4,1100.16,255
+218,"Zin - Xtreme-X GreenBlade GB512X, Xeon E5 (Sandy Bridge - EP) 8C 2.60GHz, Infiniband QDR,                 Cray/HPE                Lawrence Livermore National LaboratoryUnited States",46208,773.7,961.13,924
+219,"Tianhe-1A Hunan Solution - NUDT YH MPP, Xeon X5670 6C 2.93 GHz, Proprietary, NVIDIA 2050,                 NUDT                National Super Computer Center in HunanChina",53248,771.7,1342.75,1155
+220,"Inspur TS10000, Xeon E5-2690v3 12C 2.6GHz/Xeon E5-2690v4, Intel Omni-Path,                 Inspur                Qingdao National Laboratory for Marine Science and TechnologyChina",23920,771.3,1030.19,162
+221,"Research Computation Facility for GOSAT-2 (RCF2) - SGI Rackable C1104-GP1, Xeon E5-2650v4 12C 2.2GHz, Infiniband EDR, NVIDIA Tesla P100,                 NSSOL/HPE                National Institute for Environmental StudiesJapan",16320,770.4,1243.78,79
+222,"ForHLR II - Lenovo NeXtScale nx360M5, Xeon E5-2660v3 10C 2.6GHz, Infiniband EDR/FDR,                 Lenovo                Karlsruher Institut für Technologie (KIT) Germany",22960,768.34,955.14,435
+223,"Spruce B - SGI ICE X, Intel Xeon E5-2680v2  10C 2.8GHz, Infiniband FDR,                 HPE                AWEUnited Kingdom",35640,767.5,798.34,685
+224,"SNL CTS-1 Dark Ghost - Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path,                 Penguin Computing, Inc.                Sandia National LaboratoriesUnited States",25920,761.79,870.91,320
+225,"Topaz - Tundra Extreme Scale, Xeon E5-2695v4 18C 2.1GHz, Intel Omni-Path,                 Penguin Computing, Inc.                Penguin Computing, Inc.United States",26496,759.9,778.5,321
+226,"HP Apollo XL1x0r, Xeon E5-2683 v4  16C 2.1GHz, Infiniband EDR,                 HPE                Service ProviderSouth Korea",30720,759.61,1032.19,
+227,"Endeavor - Intel Cluster, Intel Xeon E5-2697v2 12C 2.700GHz, Infiniband FDR, Intel Xeon Phi 7110,                 Intel                IntelUnited States",51392,758.87,933.48,387
+228,"Cluster Platform DL380, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet,                 HPE                Retailer (C)United States",36500,758.55,1284.8,
+229,"Cluster Platform DL380, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet,                 HPE                Retailer (C)United States",36500,758.55,1284.8,
+230,"Cluster Platform DL380, Xeon E5-2680v4 14C 2.4GHz, 10G Ethernet,                 HPE                Service ProviderSouth Korea",32760,756.98,1257.98,
+231,"Lenovo ThinkServer RD650, Intel Xeon E5-2650v3 10C 2GHz, 10G Ethernet,                 Lenovo                Internet Company AChina",70000,756.88,2240.0,2625
+232,"Lenovo ThinkServer RD650, Intel Xeon E5-2650v3 10C 2GHz, 10G Ethernet,                 Lenovo                Internet Company AChina",70000,756.88,2240.0,2625
+233,"Lenovo ThinkServer RD650, Intel Xeon E5-2650v3 10C 2GHz, 10G Ethernet,                 Lenovo                Internet Company AChina",70000,756.88,2240.0,2625
+234,"Cluster Platform DL380, Xeon E5-2673v3 12C 2.4GHz, 10G Ethernet,                 HPE                Software Company (M)United States",30000,753.52,1152.0,1000
+235,"Sugon TC6000, Xeon E5-2630v4 10C 2.2GHz, 10G Ethernet,                 Sugon                IT Service ProviderChina",44000,752.3,1548.8,1029
+236,"Sugon TC6000, Xeon E5-2680v3 12C 2.5GHz, 10G Ethernet,                 Sugon                Government Research CenterChina",38400,752.3,1536.0,672
+237,"Inspur TS10000, Xeon E5-2670v3 12C 2.3GHz, 10G Ethernet,                 Inspur                Internet Service (B)China",48000,748.2,1766.4,
+238,"Inspur TS10000, Xeon E5-2670v3 12C 2.3GHz, 10G Ethernet,                 Inspur                Internet Service (B)China",48000,748.2,1766.4,
+239,"Inspur TS10000, Xeon E5-2670v3 12C 2.3GHz, 10G Ethernet,                 Inspur                Service Provider TChina",48000,748.2,1766.4,
+240,"Cluster Platform DL360, Xeon E5-2673v3 12C 2.4GHz, 10G Ethernet,                 HPE                Software Company (M)United States",32832,746.08,1260.75,
+241,"COMA (PACS-IX) - Cray CS300 1027GR, Intel Xeon E5-2670v2  10C 2.500GHz, Infiniband FDR, Intel Xeon Phi 7110P,                 Cray/HPE                Center for Computational Sciences, University of TsukubaJapan",55664,746.0,998.5,366
+242,"Cluster Platform DL380, Xeon E5-2680v4 14C 2.4GHz, 10G Ethernet,                 HPE                Service ProviderSouth Korea",32200,744.04,1236.48,
+243,"Sugon TC6000, Xeon E5-2680v4 14C 2.4GHz, 10G Ethernet,                 Sugon                GovernmentChina",39200,742.4,1505.28,588
+244,"Sugon TC6000, Xeon E5-2650v4 12C 2.2GHz, 10G Ethernet,                 Sugon                Internet CompanyChina",43200,741.8,1520.64,900
+245,"Numerical Materials Simulator - SGI ICE X, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR,                 HPE                National Institute for Materials ScienceJapan",25056,741.75,1002.24,405
+246,"Lenovo RD550, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet,                 Lenovo                Internet Service (B)China",38400,740.35,1536.0,
+247,"HiperGator 2.0 - PowerEdge C6320, Xeon E5-2698v3 16C 2.3GHz, Infiniband,                 DELL EMC                University of FloridaUnited States",29184,738.07,1073.97,384
+248,"Earth System Numerical Simulator - Sugon Cluster TC4600E, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR,                 Sugon                LASG/Institute of Atmospheric Physics, CASChina",24912,738.0,996.48,540
+249,"Sugon TC6000, Xeon E5-2690v4 14C 2.6GHz, 10G Ethernet,                 Sugon                GovernmentChina",35840,734.7,1490.94,576
+250,"HC2000 Cluster, Xeon E5-2620v3 6C 2.4GHz, Infiniband FDR, NVIDIA Tesla K40,                 Sugon                GovernmentChina",14400,731.2,1236.16,400
+251,"Endeavor II - Intel Cluster, Intel Xeon Phi 7250F 68C 1.4GHz, Intel Omni-Path,                 Intel                IntelUnited States",30056,730.63,1346.51,194
+252,"Inspur TS10000 HPC Server, Intel Xeon E5-2650v2  8C 2.6GHz, 10G Ethernet, NVIDIA Tesla K40,                 Inspur                Internet Service AChina",15640,730.1,1085.55,225
+253,"Sugon TC6000, Xeon E5-2650v3 10C 2.3GHz, 10G Ethernet,                 Sugon                Internet CompanyChina",40000,725.0,1472.0,990
+254,"Lenovo RD450, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet,                 Lenovo                Internet Company AChina",36864,721.06,1474.56,
+255,"Lenovo RD450, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet,                 Lenovo                Internet Company AChina",36864,721.06,1474.56,
+256,"Lenovo RD450, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet,                 Lenovo                Internet Company AChina",36864,721.06,1474.56,
+257,"Lenovo RD450, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet,                 Lenovo                Internet Company AChina",36864,721.06,1474.56,
+258,"Lenovo RD450, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet,                 Lenovo                Internet Company AChina",36864,721.06,1474.56,
+259,"Lenovo RD450, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet,                 Lenovo                Internet Company AChina",36864,721.06,1474.56,
+260,"Lenovo RD450, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet,                 Lenovo                Internet Company AChina",36864,721.06,1474.56,
+261,"Lenovo RD450, Xeon E5-2682v4 16C 2.5GHz, 10G Ethernet,                 Lenovo                Internet Company AChina",36864,721.06,1474.56,
+262,"iDataPlex DX360M4, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 IBM                Indian Institute of Tropical MeteorologyIndia",38016,719.22,790.73,790
+263,"Cetus - BlueGene/Q, Power BQC 16C 1.600GHz, Custom Interconnect,                 IBM                DOE/SC/Argonne National LaboratoryUnited States",65536,715.55,838.86,329
+264,"Zumbrota - BlueGene/Q, Power BQC 16C 1.60GHz, Custom,                 IBM                EDF R&DFrance",65536,715.55,838.86,329
+265,"BGQ - BlueGene/Q, Power BQC 16C 1.600GHz, Custom Interconnect,                 IBM                SOSCIP/LKSAVI/University of TorontoCanada",65536,715.55,838.86,329
+266,"EPFL Blue Brain IV - BlueGene/Q, Power BQC 16C 1.600GHz, Custom Interconnect,                 IBM                Swiss National Supercomputing Centre (CSCS)Switzerland",65536,715.55,838.86,329
+267,"Avoca - BlueGene/Q, Power BQC 16C 1.60GHz, Custom,                 IBM                Victorian Life Sciences Computation InitiativeAustralia",65536,715.55,838.86,329
+268,"Endeavor I - Intel Cluster, Xeon Gold 6148 20C 2.4GHz, Intel Omni-Path,                 Intel                IntelUnited States",14080,715.08,1081.34,224
+269,"Cluster Platform 3000 BL460c Gen9, Xeon E5-2660v3 10C 2.6GHz, Infiniband FDR,                 HPE                Volvo Personvagnar ABSweden",20360,712.36,846.98,
+270,"Cluster Platform DL360, Xeon E5-2680v4 14C 2.4GHz, 10G Ethernet,                 HPE                Web Company (F)United States",31360,710.12,1204.22,
+271,"iDataPlex DX360M4, Intel Xeon E5-2680v2  10C 2.800GHz, Infiniband, NVIDIA K20x,                 Lenovo/IBM                Max-Planck-Gesellschaft MPI/IPPGermany",15840,709.7,1013.1,270
+272,"Huawei XH321 V3/XH620 V3 Cluster, Xeon E5-2680v4 14C 2.4GHz, Infiniband FDR,                 Huawei Technologies Co., Ltd.                Manufacturing Company CGermany",24136,709.14,926.82,296
+273,"Owens - Dell PowerEdge C6320/R730, Xeon E5-2680v4 14C 2.4GHz, Infiniband EDR,                 DELL EMC                Ohio Supercomputer CenterUnited States",22372,705.97,859.09,324
+274,"Tide - iDataPlex DX360M4, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 IBM                National Centers for Environment PredictionUnited States",37312,705.9,776.09,775
+275,"Gyre - iDataPlex DX360M4, Xeon E5-2670 8C 2.600GHz, Infiniband FDR,                 IBM                National Centers for Environment PredictionUnited States",37312,705.9,776.09,775
+276,"BEM - Actina Solar 820 S6, Xeon E5-2670v3/E5-2697v3 14C/12C 2.6/2.3GHz, Infiniband FDR,                 ACTION                Wroclaw Centre for Networking and SupercomputingPoland",22656,695.59,859.55,353
+277,"Cluster Platform DL360, Xeon E5-2673v3 12C 2.4GHz, 10G Ethernet,                 HPE                Software Company (M)United States",30600,695.36,1175.04,
+278,"Atipa HPC Linux Cluster, Xeon E5-2683 v4  16C 2.1GHz, Infiniband FDR,                 Atipa Technology                DOE/NNSA/Naval Nuclear LaboratoryUnited States",23168,692.07,778.45,285
+279,"Atipa HPC Linux Cluster, Xeon E5-2683 v4  16C 2.1GHz, Infiniband FDR,                 Atipa Technology                DOE/NNSA/Naval Nuclear LaboratoryUnited States",23168,692.07,778.45,285
+280,"Lenovo ThinkServer RD650, Xeon E5-2620v3 6C 2.4GHz, 10G Ethernet,                 Lenovo                Internet Service (B)China",60000,687.52,2304.0,3750
+281,"Thor - Cluster Platform 3000 BL460c Gen9, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR,                 HPE                US Air ForceUnited States",22560,686.48,902.4,1128
+282,"Occigen2 - bullx DLC 720, Xeon E5-2690v4 14C 2.6GHz, Infiniband FDR,                 Atos                Centre Informatique National (CINES)France",19488,685.99,810.7,
+283,"GALILEO - IBM NeXtScale nx360M4, Xeon E5-2630v3 8C 2.4GHz, Infiniband QDR, Intel Xeon Phi 7120P,                 IBM/Lenovo                CINECAItaly",50232,684.25,1103.07,2826
+284,"DH-DPSystem - HC2000 Cluster, Xeon E5-2620v3 6C 2.4GHz, 10G Ethernet, NVIDIA Tesla P4,                 Sugon                IT Service ProviderChina",36000,681.8,1382.4,1755
+285,"Apollo 6000 XL230a, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR,                 HPE                Energy CompanyUnited States",22368,680.64,894.72,1235
+286,"Lenovo x240 M5, Xeon E5-2690v3 12C 2.6GHz, Infiniband FDR,                 Lenovo                Nanjing UniversityChina",21504,679.87,894.57,672
+287,"CH121 V3 Cluster, Xeon E5-2680v3 12C 2.5GHz, 10G Ethernet,                 Huawei Technologies Co., Ltd.                Public Cloud Service BChina",34992,679.62,1399.68,552
+288,"IntelCluster - Sugon TC4600, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR/NVIDIA K40,                 Sugon                GovernmentChina",23520,672.6,940.8,411
+289,"Cluster Platform DL360, Xeon E5-2673v3 12C 2.4GHz, Infiniband FDR,                 HPE                Software Company (M)United States",24360,671.39,935.42,
+290,"Government K1 - Lenovo NeXtScale nx360M5, Xeon E5-2680v4 14C 2.4GHz, 10G Ethernet,                 Lenovo                GovernmentChina",36400,670.92,1397.76,
+291,"Cluster Platform DL360, Xeon E5-2660v3 10C 2.6GHz, 10G Ethernet,                 HPE                IT Services Provider United States",26740,666.33,1112.38,
+292,"Cluster Platform DL360, Xeon E5-2673v3 12C 2.4GHz, Infiniband FDR,                 HPE                Software Company (M)United States",24120,664.77,926.21,
+293,"Cluster Platform DL380, Xeon E5-2673v3 12C 2.4GHz, 10G Ethernet,                 HPE                Software Company (M)United States",26400,663.1,1013.76,880
+294,"Cluster Platform DL380, Xeon E5-2673v3 12C 2.4GHz, 10G Ethernet,                 HPE                Software Company (M)Netherlands",26400,663.1,1013.76,880
+295,"Cluster Platform DL360, Xeon E5-2673v3 12C 2.4GHz, Infiniband FDR,                 HPE                Software Company (M)United States",24048,662.79,923.44,
+296,"Lenovo RD940, Xeon E7-4850V2 12C 2.3GHz, 10G Ethernet,                 Lenovo                GovernmentChina",72000,662.4,1324.8,2250
+297,"Sugon TC6000, Intel Xeon E5-2450v2 8C 2.5GHz, 10G Ethernet,                 Sugon                Internet CompanyChina",52800,658.7,1056.0,990
+298,"Lenovo RD350, Xeon E5-2670v3 12C 2.3GHz, 10G Ethernet,                 Lenovo                Service Provider TChina",38400,658.51,1413.12,
+299,"Polytechnic RSC Tornado - RSC Tornado, Xeon E5-2697v3 14C 2.6GHz, Infiniband FDR,                 RSC Group                St. Petersburg Polytechnic UniversityRussia",19936,658.11,829.34,320
+300,"Apollo 6000 XL230a, Xeon E5-2680v3 12C 2.5GHz, Infiniband FDR,                 HPE                Manufacturing CompanyUnited States",21600,657.27,864.0,1193

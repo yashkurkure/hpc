@@ -1,0 +1,101 @@
+Rank,System,Cores,Rmax (TFlop/s),Rpeak (TFlop/s),Power (kW)
+1,"K computer, SPARC64 VIIIfx 2.0GHz, Tofu interconnect,                 Fujitsu                RIKEN Advanced Institute for Computational Science (AICS)Japan",705024,10510.0,11280.38,12660
+2,"Tianhe-1A - NUDT YH MPP, Xeon X5670 6C 2.93 GHz, NVIDIA 2050,                 NUDT                National Supercomputing Center in TianjinChina",186368,2566.0,4701.0,4040
+3,"Jaguar - Cray XT5-HE Opteron 6-core 2.6 GHz,                 Cray/HPE                DOE/SC/Oak Ridge National LaboratoryUnited States",224162,1759.0,2331.0,6950
+4,"Nebulae - Dawning TC3600 Blade System, Xeon X5650 6C 2.66GHz, Infiniband QDR, NVIDIA 2050,                 Sugon                National Supercomputing Centre in Shenzhen (NSCS)China",120640,1271.0,2984.3,2580
+5,"TSUBAME 2.0 - HP ProLiant SL390s G7 Xeon 6C X5670, Nvidia GPU, Linux/Windows,                 NEC/HPE                GSIC Center, Tokyo Institute of TechnologyJapan",73278,1192.0,2287.63,1399
+6,"Cielo - Cray XE6, Opteron 6136 8C 2.40GHz, Custom,                 Cray/HPE                DOE/NNSA/LANL/SNLUnited States",142272,1110.0,1365.81,3980
+7,"Pleiades - SGI Altix ICE 8200EX/8400EX, Xeon HT QC 3.0/Xeon 5570/5670 2.93 Ghz, Infiniband,                 HPE                NASA/Ames Research Center/NASUnited States",111104,1088.0,1315.33,4102
+8,"Hopper - Cray XE6, Opteron 6172 12C 2.10GHz, Custom,                 Cray/HPE                DOE/SC/LBNL/NERSCUnited States",153408,1054.0,1288.63,2910
+9,"Tera-100 - Bull bullx super-node S6010/S6030,                 Atos                Commissariat a l'Energie Atomique (CEA)France",138368,1050.0,1254.55,4590
+10,"Roadrunner - BladeCenter QS22/LS21 Cluster, PowerXCell 8i 3.2 Ghz / Opteron DC 1.8 GHz, Voltaire Infiniband,                 IBM                DOE/NNSA/LANLUnited States",122400,1042.0,1375.78,2345
+11,"Kraken XT5 - Cray XT5-HE Opteron Six Core 2.6 GHz,                 Cray/HPE                National Institute for Computational Sciences/University of TennesseeUnited States",112800,919.1,1173.0,3090
+12,"HERMIT - Cray XE6, Opteron 6276 16C 2.30 GHz, Cray Gemini interconnect,                 Cray/HPE                HWW/Universitaet StuttgartGermany",113472,831.4,1043.94,
+13,"JUGENE - Blue Gene/P Solution,                 IBM                Forschungszentrum Juelich (FZJ)Germany",294912,825.5,1002.7,2268
+14,"Sunway Blue Light - Sunway BlueLight MPP, ShenWei processor SW1600 975.00 MHz, Infiniband QDR,                 National Research Center of Parallel Computer Engineering & Technology                National Supercomputing Center in JinanChina",137200,795.9,1070.16,1074
+15,"Zin - Xtreme-X GreenBlade GB512X, Xeon E5 (Sandy Bridge - EP) 8C 2.60GHz, Infiniband QDR,                 Cray/HPE                Lawrence Livermore National LaboratoryUnited States",46208,773.7,961.13,924
+16,"Tianhe-1A Hunan Solution - NUDT YH MPP, Xeon X5670 6C 2.93 GHz, Proprietary, NVIDIA 2050,                 NUDT                National Super Computer Center in HunanChina",53248,771.7,1342.75,1155
+17,"Sequoia - BlueGene/Q, Power BQC 16C 1.60 GHz, Custom,                 IBM                DOE/NNSA/LLNLUnited States",65536,677.1,838.86,341
+18,"Lomonosov - T-Platforms T-Blade2/1.1, Xeon X5570/X5670 2.93 GHz, Nvidia 2070 GPU, Infiniband QDR,                 T-Platforms                Moscow State University - Research Computing CenterRussia",33072,674.11,1373.06,2800
+19,"HECToR - Cray XE6, Opteron 6276 16C 2.30 GHz, Cray Gemini interconnect,                 Cray/HPE                University of EdinburghUnited Kingdom",90112,660.24,829.03,
+20,"Gaea C2 - Cray XE6, Opteron 6276 16C 2.30GHz, Cray Gemini interconnect,                 Cray/HPE                NOAA/Oak Ridge National LaboratoryUnited States",77824,565.7,715.98,972
+21,"Mole-8.5 - Mole-8.5 Cluster, Xeon X5520 4C 2.27 GHz, Infiniband QDR, NVIDIA 2050,                 IPE, Nvidia, Tyan                Institute of Process Engineering, Chinese Academy of SciencesChina",29440,496.5,1012.65,540
+22,"BlueGene/L - eServer Blue Gene Solution,                 IBM                DOE/NNSA/LLNLUnited States",212992,478.2,596.38,2329
+23,"Intrepid - Blue Gene/P Solution,                 IBM                DOE/SC/Argonne National LaboratoryUnited States",163840,458.61,557.06,1260
+24,"Red Sky - Sun Blade x6275, Xeon X55xx 2.93 Ghz, Infiniband,                 Oracle                Sandia National Laboratories / National Renewable Energy LaboratoryUnited States",42440,433.5,497.4,4344
+25,"Ranger - SunBlade x6420, Opteron QC 2.3 Ghz, Infiniband,                 Oracle                Texas Advanced Computing Center/Univ. of TexasUnited States",62976,433.2,579.38,2000
+26,"Dawn - Blue Gene/P Solution,                 IBM                DOE/NNSA/LLNLUnited States",147456,415.7,501.35,1134
+27,"Manny - Bullx B510, Xeon E5 (Sandy Bridge - EP) 8C 2.70GHz, Infiniband QDR,                 Atos                BullFrance",20480,360.87,442.37,
+28,"Helios - Bullx B510, Xeon E5 (Sandy Bridge - EP) 8C 2.70GHz, Infiniband QDR,                 Atos                International Fusion Energy Research Centre (IFERC), EU(F4E) - Japan Broader Approach collaborationJapan",20480,360.87,442.37,
+29,"BlueGene/Q, Power BQC 16C 1.60 GHz, Custom,                 IBM                IBM RochesterUnited States",32768,339.83,419.43,170
+30,"Raptor - Cray XE6 8-core 2.4 GHz,                 Cray/HPE                Air Force Research LaboratoryUnited States",42712,336.3,410.04,
+31,"Haeon - Cray XE6 12-core 2.1 GHz,                 Cray/HPE                Korea Meteorological AdministrationSouth Korea",45120,316.4,379.01,1712
+32,"Haedam - Cray XE6 12-core 2.1 GHz,                 Cray/HPE                Korea Meteorological AdministrationSouth Korea",45120,316.4,379.01,1712
+33,"LOEWE-CSC - Supermicro Cluster, QC Opteron 2.1 GHz, ATI Radeon GPU, Infiniband,                 Clustervision/Supermicro                Universitaet FrankfurtGermany",16368,299.3,508.5,417
+34,"Monte Rosa - Cray XE6, Opteron 6272 16C 2.10 GHz, Cray Gemini interconnect,                 Cray/HPE                Swiss National Supercomputing Centre (CSCS)Switzerland",47872,297.0,402.12,
+35,"Cray XE6 12-core 2.2 GHz,                 Cray/HPE                GovernmentUnited States",45504,295.5,400.44,1726
+36,"JUROPA - Sun Constellation, NovaScale R422-E2, Intel Xeon X5570, 2.93 GHz, Sun M9/Mellanox  QDR Infiniband/Partec Parastation,                 Atos                Forschungszentrum Juelich (FZJ)Germany",26304,274.8,308.28,1549
+37,"TachyonII - Sun Blade x6048,  X6275, IB QDR M9 switch, Sun HPC stack Linux edition,                 Oracle                KISTI Supercomputing CenterSouth Korea",26232,274.8,307.44,1275
+38,"Franklin - Cray XT4 QuadCore 2.3 GHz,                 Cray/HPE                DOE/SC/LBNL/NERSCUnited States",38642,266.3,355.51,1150
+39,"Lonestar 4 - Dell PowerEdge M610 Cluster, Xeon 5680 3.3Ghz, Infiniband QDR,                 DELL EMC                Texas Advanced Computing Center/Univ. of TexasUnited States",22656,251.8,301.78,
+40,"HP POD - Cluster Platform 3000 BL260c G6, X5675 3.06 GHz, Infiniband,                 HPE                AirbusFrance",24192,243.9,296.11,
+41,"Rackable C2112-4G3 Cluster, Opteron 12 Core 2.10 GHz, Infiniband QDR,                 HPE                Calcul Canada/Calcul Québec/Université de SherbrookeCanada",37728,240.3,316.92,
+42,"Amazon EC2 Cluster Compute Instances - Amazon EC2 Cluster, Xeon 8C 2.60GHz, 10G Ethernet,                 Self-made                Amazon Web ServicesUnited States",17024,240.09,354.1,
+43,"Jade - SGI Altix ICE 8200EX, Xeon E5472 3.0/X5560 2.8 GHz,                 HPE                Grand Equipement National de Calcul Intensif - Centre Informatique National de l'Enseignement Suprieur (GENCI-CINES)France",23040,237.8,267.88,1064
+44,"Lindgren - Cray XE6, Opteron 12 Core 2.10 GHz, Custom,                 Cray/HPE                KTH - Royal Institute of TechnologySweden",36384,237.2,305.63,
+45,"Luna - Xtreme-X GreenBlade GB512X, Xeon E5 (Sandy Bridge - EP) 8C 2.60GHz, Infiniband QDR,                 Cray/HPE                Los Alamos National LaboratoryUnited States",14080,236.1,292.86,282
+46,"Mustang - Xtreme-X 1320H-LANL, Opteron 12 Core 2.30 GHz, Infiniband QDR,                 Cray/HPE                Los Alamos National LaboratoryUnited States",37056,230.6,340.92,540
+47,"RWTH Compute Cluster (RCC) - Bullx B500 Cluster, Xeon X56xx 3.06Ghz, QDR Infiniband,                 Atos                Universitaet Aachen/RWTHGermany",25448,219.84,270.54,
+48,"Gordon - Xtreme-X GreenBlade GB512X, Xeon E5 (Sandy Bridge - EP) 8C 2.60GHz, Infiniband QDR,                 Cray/HPE                UCSD/San Diego Supercomputer CenterUnited States",12608,218.1,262.25,252
+49,"Tup - Cray XT6 12-core 2.1 GHz,                 Cray/HPE                INPE (National Institute for Space Research)Brazil",30720,205.1,258.05,
+50,"Sandia/Cray Red Storm - Cray XT3/XT4,                 Cray/HPE                Sandia National LaboratoriesUnited States",38208,204.2,284.0,2506
+51,"Gaea - Cray XT6-HE, Opteron 6100 12C 2.1GHz,                 Cray/HPE                NOAA/Oak Ridge National LaboratoryUnited States",30912,194.4,259.66,610
+52,"BX900 Xeon X5570 2.93GHz , Infiniband QDR,                 Fujitsu                Japan Atomic Energy Agency (JAEA)Japan",17072,191.4,200.08,831
+53,"Shaheen - Blue Gene/P Solution,                 IBM                King Abdullah University of Science and TechnologySaudi Arabia",65536,190.9,222.82,504
+54,"Carter - Cluster Platform 3000 SL6500, Xeon E5 (Sandy Bridge - EP) 8C 2.60GHz, FDR Infiniband,                 HPE                Purdue UniversityUnited States",10368,186.9,215.65,252
+55,"Power 775, POWER7 8C 3.83GHz, Custom,                 IBM                ECMWFUnited Kingdom",8192,185.1,251.4,501
+56,"Power 775, POWER7 8C 3.84 GHz, Custom,                 IBM                Environment CanadaCanada",8192,185.1,251.4,501
+57,"Power 775, POWER7 8C 3.84 GHz, Custom,                 IBM                Environment CanadaCanada",8192,185.1,251.4,501
+58,"Magic Cube - Dawning 5000A, QC Opteron 1.9 Ghz, Infiniband, Windows HPC 2008,                 Sugon                Shanghai Supercomputer CenterChina",30720,180.6,233.47,
+59,"Cluster Platform 3000 BL2x220, L54xx 2.5 Ghz, Infiniband,                 HPE                GovernmentFrance",24704,179.63,247.04,
+60,"ALPS - Acer AR585 F1 Cluster, Opteron 12C 2.2GHz, QDR infiniband,                 Acer Group                National Center for High Performance ComputingTaiwan",26244,177.1,231.86,
+61,"Chama - Xtreme-X GreenBlade GB512X, Xeon E5 (Sandy Bridge - EP) 8C 2.60GHz, Infiniband QDR,                 Cray/HPE                Sandia National LaboratoriesUnited States",9936,176.7,206.67,199
+62,"Power 775, POWER7 8C 3.84 GHz, Custom,                 IBM                United Kingdom Meteorological OfficeUnited Kingdom",7680,174.9,235.68,470
+63,"Power 775, POWER7 8C 3.84 GHz, Custom,                 IBM                United Kingdom Meteorological OfficeUnited Kingdom",7680,174.9,235.68,470
+64,"BlueGene/Q, Power BQC 16C 1.60 GHz, Custom,                 IBM                IBM Thomas J. Watson Research CenterUnited States",16384,172.49,209.72,85
+65,"BlueGene/Q, Power BQC 16C 1.60 GHz, Custom,                 IBM                Texas A&M UniversityUnited States",16384,172.49,209.72,85
+66,"Ivanhoe - iDataPlex, Xeon X56xx 6C 2.93 GHz, Infiniband,                 IBM                EDF R&DFrance",16320,168.8,191.27,510
+67,"GPC - iDataPlex, Xeon E55xx QC 2.53 GHz, GigE,                 IBM/Lenovo                SciNet/University of Toronto/Compute CanadaCanada",30240,168.6,306.03,869
+68,"Sierra - Dell Xanadu 3 Cluster, Xeon X5660 2.8 Ghz, QLogic InfiniBand QDR,                 DELL EMC                Lawrence Livermore National LaboratoryUnited States",21756,166.7,243.67,
+69,"Cray XT5 QC 2.4 GHz,                 Cray/HPE                GovernmentUnited States",20960,165.6,201.22,
+70,"iDataPlex DX360M3, Xeon X5670 6C 2.93 GHz, Infiniband QDR,                 IBM                Vestas Wind Systems A/SDenmark",15672,162.1,183.68,490
+71,"Zeus - SGI Altix ICE 8400EX, Xeon X56xx (Westmere-EP) 3.47 GHz, Infiniband QDR,                 HPE                NOAA Environmental Security Computer CenterUnited States",27648,161.8,382.65,
+72,"SGI Altix ICE 8400EX Xeon X5570 4-core 2.93 GHz, Infiniband,                 HPE                University of Tokyo/Institute for Solid State PhysicsJapan",15360,161.8,180.02,719
+73,"Diamond - SGI Altix ICR 8200 Enh. LX, Xeon X5560 2.8Ghz,                 HPE                ERDC DSRCUnited States",15360,160.2,172.03,774
+74,"Power 775, Power7 3.836 GHz,                 IBM                IBM Poughkeepsie Benchmarking CenterUnited States",6912,159.6,212.12,423
+75,"Tera-100 Hybrid - Bullx B505, Xeon E56xx (Westmere-EP) 2.40 GHz, Infiniband QDR,                 Atos                Commissariat a l'Energie Atomique (CEA)France",7020,154.0,274.56,
+76,"Garnet - Cray XE6 8-core 2.4 GHz,                 Cray/HPE                ERDC DSRCUnited States",20176,153.0,193.69,
+77,"VSC-2 - Megware Saxonid 6100, Opteron 8C 2.2 GHz, Infiniband QDR,                 MEGWARE                Vienna Scientific ClusterAustria",20776,152.9,182.83,430
+78,"MRI - PowerEdge C6100 Cluster, Xeon X5660 2.8 Ghz, Infiniband,                 DELL EMC                University of ColoradoUnited States",15648,152.2,175.26,
+79,"HPC - PowerEdge 1950/SunFire X2200/IBM dx340/dx360/HP SL160/DL165, Xeon/Opteron 2.3-2.67GHz, Myrinet 10G,                 Dell/Sun/IBM                University of Southern CaliforniaUnited States",20925,149.9,196.47,
+80,"Hera - Cray XE6, Opteron 6272 16C 2.10 GHz, Cray Gemini interconnect,                 Cray/HPE                Cray Inc.United States",23104,146.0,194.07,
+81,"Sunway 4000H Cluster, Xeon X56xx (Westmere-EP) 2.93 GHz, Infiniband QDR,                 National Research Center of Parallel Computer Engineering & Technology                GovernmentChina",14280,145.6,167.36,
+82,"iDataPlex DX360M3, Xeon E5645 6C 2.40 GHz, Infiniband QDR, NVIDIA 2070,                 IBM                CINECA / SCS - SuperComputing SolutionItaly",10240,142.7,293.17,160
+83,"Guillimin - iDataPlex DX360M3, Xeon 2.66, Infiniband,                 IBM                CLUMEQ - McGill UniversityCanada",14400,136.3,153.22,337
+84,"Encanto - SGI Altix ICE 8200, Xeon quad core 3.0 GHz,                 HPE                New Mexico Computing Applications Center (NMCAC)United States",14336,133.2,172.03,861
+85,"EKA - Cluster Platform 3000 BL460c, Xeon 53xx 3GHz, Infiniband,                 HPE                Computational Research Laboratories, TATA SONSIndia",14384,132.8,172.61,786
+86,"Juno - Appro XtremeServer 1143H, Opteron QC 2.2Ghz, Infiniband,                 Cray/HPE                Lawrence Livermore National LaboratoryUnited States",18224,131.6,162.2,1139
+87,"HP ProLiant SL390s G7 Xeon 6C X5650, Infiniband,                 HPE                Energy Company (A)Italy",15360,131.2,163.43,
+88,"Zeus - Cluster Platform 3000 BL 2x220, Xeon X5650 6C 2.66 GHz, Infiniband,                 HPE                CyfronetPoland",15264,128.79,162.41,
+89,"Cerrillos - BladeCenter QS22/LS21 Cluster, PowerXCell 8i 3.2 Ghz / Opteron DC 1.8 GHz, Infiniband,                 IBM                DOE/NNSA/LANLUnited States",14400,126.5,161.86,276
+90,"Jet - Raytheon/Aspen Cluster, Xeon X5560/X5650 2.8/2.66 Ghz, QDR Infinband,                 Raytheon/Aspen Systems                NOAA/Earth Science Research Laboratory/GSDUnited States",13732,126.5,148.12,
+91,"Vayu - Sun Blade x6048, Xeon X5570 2.93 Ghz, Infiniband QDR,                 Oracle                National Computational Infrastructure (NCI Australia)Australia",11936,126.4,139.89,
+92,"Cray XE6 12-core 2.1 GHz,                 Cray/HPE                University of ChicagoUnited States",17856,125.8,149.99,677
+93,"Blackthorn - Bullx B500 Cluster, Xeon X56xx 2.8Ghz, QDR Infiniband,                 Atos                AWEUnited Kingdom",12936,124.6,145.15,
+94,"Earth Simulator - SX-9/E/1280M160,                 NEC                Japan Agency for Marine-Earth Science and TechnologyJapan",1280,122.4,131.07,
+95,"Hitachi SR16000 Model M1/176, POWER7 8C 3.83 GHz, Custom,                 Hitachi                Information Initiative Center, Hokkaido UniversityJapan",5504,121.6,168.91,
+96,"HokieSpeed - SuperServer  2026GT-TRF, Xeon E5645 6C 2.40GHz, Infiniband QDR, NVIDIA 2050,                 Supermicro                Virginia TechUnited States",8320,120.4,238.2,126
+97,"Blue Gene/P Solution,                 IBM                IDRISFrance",40960,119.31,139.26,315
+98,"Power 575, p6 4.7 GHz, Infiniband,                 IBM                ECMWFUnited Kingdom",8320,115.9,156.42,1329
+99,"Power 575, p6 4.7 GHz, Infiniband,                 IBM                ECMWFUnited Kingdom",8320,115.9,156.42,1329
+100,"Power 575, p6 4.7 GHz, Infiniband,                 IBM                DKRZ - Deutsches KlimarechenzentrumGermany",8064,115.9,151.6,1288
