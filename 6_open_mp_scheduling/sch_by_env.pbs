@@ -1,0 +1,15 @@
+#!/bin/bash
+#PBS -N sch_by_env
+#PBS -q edu_shared
+#PBS -l nodes=1:ppn=4
+
+cd $PBS_O_WORKDIR
+
+export OMP_NUM_THREADS=4
+export OMP_SCHEDULE=static,3
+
+echo -e "Starting job on $(hostname) at $(date) \n\n"
+
+./sch_by_env
+
+echo -e "Job completed at $(date)"

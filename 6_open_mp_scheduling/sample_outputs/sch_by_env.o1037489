@@ -1,0 +1,24 @@
+Starting job on compute-0-33.extreme at Thu Mar  2 12:59:08 CST 2023 
+
+
+Thread 0 is running number 0
+Thread 0 is running number 1
+Thread 0 is running number 2
+Thread 0 is running number 12
+Thread 0 is running number 13
+Thread 0 is running number 14
+Thread 2 is running number 6
+Thread 2 is running number 7
+Thread 2 is running number 8
+Thread 2 is running number 18
+Thread 2 is running number 19
+Thread 1 is running number 3
+Thread 1 is running number 4
+Thread 1 is running number 5
+Thread 1 is running number 15
+Thread 1 is running number 16
+Thread 1 is running number 17
+Thread 3 is running number 9
+Thread 3 is running number 10
+Thread 3 is running number 11
+Job completed at Thu Mar  2 12:59:08 CST 2023
