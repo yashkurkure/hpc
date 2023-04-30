@@ -1,0 +1,16 @@
+#!/bin/bash
+#PBS -N avg                	# Job name
+#PBS -l nodes=6:ppn=2         		# Number of nodes and processes per node
+#PBS -l walltime=00:10:00     		# Walltime limit
+#PBS -q edu_shared            		# Queue name
+#PBS -o run-${PBS_JOBID%%.*}.out	# Output file name with job number only
+#PBS -e run-${PBS_JOBID%%.*}.err	# Error file name with job number only
+
+# Change to the working directory
+cd $PBS_O_WORKDIR
+
+# Load the OpenMPI module
+module load OpenMPI
+
+# Run the hello_world executable with mpirun
+mpirun -np $PBS_NUM_NODES ./main
